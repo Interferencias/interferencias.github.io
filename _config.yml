@@ -1,3 +1,7 @@
+name: Interferencias
+
+baseurl: /
+
 exclude:
   - LICENSE
   - README.md
