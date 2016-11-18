@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ page.title }}{% if page.title %} - {% endif %}Interferencias</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/stylesheets/normalize.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/stylesheets/default.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ site.baseurl }}">{{ site.name }}</a></h1>
+        <nav>
+          {% for pg in site.pages %}
+          <a href="{{ pg.url }}">{{ pg.title }}</a>
+          {% endfor %}
+        </nav>
+      </header>
+
+      <div class="content">
+        {{ content }}
+      </div>
+
+      <footer>
+        somos ruido
+      </footer>
+    </div>
+  </body>
+</html>

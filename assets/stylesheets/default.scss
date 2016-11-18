@@ -1,0 +1,55 @@
+---
+---
+/*********************************
+Variables:
+ * content width
+ * color palette
+*********************************/
+$width: 500px;
+$bg0: #ffffff;
+$bg1: #c0e0c0;
+$fg0: #000000;
+$fg1: #406040;
+
+/*********************************
+Page layout:
+ * wrapper
+ * header
+ * content
+ * footer
+*********************************/
+.wrapper {
+    max-width: $width;
+    margin: 0 1rem 0 3rem;
+
+    header {
+
+    }
+
+    .content {
+
+    }
+
+    footer {
+        margin: 1rem 0;
+        padding: 1rem 0;
+        border-top: 1px solid $bg1;
+    }
+}
+
+
+/*********************************
+General styles
+*********************************/
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
+}
+a {
+    color: $fg0;
+    &:hover {
+        color: $fg1;
+    }
+}
+hr {
+    opacity: 0.1;
+}
