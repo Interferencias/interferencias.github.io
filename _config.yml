@@ -2,6 +2,12 @@ name: Interferencias
 
 baseurl: /
 
+nav:
+  - /info
+  - /contact
+  - /join
+  - /links
+
 exclude:
   - LICENSE
   - README.md
