@@ -1,7 +1,7 @@
 ---
-title: "Información básica / Basic info"
 permalink: /info
 layout: page
+title: información básica / basic info
 ---
 
 **Interferencias** es un grupo sin ánimo de lucro que pretende reunir a una serie de personas interesadas en:
