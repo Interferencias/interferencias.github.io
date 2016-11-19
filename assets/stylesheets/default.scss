@@ -17,6 +17,7 @@ Page layout:
  * wrapper
    * header
    * content
+   * pagination
    * footer
 *********************************/
 .wrapper {
@@ -49,6 +50,24 @@ Page layout:
 
     }
 
+    nav.pagination {
+        margin: 3rem 0 0;
+        font-size: 0;
+
+        .pagination-item {
+            font-size: 1rem;
+            display: inline-block;
+            text-align: center;
+            width: 50%;
+            box-sizing: border-box;
+
+            &.disabled {
+                color: mix($bg0, $fg0, 70%);
+                cursor: default;
+            }
+        }
+    }
+
     footer {
         margin: 3rem 0 1rem;
         padding: 1rem 0;
@@ -72,6 +91,7 @@ General styles
 *********************************/
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
+    line-height: 1.3;
 }
 a {
     color: $fg0;
@@ -79,12 +99,32 @@ a {
         background: $bg1;
     }
 }
-hr {
-    opacity: 0.1;
+
+.content {
+    hr {
+        opacity: 0.1;
+    }
+    img {
+        max-width: 100%;
+    }
 }
 
 @media screen and (max-width: $width) {
     h1 {
         font-size: 1.5rem;
+    }
+}
+
+/*******************************
+Post styles
+*******************************/
+article {
+    h1.post-title {
+        a:before {
+            content: "∞";
+            display: inline-block;
+            width: 2rem;
+            margin-left: -2rem;
+        }
     }
 }

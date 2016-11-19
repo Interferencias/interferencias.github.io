@@ -2,6 +2,13 @@ name: Interferencias
 
 baseurl: /
 
+gems:
+  - jekyll-paginate
+
+paginate: 4
+
+permalink: pretty
+
 nav:
   - /info
   - /contact
