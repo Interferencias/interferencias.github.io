@@ -6,10 +6,11 @@ Variables:
  * color palette
 *********************************/
 $width: 36em;
+$accent: #61B55C;
 $bg0: #ffffff;
-$bg1: #c0e0c0;
+$bg1: mix($bg0, $accent, 50%);
 $fg0: #000000;
-$fg1: #406040;
+$fg1: #555555;
 
 /*********************************
 Page layout:
@@ -24,6 +25,24 @@ Page layout:
 
     header {
         margin: 1rem 0 3rem;
+
+        h1 {
+            a {
+                text-decoration: none;
+                display: block;
+                line-height: 1;
+                img {
+                    height: 4rem;
+                    vertical-align: middle;
+                }
+            }
+        }
+
+        nav {
+            a {
+                margin-right: 1rem;
+            }
+        }
     }
 
     .content {
@@ -37,6 +56,16 @@ Page layout:
     }
 }
 
+@media screen and (max-width: $width) {
+    .wrapper {
+        header {
+            h1 a img {
+                height: 2.5rem;
+            }
+        }
+    }
+}
+
 
 /*********************************
 General styles
@@ -47,9 +76,15 @@ body {
 a {
     color: $fg0;
     &:hover {
-        color: $fg1;
+        background: $bg1;
     }
 }
 hr {
     opacity: 0.1;
+}
+
+@media screen and (max-width: $width) {
+    h1 {
+        font-size: 1.5rem;
+    }
 }
