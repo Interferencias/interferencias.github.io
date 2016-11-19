@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Telegram
+title: What about privacy?
 author: paula
 ---
-## What about privacy?
 
 ### _(prī′və-sē)_
 
