@@ -10,7 +10,7 @@ $accent: #61B55C;
 $bg0: #ffffff;
 $bg1: mix($bg0, $accent, 50%);
 $fg0: #000000;
-$fg1: #555555;
+$fg1: #707070;
 
 /*********************************
 Page layout:
@@ -125,6 +125,14 @@ article {
             display: inline-block;
             width: 2rem;
             margin-left: -2rem;
+        }
+    }
+    .post-data {
+        margin-top: 1.5rem;
+        text-align: right;
+        color: $fg1;
+        a {
+            color: $fg1;
         }
     }
 }
