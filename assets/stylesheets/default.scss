@@ -5,7 +5,7 @@ Variables:
  * content width
  * color palette
 *********************************/
-$width: 500px;
+$width: 36em;
 $bg0: #ffffff;
 $bg1: #c0e0c0;
 $fg0: #000000;
@@ -14,16 +14,16 @@ $fg1: #406040;
 /*********************************
 Page layout:
  * wrapper
- * header
- * content
- * footer
+   * header
+   * content
+   * footer
 *********************************/
 .wrapper {
     max-width: $width;
     margin: 0 1rem 0 3rem;
 
     header {
-
+        margin: 1rem 0 3rem;
     }
 
     .content {
@@ -31,7 +31,7 @@ Page layout:
     }
 
     footer {
-        margin: 1rem 0;
+        margin: 3rem 0 1rem;
         padding: 1rem 0;
         border-top: 1px solid $bg1;
     }
