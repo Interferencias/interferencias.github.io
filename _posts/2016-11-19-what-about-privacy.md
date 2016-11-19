@@ -3,9 +3,9 @@ layout: post
 title: Telegram
 author: paula
 ---
-##What about privacy?
+## What about privacy?
 
-###_(prī′və-sē)_
+### _(prī′və-sē)_
 
 >The state of being free from public attention or unsanctioned intrusion: a person’s right to privacy.
 
