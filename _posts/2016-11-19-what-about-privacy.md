@@ -11,7 +11,7 @@ author: paula
 
 So yes, this is not a matter of data importance, or a matter of _“do anyone even care”_, is a matter of rights. Today I’m talking about Privacy Politics and acceptance of Terms without reading them.
 
-**Privacy Politics** and Terms of use are a necessary weapon of apps and programs online and offline in order to cover themselves in case of pursuing. It’s also important so they can tell the users their way of act and _manifesto_. But, many of them are very long (not like they want them to look boring or anything -that might be, in some cases- but because they have to clarify many aspects).
+**Privacy Policies** and Terms of use are a necessary weapon of apps and programs online and offline in order to cover themselves in case of pursuing. It’s also important so they can tell the users their way of act and _manifesto_. But, many of them are very long (not like they want them to look boring or anything -that might be, in some cases- but because they have to clarify many aspects).
 
 We all have the sin of not have read (or even for some, not read at all) the terms of use and privacy policy of stuff before download it. Probably your life wont change too much, but hey, it’s your privacy we are talking about, so be careful.
 
