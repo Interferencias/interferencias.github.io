@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What about privacy?
+title: Taller de anonimato
 author: paula
 ---
 
