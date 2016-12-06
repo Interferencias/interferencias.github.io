@@ -1,3 +1,9 @@
+---
+layout: post
+title: What about privacy?
+author: paula
+---
+
 #Taller de anonimato
 
 El próximo **miércoles 14 de dicienbre** en la ETSIIT (escuela técnica superior de ingeniería informtica) a las **12:30** en el la **sala de usos múltiples** haremos un taller de anonimato impartido por [German](https://twitter.com/germaaan_) y [yo](https://twitter.com/Terceranexus6). 
