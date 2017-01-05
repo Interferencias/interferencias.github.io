@@ -17,10 +17,15 @@ Queremos sacar adelante nuestro canal de youtube o incluso hemos pensado **migra
 Otra idea interesante, es que en las reuniones a veces comentamos libros o recursos interesantes. Una **bibliografía pública** en la web con todo esto podría ser interesante para mucha gente.
 
 Por lo pronto, algunas de las charlas y talleres que queremos lanzar _"pronto"_ son sobre:
+
 - Ettercap
+
 - Bitcoins
+
 - NFC y duplicación
+
 - Seguridad informática, TOR
+
 - Alternativas a los recursos de Google
 
 Finalmente cerramos la noche debatiendo algunos **temas de actualidad**, tales como el uso de 2FA(Two Factor Authentication) en Twitter, la perspectiva de Trump en su mandato sobre la tecnología (y su privacidad), Custom Border Protection, etc.
