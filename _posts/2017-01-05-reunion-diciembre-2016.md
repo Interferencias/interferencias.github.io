@@ -22,7 +22,9 @@ Por lo pronto, algunas de las charlas y talleres que queremos lanzar _"pronto"_ 
 
 - NFC y duplicación
 
-- Seguridad informática, TOR
+- Seguridad informática
+
+- TOR
 
 - Alternativas a los recursos de Google
 
