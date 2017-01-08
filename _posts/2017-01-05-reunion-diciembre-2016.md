@@ -4,8 +4,6 @@ title: Resumen reunión de diciembre de 2016
 author: paula
 ---
 
-# Resumen de la reunión de diciembre de 2016
-
 El 17 de diciembre de tuvimos la última reunión del año y se trataron varios temas, principalmente se dieron ideas de actividades, eventos y charlas para el nuevo año.
 
 Una de las ideas principales que surgió, fue hacer una serie de **ciclos formativos** con charlas tipo TED y talleres de diferentes niveles, tanto para gente que no tenga una base sólida en informática como para los que tengan algunos conocimientos técnicos.
