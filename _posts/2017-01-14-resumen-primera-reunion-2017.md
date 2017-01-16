@@ -1,6 +1,6 @@
 ---
 layout: post
-title: resumen reunion enero
+title: Resumen de la reunión de enero
 author: paula
 ---
 
