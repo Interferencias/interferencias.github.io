@@ -11,8 +11,8 @@ La reunión de interferencias de Febrero se realizó el pasado 4 de febrero. En 
 
 Hablamos de las próximas charlas pendientes y modificamos un par de fechas. A recordar:
 
-- 20 de febrero charla de Introducción a la privacidad, en ciencias por la tarde y una segunda en la ETSIIT pendiente de concretar.
-- 2 de marzo charla de TOR
+- 10 de febrero charla de Introducción a la privacidad, en ciencias por la tarde y una segunda en la ETSIIT el día 20.
+- 22 de febrero charla de TOR
 
 Uno de los miembros ya tenía montado un [PODCAST](http://www.ivoox.com/podcast-computinglife_sq_f1362921_1.html), así que pensamos quedar pronto para grabar uno. También tenemos pensado contactar con un profesor para una entrevista.
 
