@@ -24,4 +24,4 @@ La primera charla va a tratar sobre conocimientos básicos que deberías tener p
 
 ![cartel_privacidad]({{ "/assets/images/cartel_privacidad.png" }})
 
-No sería coherente tener que registrarse para asistir a la charla, por lo que el registro no es necesario y la asistencia es totalmente libre, sin embargo, esta y otras actividades también son anunciadas en Meetup: https://www.meetup.com/es-ES/Granada-Geek/events/237510170/
+No sería coherente tener que registrarse para asistir a la charla, por lo que el registro no es necesario y la asistencia es totalmente libre, sin embargo, esta y otras actividades también son anunciadas en Meetup: [https://www.meetup.com/es-ES/Granada-Geek/events/237510170/](https://www.meetup.com/es-ES/Granada-Geek/events/237510170/)
