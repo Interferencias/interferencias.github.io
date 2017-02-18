@@ -22,6 +22,6 @@ La primera charla va a tratar sobre conocimientos básicos que deberías tener p
 
 • ¿De quién debemos defendernos? ¿Qué herramientas tenemos para ello? Costumbres básicas sobre privacidad, recursos (p. ej. [Tor](https://www.torproject.org/)). ¿Quién está de nuestro lado? [FSF](https://www.fsf.org/es), [EFF](https://www.eff.org/es)...
 
-![cartel_privacidad]({{ "/assets/images/cartel_privacidad.png" }})
+![cartel_privacidad]({{ "/assets/images/cartel_privacidad_ciencias.png" }})
 
 No sería coherente tener que registrarse para asistir a la charla, por lo que el registro no es necesario y la asistencia es totalmente libre, sin embargo, esta y otras actividades también son anunciadas en Meetup: [https://www.meetup.com/es-ES/Granada-Geek/events/237510170/](https://www.meetup.com/es-ES/Granada-Geek/events/237510170/)
