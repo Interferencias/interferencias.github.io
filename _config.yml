@@ -19,6 +19,9 @@ authors:
   paula:
     name: Paula
     link: "https://github.com/terceranexus6"
+  germaaan:
+    name: germaaan
+    link: "https://github.com/germaaan"
 
 exclude:
   - LICENSE
