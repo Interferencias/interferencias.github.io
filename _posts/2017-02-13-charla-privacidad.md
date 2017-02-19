@@ -4,8 +4,6 @@ title: Te espían, te estudian, te controlan: dale importancia a tu privacidad e
 author: germaaan
 ---
 
-# Te espían, te estudian, te controlan: dale importancia a tu privacidad en la red
-
 **miércoles 15 de febrero de 2017**
 **18:00 - 19:00**
 **Facultad de Ciencias**
