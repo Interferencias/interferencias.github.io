@@ -4,6 +4,7 @@ baseurl: /
 
 gems:
   - jekyll-paginate
+  - jekyll-feed
 
 paginate: 4
 
