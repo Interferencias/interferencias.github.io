@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Te espían, te estudian, te controlan: dale importancia a tu privacidad en la red
+title: Te espían, te estudian, te controlan, dale importancia a tu privacidad en la red
 author: germaaan
 ---
 
