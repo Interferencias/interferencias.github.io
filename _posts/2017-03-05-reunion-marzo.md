@@ -10,4 +10,10 @@ También como el grupo cada vez es más numeroso y de puntos geográficos bastan
 
 ¡Estáis todos invitados!
 
+**Fecha: 11 de marzo**
+
+**Hora: 20:30**
+
+**Lugar: Continental Café Pub Granada. Calle Seminario, 11, Granada.**
+
 #somosruido
