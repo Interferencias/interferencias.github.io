@@ -3,9 +3,10 @@ layout: post
 title: Sina Weibo y la censura de internet en China
 author: paula
 ---
-**Sina Weibo y la censura en China**
 
 ![](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F6%2F6e%2FSina_Weibo.svg%2F1024px-Sina_Weibo.svg.png&f=1)
+
+**Sina Weibo y la censura de internet en China**
 
 **Sina Weibo** (generalmente llamada [Weibo](http://www.weibo.com)) es una red social de microblogging (con una filosofía similar a la de twitter) en la que millones de personas publican contenido a diario. 
 
@@ -24,3 +25,5 @@ Se cree que tanto Sina Weibo como otras alternativas similares son una forma de 
 La moda de escribir mucho en poco y la simpleza de expresión, digamos, por ejemplo, en 140 caracteres, puede considerarse en sí un modo de adecuar la mente a la cultura de lo inmediato.
 
 En conclusión, el derecho a la libertad de expresión es algo tan fundamental que, cuando vemos que es capado, nos salta cierta inquietud. Puede que sea prudente mantener ese criterio tan exigente en nuestro día a día, en *nuestras* redes sociales.
+
+![](https://github.com/Interferencias/interferencias.github.io/blob/master/images/2017-03-23--1490269397_1368x768_scrot.png)
