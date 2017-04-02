@@ -4,7 +4,7 @@ layout: page
 title: Información básica / Basic info
 ---
 
-**Interferencias** es un grupo sin ánimo de lucro que pretende reunir a una serie de personas interesadas en:
+**Interferencias** es un grupo ciberactivista sin ánimo de lucro que pretende reunir a una serie de personas interesadas en:
 
 - Privacidad
 - Vigilancia masiva
@@ -15,10 +15,12 @@ Y derivados, con la idea de compartir experiencias, hacer mesas redondas y parti
 
 Este grupo está asociado a la [EFF](https://www.eff.org) y más concretamente a la [Electronic Frontier Alliance](https://www.eff.org/fight) para activismo estudiantil.
 
-correo para más información: **interferencias@protonmail.com**
+Puedes escribirnos por correo para más información: [interferencias@protonmail.com](mailto:interferencias@protonmail.com)
+
+También puedes unirte a nuestro grupo de Telegram, que es el medio de comunicación más directo que usamos: [https://t.me/inter_ferencias](https://t.me/inter_ferencias)
 
 ---
-**Interferencias** is a nonprofit group dedicated in bring together people interested in:
+**Interferencias** is a nonprofit cyberactivist group dedicated in bring together people interested in:
 
 - Privacy
 - Massive Surveillance
@@ -29,4 +31,6 @@ And related, with the idea of sharing experiences, discuss and actively particip
 
 This group is associated with [EFF](https://www.eff.org) and [Electronic Frontier Alliance](https://www.eff.org/fight) for Student Activism.
 
-mail for more information: **interferencias@protonmail.com**
+You can mail us for more information: [interferencias@protonmail.com](mailto:interferencias@protonmail.com)
+
+You can also join our group Telegram, which is the most direct means of communication that we use:  [https://t.me/inter_ferencias](https://t.me/inter_ferencias)

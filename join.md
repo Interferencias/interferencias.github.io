@@ -12,13 +12,15 @@ Si no te interesa unirte por correo, igualmente se anunciarán eventos por la we
 
 La información enviada al correo es completamente confidencial y no será cedida ni vendida a terceros.
 
+De igual forma, si estás interesado en participar activamente en el grupo tenemos un grupo público de Telegram que usamos habitualmente como el canal de comunicación más directo:  [https://t.me/inter_ferencias](https://t.me/inter_ferencias)
+
 ### ¿Te interesa escribir contenido?
 
 Si es así, primero muchas gracias. Escribe en el asunto **POSTS** y en el contenido pon el texto/artículo/opinión/arte y un nombre/nick (a falta de este dato se firmará como “anónimo”).
 
 ### Y, ¿qué puede publicarse?
 
-cualquier contenido, opinión (siempre y cuando [**siga estas normas**](/rules)), información, noticias, arte, cualquier cosa que tenga relación con temas de privacidad, derechos en internet, vigilancia masiva, etc. Pueden ser en Inglés o en español. Por ahora sólo publicamos en esos dos idiomas.
+Cualquier contenido, opinión (siempre y cuando [**siga estas normas**](/rules)), información, noticias, arte, cualquier cosa que tenga relación con temas de privacidad, derechos en internet, vigilancia masiva, etc. Pueden ser en Inglés o en español. Por ahora sólo publicamos en esos dos idiomas.
 
 ### Resido en Granada
 
@@ -32,7 +34,9 @@ For joining, simply send a mail to **interferencias@protonmail.com** named **JOI
 
 If you are not interested in joining the mail list, the important information will be also posted online here.
 
-information given to the mail is completely confidential and WILL NOT be shared with third parties.
+Information given to the mail is completely confidential and WILL NOT be shared with third parties.
+
+Likewise, if you are interested in actively participating in the group we have a public group of telegrams that we usually use as the most direct communication channel:  [https://t.me/inter_ferencias](https://t.me/inter_ferencias)
 
 ### Interested in writing posts?
 
@@ -40,4 +44,4 @@ If so, firstly, thank you. Write a mail named "**POSTS**" and in the content, wr
 
 ### what can be posted?
 
-any content, opinion (always [**following the rules**](/rules)), information, news, art, anything related to privacy, internet rights, massive surveillance, etc. Can be both in Spanish and English.  For now, we will be supporting only those two.
+Any content, opinion (always [**following the rules**](/rules)), information, news, art, anything related to privacy, internet rights, massive surveillance, etc. Can be both in Spanish and English.  For now, we will be supporting only those two.
