@@ -18,7 +18,7 @@ Por ello, hemos decidido crear este apartado, donde describimos la organización
 
 Cualquier grupo de Interferencias debe tener como objetivo tratar los temas clave: **Privacidad, derechos digitales, ciberseguridad** y relacionados, ¡estos temas abarcan un rango muy amplio de acción! A veces el grupo se alía con otros similares para crear más movimiento, tenemos una ideología **colaborativa**. 
 
-Es importante que los grupos que se creen de Interferencias sean **respetuosos**, y no atenten contra ninguna religión, raza, género, o tendencia sexual. Queremos que el grupo y todos sus derivados sean **inclusivos** con cualquier persona, y apoyamos abiertamente a los colectivos que defiendan estas causas. De otro modo, Desvincularemos toda relación con el grupo.
+Es importante que los grupos que se creen de Interferencias sean **respetuosos**, y no atenten contra ninguna religión, raza, género, u orientación sexual. Queremos que el grupo y todos sus derivados sean **inclusivos** con cualquier persona, y apoyamos abiertamente a los colectivos que defiendan estas causas. De otro modo, Desvincularemos toda relación con el grupo.
 
 ![](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/images/interferenciasbanner3.png)
 
