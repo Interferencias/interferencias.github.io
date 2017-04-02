@@ -1,7 +1,7 @@
 ---
 permalink: /info
 layout: page
-title: información básica / basic info
+title: Información básica / Basic info
 ---
 
 **Interferencias** es un grupo ciberactivista sin ánimo de lucro que pretende reunir a una serie de personas interesadas en:

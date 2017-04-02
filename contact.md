@@ -1,7 +1,7 @@
 ---
 permalink: /contact
 layout: page
-title: contacto / contact
+title: Contacto / Contact
 ---
 
 [interferencias@protonmail.com](mailto:interferencias@protonmail.com)

@@ -1,7 +1,7 @@
 ---
 permalink: /links
 layout: page
-title: enlaces y recursos / links and resources
+title: Enlaces y recursos / Links and resources
 ---
 
 [TOR](https://www.torproject.org/) (navegador anónimo / anonymous browser)

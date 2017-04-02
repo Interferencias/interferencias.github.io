@@ -1,7 +1,7 @@
 ---
 permalink: /join
 layout: page
-title: cómo unirme / how to join
+title: Cómo unirme / How to join
 ---
 
 Si estás interesado en los temas nombrados en información, ¡únete! El grupo se encuentra actualmente en construcción, y es el mejor momento para hacerlo.
