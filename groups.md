@@ -8,7 +8,11 @@ title: Grupos y soporte / Groups and support
 
 El grupo de Interferencias se mueve principalmente en **Granada**, Andalucía, España. En esta ciudad organizamos eventos, charlas, talleres, reuniones y mucho más. Sin embargo, y aunque la página está abierta a todo el mundo, somos conscientes de que no hay mucho movimiento del grupo fuera de Granada. 
 
-Por ello, hemos decidido crear este apartado, donde describimos la organización básica del grupo para hacer eventos, e invitamos a seguidores de fuera de Granada a promover actividades similares a las que hacemos en la ciudad andaluza. **Aquí dejamos una pequeña guía**:
+Por ello, hemos decidido crear este apartado, donde describimos la organización básica del grupo para hacer eventos, e invitamos a seguidores de fuera de Granada a promover actividades similares a las que hacemos en la ciudad andaluza. 
+
+**¿Suena bien?** Genial, podéis registrar vuestro grupo al final de esta página. Pero antes, unas notas sobre los grupos de interferencias.
+
+**Aquí dejamos una pequeña guía**:
 
 ![](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/images/interferenciasbanner2.png)
 
@@ -27,10 +31,29 @@ Las actividades* del grupo suelen tener la siguiente división:
   
   - Organización de **talleres**: Los talleres tienen una filosofía parecida a las charlas, pero suelen durar algo más. En este caso, dependiendo del taller, puede ser que necesitéis materiales (ordenadores, por ejemplo), de nuevo las universidades son un buen recurso, y siempre indicar en la convocatoria estos requisitos. 
   
-## ¿Qué herrammientas podemos usar para las convocatorias?
+**¿Qué herrammientas podemos usar para las convocatorias?**
 
 Nosotros utilizamos [Twitter](www.twitter.com) y [Meetup](meetup.com), ya que gran parte de la comunidad informática en Granada se mueve en este entorno. Tenemos un grupo de Telegram
 
-(*) Éstas son las actividades comunes que realizamos en Granada, pero esta guía es flexible y abierta a otras actividades mientras sigan la línea de los temas. 
+(*)
+_Éstas son las actividades comunes que realizamos en Granada, pero esta guía es flexible y abierta a otras actividades mientras sigan la línea de los temas._
 
+# Estamos listos para empezar
 
+Si a tu grupo y a ti, os gusta la idea de organizar charlas y talleres, y estáis de acuerdo con los temas y la moral de interferencias, ¡adelante!
+
+Aquí dejamos algunos logos que podéis utilizar, además del nombre, también podéis imprimir estos pdf ([1](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/images/PEGATINAS1.pdf), [2](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/images/PEGATINAS2.pdf), [3](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/images/PEGATINAS3.pdf)) para hacer pegatinas. 
+
+![](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/assets/images/somosruidopg.png)
+![](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/assets/images/interferencias2.png)
+![](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/assets/images/interferenciaspe.png)
+![](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/assets/images/pega1.png)
+![](https://github.com/Interferencias/interferencias.github.io/blob/pruebas/assets/images/interferenciasp3.png)
+
+# Todo esto está genial, pero necesitamos algo más
+
+No hay problema, si tenéis alguna duda más, podéis mandar un correo a interferencias@protonmail.com, o preguntar en el [telegram](https://t.me/joinchat/AAAAAD_aL3kJS_nI3VAw8g) del grupo. 
+
+# Registro de grupos
+
+Nos gustaría seguir de cerca a nuestros grupos y apoyarlos en todo lo que podamos. [**Rellenad este formulario**](http://framaforms.org/grupos-de-interferencias-1491136485) para que nos sea posible reconoceros como grupo de interferencias. ¡Muchas gracias por vuestro interés!
