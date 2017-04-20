@@ -33,7 +33,7 @@ Las actividades* del grupo suelen tener la siguiente división:
 
 **¿Qué herrammientas podemos usar para las convocatorias?**
 
-Nosotros utilizamos [Twitter](www.twitter.com) y [Meetup](meetup.com), ya que gran parte de la comunidad informática en Granada se mueve en este entorno. Tenemos un grupo de Telegram
+Nosotros utilizamos nuestro [Twitter](https://twitter.com/Inter_ferencias) y este grupo en [Meetup](https://www.meetup.com/es-ES/Granada-Geek/), ya que gran parte de la comunidad informática en Granada se mueve en este entorno. También tenemos un grupo de [Telegram](http://t.me/inter_ferencias).
 
 (*)
 _Éstas son las actividades comunes que realizamos en Granada, pero esta guía es flexible y abierta a otras actividades mientras sigan la línea de los temas._
@@ -52,7 +52,7 @@ Aquí dejamos algunos logos que podéis utilizar, además del nombre, también p
 
 # Todo esto está genial, pero necesitamos algo más
 
-No hay problema, si tenéis alguna duda más, podéis mandar un correo a interferencias@protonmail.com, o preguntar en el [Telegram](t.me/inter_ferencias) del grupo.
+No hay problema, si tenéis alguna duda más, podéis mandar un correo a [interferencias@protonmail.com](mailto:interferencias@protonmail.com), o preguntar en el [Telegram](http://t.me/inter_ferencias) del grupo.
 
 # Registro de grupos
 
