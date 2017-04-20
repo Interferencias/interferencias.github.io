@@ -42,7 +42,7 @@ _Éstas son las actividades comunes que realizamos en Granada, pero esta guía e
 
 Si a tu grupo y a ti, os gusta la idea de organizar charlas y talleres, y estáis de acuerdo con los temas y la moral de interferencias, ¡adelante!
 
-Aquí dejamos algunos logos que podéis utilizar, además del nombre, también podéis imprimir estos PDFs ([1](![PEGATINAS1]({{ "/assets/images/PEGATINAS1.pdf" }}) ), [2](![PEGATINAS2]({{ "/assets/images/PEGATINAS2.pdf" }}) ), [3](![PEGATINAS3]({{ "/assets/images/PEGATINAS3.pdf" }}) )) para hacer pegatinas.
+Aquí dejamos algunos logos que podéis utilizar, además del nombre, también podéis imprimir estos PDFs ([1]({{ "/assets/pdfs/PEGATINAS1.pdf" }}), [2]({{ "/assets/pdfs/PEGATINAS2.pdf" }}), [3]({{ "/assets/pdfs/PEGATINAS3.pdf" }})) para hacer pegatinas.
 
 ![somosruidopg]({{ "/assets/images/somosruidopg.png" }})
 ![interferencias2]({{ "/assets/images/interferencias2.png" }})
