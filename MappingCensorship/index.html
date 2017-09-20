@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h5 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+    background-image: url('http://listofmaps.com/wp-content/uploads/2017/02/11326044f468e29058ce2779087e9778_clipart-world-map-world-map-clipart-black-and-white_2400-1291-1200x646.png');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-text-white">
+  <div class="w3-display-middle w3-jumbo">
+    <p>logo</p>
+  </div>
+  <div class="w3-display-topleft w3-container w3-xlarge">
+    <p><button onclick="document.getElementById('about').style.display='block'" class="w3-button w3-black">about</button></p>
+    <p><button onclick="document.getElementById('info').style.display='block'" class="w3-button w3-black">internet censorship</button></p>
+  </div>
+  <div class="w3-display-bottomleft w3-container">
+    <p class="w3-xlarge">defending digital rights from scrath</p>
+    <p class="w3-large">Interferencias + Open Source</p>
+    <p>powered by <a href="https://github.io/terceranexus6" target="_blank">Paula</a></p>
+  </div>
+</div>
+
+<!-- Menu Modal -->
+<div id="about" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-black w3-display-container">
+      <span onclick="document.getElementById('menu').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+      <h1>The app</h1>
+    </div>
+    <div class="w3-container">
+      <h5>The app is for the <b>Virtual Infrastructures</b> subject at the university of Granada. </h5>
+      <h5>It supposed to be a tool for Interferencias.</h5>
+    </div>
+    <div class="w3-container w3-black">
+      <h1>Purpose</h1>
+    </div>
+    <div class="w3-container">
+      <h5>Interactive map with information about internet censorship worldwide.</h5>
+      <h5>I want users to be able to comment on it, too.</h5>
+    </div>
+  </div>
+</div>
+
+<!-- Info Modal -->
+<div id="info" class="w3-modal">
+  <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-black">
+      <span onclick="document.getElementById('contact').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+      <h1>Internet Censorship: The information era enemy</h1>
+    </div>
+ 	<div class="w3-container">
+      <h5>Internet Censorship is one of the main problems of our society. Users around the world are suffering from it. The digital rights are being ignored in so many ways and us, as users and programmers, can work against this censorship.</h5>
+      
+    </div>
+      
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
