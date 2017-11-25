@@ -1,19 +1,16 @@
 # Menu navigation links
 
-- title: Información básica / Basic info
-  url: /info/
-
-- title: Contacto / Contact
-  url: /contact/
-
-- title: Cómo unirme / How to join
+- title: Unirme
   url: /join/
 
-- title: Enlaces y recursos / Links and resources
+- title: Normas
+  url: /rules/
+
+- title: Enlaces
   url: /links/
 
-- title: Grupos y soporte / Groups and support
+- title: Grupos
   url: /groups/
 
-- title: RSS feed
+- title: RSS
   url: /feed.xml

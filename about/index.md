@@ -1,32 +1,45 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: Contacto
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: header.png
 comments: false
-modified: 2016-02-01
+modified: 2016-11-25
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+**Interferencias** es un grupo ciberactivista sin ánimo de lucro que pretende reunir a una serie de personas interesadas en:
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+- Privacidad
+- Vigilancia masiva
+- Derechos en internet
+- Seguridad
 
-## HPSTR Features:
+Y derivados, con la idea de compartir experiencias, hacer mesas redondas y participar activamente en la defensa de los derechos en internet y la privacidad.
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+Este grupo está asociado a la [EFF](https://www.eff.org) y más concretamente a la [Electronic Frontier Alliance](https://www.eff.org/fight) para activismo estudiantil.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+Puedes escribirnos por correo para más información: [interferencias@protonmail.com](mailto:interferencias@protonmail.com)
 
-[^1]: Example: *domain.com/category-name/post-title*
+También puedes unirte a nuestro grupo de Telegram, que es el medio de comunicación más directo que usamos: [https://t.me/inter_ferencias](https://t.me/inter_ferencias)
+
+{% capture images %}
+  /images/qr_mail.png
+  /images/qr_telegram.png
+{% endcapture %}
+{% include gallery images=images cols=2 %}
+
+---
+**Interferencias** is a nonprofit cyberactivist group dedicated in bring together people interested in:
+
+- Privacy
+- Massive Surveillance
+- Internet Rights
+- Security
+
+And related, with the idea of sharing experiences, discuss and actively participate in privacy and internet rights.
+
+This group is associated with [EFF](https://www.eff.org) and [Electronic Frontier Alliance](https://www.eff.org/fight) for Student Activism.
+
+You can mail us for more information: [interferencias@protonmail.com](mailto:interferencias@protonmail.com)
+
+You can also join our group Telegram, which is the most direct means of communication that we use:  [https://t.me/inter_ferencias](https://t.me/inter_ferencias)

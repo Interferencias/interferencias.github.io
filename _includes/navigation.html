@@ -3,7 +3,7 @@
 	<ul class="dl-menu">
 		<li><a href="{{ site.url }}/">Inicio</a></li>
 		<li>
-			<a href="#">About</a>
+			<a href="#">Nosotros</a>
 			<ul class="dl-submenu">
 				<li>
 					<img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
@@ -32,7 +32,7 @@
 			</ul><!-- /.dl-submenu -->
 		</li>
 		<li>
-			<a href="#">Posts</a>
+			<a href="#">Entradas</a>
 			<ul class="dl-submenu">
 				<li><a href="{{ site.url }}/posts/">Posts</a></li>
 				<li><a href="{{ site.url }}/tags/">Tags</a></li>
@@ -44,7 +44,7 @@
 	        {% else %}
 	        {% assign domain = site.url %}
 	    {% endif %}
-	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{% if link.title == 'RSS' %} <i class="fa fa-fw fa-rss"></i> {% endif %}{{ link.title }}</a></li>
 	  {% endfor %}
 	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
