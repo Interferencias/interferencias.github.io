@@ -1,7 +1,19 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Información básica / Basic info
+  url: /info/
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Contacto / Contact
+  url: /contact/
+
+- title: Cómo unirme / How to join
+  url: /join/
+
+- title: Enlaces y recursos / Links and resources
+  url: /links/
+
+- title: Grupos y soporte / Groups and support
+  url: /groups/
+
+- title: RSS feed
+  url: /feed.xml
