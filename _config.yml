@@ -18,8 +18,11 @@ owner:
     similares.
   email:          interferencias@protonmail.com
   # Social networking links used in footer. Update and remove as you like.
+  telegram: inter_ferencias
   twitter: inter_ferencias
+  mastodon: interferencias
   github: interferencias
+  vimeo: interferencias
 
 # Background image to be tiled on all pages
 background:
