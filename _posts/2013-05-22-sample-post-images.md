@@ -22,8 +22,8 @@ Apply the `half` class like so to display two images side by side that share the
 
 ```html
 <figure class="half">
-	<img src="/images/image-filename-1.jpg" alt="">
-	<img src="/images/image-filename-2.jpg" alt="">
+	<img src="/assets/images/image-filename-1.jpg" alt="">
+	<img src="/assets/images/image-filename-2.jpg" alt="">
 	<figcaption>Caption describing these two images.</figcaption>
 </figure>
 ```
@@ -73,8 +73,8 @@ Here is the block you might want to use:
 
 ```liquid
 {% raw %}{% capture images %}
-	/images/abstract-10.jpg
-	/images/abstract-11.jpg
+	/assets/images/abstract-10.jpg
+	/assets/images/abstract-11.jpg
 	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}{% endraw %}
@@ -89,8 +89,8 @@ Available values: [1..3].
 It will look something like this:
 
 {% capture images %}
-	/images/abstract-10.jpg
-	/images/abstract-11.jpg
+	/assets/images/abstract-10.jpg
+	/assets/images/abstract-11.jpg
 	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=3 %}

@@ -41,7 +41,7 @@ sass:
   style: compressed
 
 # https://jekyllrb.com/docs/permalinks/
-permalink:   /:title/
+permalink:   pretty
 
 # Amount of post to show on home page
 paginate: 5
@@ -57,12 +57,14 @@ kramdown:
 include:
   - "_pages"
 exclude:
+  - ".git"
+  - ".sass-cache"
+  - "node_modules"
   - ".gitignore"
   - ".jshintrc"
   - "Gemfile"
   - "Gemfile.lock"
   - "Gruntfile.js"
   - "LICENSE"
-  - "node_modules"
   - "package.json"
   - "README.md"

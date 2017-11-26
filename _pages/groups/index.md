@@ -8,7 +8,7 @@ comments: false
 modified: 2016-11-25
 ---
 
-![interferenciasbanner]({{ "/images/interferencias_banner.png" }})
+![interferenciasbanner]({{ "/assets/images/interferencias_banner.png" }})
 
 El grupo de Interferencias se mueve principalmente en **Granada**, Andalucía, España. En esta ciudad organizamos eventos, charlas, talleres, reuniones y mucho más. Sin embargo, y aunque la página está abierta a todo el mundo, somos conscientes de que no hay mucho movimiento del grupo fuera de Granada.
 
@@ -18,13 +18,13 @@ Por ello, hemos decidido crear este apartado, donde describimos la organización
 
 **Aquí dejamos una pequeña guía**:
 
-![interferencias_banner_2]({{ "/images/interferencias_banner_2.png" }})
+![interferencias_banner_2]({{ "/assets/images/interferencias_banner_2.png" }})
 
 Cualquier grupo de Interferencias debe tener como objetivo tratar los temas clave: **Privacidad, derechos digitales, ciberseguridad** y relacionados, ¡estos temas abarcan un rango muy amplio de acción! A veces el grupo se alía con otros similares para crear más movimiento, tenemos una ideología **colaborativa**.
 
 Es importante que los grupos que se creen de Interferencias sean **respetuosos**, y no atenten contra ninguna religión, raza, género, u orientación sexual. Queremos que el grupo y todos sus derivados sean **inclusivos** con cualquier persona, y apoyamos abiertamente a los colectivos que defiendan estas causas. De otro modo, Desvincularemos toda relación con el grupo.
 
-![interferencias_banner_3]({{ "/images/interferencias_banner_3.png" }})
+![interferencias_banner_3]({{ "/assets/images/interferencias_banner_3.png" }})
 
 Las actividades* del grupo suelen tener la siguiente división:
 
@@ -46,7 +46,7 @@ _Éstas son las actividades comunes que realizamos en Granada, pero esta guía e
 
 Si a tu grupo y a ti, os gusta la idea de organizar charlas y talleres, y estáis de acuerdo con los temas y la moral de interferencias, ¡adelante!
 
-Aquí dejamos algunos logos que podéis utilizar, además del nombre, también podéis imprimir estos PDFs ([1]({{ "/pdfs/pegatinas_1.pdf" }}), [2]({{ "/pdfs/pegatinas_2.pdf" }}), [3]({{ "/pdfs/pegatinas_3.pdf" }})) para hacer pegatinas.
+Aquí dejamos algunos logos que podéis utilizar, además del nombre, también podéis imprimir estos PDFs ([1]({{ "/assets/pdfs/pegatinas_1.pdf" }}), [2]({{ "/assets/pdfs/pegatinas_2.pdf" }}), [3]({{ "/assets/pdfs/pegatinas_3.pdf" }})) para hacer pegatinas.
 
 ![somos_ruido]({{ "/assets/images/somos_ruido.png" }})
 ![interferencias_2]({{ "/assets/images/interferencias_2.png" }})

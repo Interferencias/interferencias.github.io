@@ -6,7 +6,7 @@
 			<a href="#">Nosotros</a>
 			<ul class="dl-submenu">
 				<li>
-					<img src="{{ site.url }}/images/{{ site.author.avatar }}" alt="{{ site.author.name }} photo" class="author-photo">
+					<img src="{{ site.url }}/assets/images/{{ site.author.avatar }}" alt="{{ site.author.name }} photo" class="author-photo">
 					<h4>{{ site.author.name }}</h4>
 					<p>{{ site.author.bio }}</p>
 				</li>
@@ -21,7 +21,7 @@
 					<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
 				</li>{% endif %}
 				{% if site.author.mastodon %}<li>
-					<a href="https://mastodon.technology/@{{ site.author.mastodon }}">&nbsp<img src="{{ "/images/mastodon.png" }}" width="13"> &nbspMastodon</a>
+					<a href="https://mastodon.technology/@{{ site.author.mastodon }}">&nbsp<img src="{{ "/assets/images/mastodon.png" }}" width="13"> &nbspMastodon</a>
 				</li>{% endif %}
 				{% if site.author.github %}<li>
 					<a href="https://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
