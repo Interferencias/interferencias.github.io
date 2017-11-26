@@ -3,8 +3,7 @@ layout: page
 title: Contacto
 permalink: "/about/"
 image:
-  feature: header.png
-comments: false
+  feature: banners/header.png
 modified: 2016-11-25
 ---
 
@@ -24,8 +23,8 @@ Puedes escribirnos por correo para más información: [interferencias@protonmail
 También puedes unirte a nuestro grupo de Telegram, que es el medio de comunicación más directo que usamos: [https://t.me/inter_ferencias](https://t.me/inter_ferencias)
 
 {% capture images %}
-  /assets/images/qr_mail.png
-  /assets/images/qr_telegram.png
+  /assets/images/contact/qr_mail.png
+  /assets/images/contact/qr_telegram.png
 {% endcapture %}
 {% include gallery images=images cols=2 %}
 

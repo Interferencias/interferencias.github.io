@@ -87,10 +87,3 @@ Parameters:
 Available values: [1..3].
 
 It will look something like this:
-
-{% capture images %}
-	/assets/images/abstract-10.jpg
-	/assets/images/abstract-11.jpg
-	http://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %}

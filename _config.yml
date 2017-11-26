@@ -58,7 +58,6 @@ include:
   - "_pages"
 exclude:
   - ".git"
-  - ".sass-cache"
   - "node_modules"
   - ".gitignore"
   - ".jshintrc"

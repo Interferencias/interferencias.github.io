@@ -3,8 +3,7 @@ layout: page
 title: Normas / Rules
 permalink: "/rules/"
 image:
-  feature: header.png
-comments: false
+  feature: banners/header.png
 modified: 2016-11-25
 ---
 

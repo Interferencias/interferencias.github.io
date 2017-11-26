@@ -3,8 +3,7 @@ layout: page
 title: Enlaces y recursos / Links and resources
 permalink: "/links/"
 image:
-  feature: header.png
-comments: false
+  feature: banners/header.png
 modified: 2016-11-25
 ---
 
