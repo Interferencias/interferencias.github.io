@@ -4,24 +4,24 @@ description:      Grupo ciberactivista dedicado a organizar actividades y compar
   similares.
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
-# When testing locally leave blank or use http://localhost:4000
+
+# Your site's domain goes here (when testing locally leave blank or use http://localhost:4000)
 url: http://localhost:4000
 
-# Owner/author information
-owner:
+# Author information
+author:
   name:           Interferencias
   avatar:         logo.png
   bio:            Grupo ciberactivista dedicado a organizar actividades y compartir
     información y opinión sobre derechos digitales, seguridad informática y temáticas
     similares.
   email:          interferencias@protonmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  telegram: inter_ferencias
-  twitter: inter_ferencias
-  mastodon: interferencias
-  github: interferencias
-  vimeo: interferencias
+  # Social networking links used in footer.
+  telegram:       inter_ferencias
+  twitter:        inter_ferencias
+  mastodon:       interferencias
+  github:         interferencias
+  vimeo:          interferencias
 
 # Background image to be tiled on all pages
 background:
@@ -40,7 +40,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# https://jekyllrb.com/docs/permalinks/
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
@@ -55,27 +55,14 @@ kramdown:
   enable_coderay: false
 
 include:
-  - .htaccess
+  - "_pages"
 exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
+  - ".gitignore"
+  - ".jshintrc"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "Gruntfile.js"
+  - "LICENSE"
+  - "node_modules"
+  - "package.json"
+  - "README.md"

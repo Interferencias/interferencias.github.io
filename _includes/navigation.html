@@ -6,28 +6,28 @@
 			<a href="#">Nosotros</a>
 			<ul class="dl-submenu">
 				<li>
-					<img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
-					<h4>{{ site.owner.name }}</h4>
-					<p>{{ site.owner.bio }}</p>
+					<img src="{{ site.url }}/images/{{ site.author.avatar }}" alt="{{ site.author.name }} photo" class="author-photo">
+					<h4>{{ site.author.name }}</h4>
+					<p>{{ site.author.bio }}</p>
 				</li>
 				<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">+ Info</span></a></li>
-				{% if site.owner.email %}<li>
-					<a href="mailto:{{ site.owner.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
+				{% if site.author.email %}<li>
+					<a href="mailto:{{ site.author.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
 				</li>{% endif %}
-				{% if site.owner.telegram %}<li>
-					<a href="https://t.me/{{ site.owner.telegram }}"><i class="fa fa-fw fa-telegram"></i> Telegram</a>
+				{% if site.author.telegram %}<li>
+					<a href="https://t.me/{{ site.author.telegram }}"><i class="fa fa-fw fa-telegram"></i> Telegram</a>
 				</li>{% endif %}
-				{% if site.owner.twitter %}<li>
-					<a href="https://twitter.com/{{ site.owner.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
+				{% if site.author.twitter %}<li>
+					<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
 				</li>{% endif %}
-				{% if site.owner.mastodon %}<li>
-					<a href="https://mastodon.technology/@{{ site.owner.mastodon }}">&nbsp<img src="{{ "/images/mastodon.png" }}" width="13"> &nbspMastodon</a>
+				{% if site.author.mastodon %}<li>
+					<a href="https://mastodon.technology/@{{ site.author.mastodon }}">&nbsp<img src="{{ "/images/mastodon.png" }}" width="13"> &nbspMastodon</a>
 				</li>{% endif %}
-				{% if site.owner.github %}<li>
-					<a href="https://github.com/{{ site.owner.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
+				{% if site.author.github %}<li>
+					<a href="https://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
 				</li>{% endif %}
-				{% if site.owner.vimeo %}<li>
-					<a href="https://vimeo.com/{{ site.owner.vimeo }}"><i class="fa fa-fw fa-vimeo"></i> Vimeo</a>
+				{% if site.author.vimeo %}<li>
+					<a href="https://vimeo.com/{{ site.author.vimeo }}"><i class="fa fa-fw fa-vimeo"></i> Vimeo</a>
 				</li>{% endif %}
 			</ul><!-- /.dl-submenu -->
 		</li>
