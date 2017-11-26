@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grupos y soporte / Groups and support
+permalink: "/groups/"
 image:
   feature: header.png
 comments: false

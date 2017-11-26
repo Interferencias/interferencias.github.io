@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Normas / Rules
+permalink: "/rules/"
 image:
   feature: header.png
 comments: false

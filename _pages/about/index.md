@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contacto
+permalink: "/about/"
 image:
   feature: header.png
 comments: false

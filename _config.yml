@@ -41,7 +41,7 @@ sass:
   style: compressed
 
 # https://jekyllrb.com/docs/permalinks/
-permalink:   /:categories/:title/
+permalink:   /:title/
 
 # Amount of post to show on home page
 paginate: 5

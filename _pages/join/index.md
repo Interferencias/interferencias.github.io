@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cómo unirme / How to join
+permalink: "/join/"
 image:
   feature: header.png
 comments: false
