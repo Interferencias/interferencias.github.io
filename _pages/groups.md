@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grupos y soporte / Groups and support
-permalink: "/groups/"
+permalink: /groups
 image:
   feature: banners/header.png
 modified: 2016-11-25
