@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resumen reunión de diciembre de 2016
-author: paula
+author: terceranexus6
 ---
 
 El 17 de diciembre de tuvimos la última reunión del año y se trataron varios temas, principalmente se dieron ideas de actividades, eventos y charlas para el nuevo año.

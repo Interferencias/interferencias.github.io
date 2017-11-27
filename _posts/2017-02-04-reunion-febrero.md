@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Resumen de la reunión de Febrero
-author: paula
+author: terceranexus6
 ---
 
-#Reunión de interferencias
+# Reunión de interferencias
 ## día 4 de Febrero
 
 La reunión de interferencias de Febrero se realizó el pasado 4 de febrero. En ella pulimos algunas cuestiones que se dejaron colgadas en Enero. Estamos pensando en cambiar la ubicación de las reuniones a la facultad de ciencias.

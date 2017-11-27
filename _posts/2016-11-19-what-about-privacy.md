@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What about privacy?
-author: paula
+author: terceranexus6
 ---
 
 ### _(prī′və-sē)_
@@ -31,7 +31,7 @@ Key words depends on your interests but, here’s a list of general important _k
 
 Look carefully what conditions are attached to these. This might give you a general idea of what you are signing for, and if you feel your agreement is being violated, just contact them.
 
-**You don’t have to be a criminal to be careful with your privacy**. I mean, that’s what it is, PRIVACY, and should be respected. It’s not a matter of hiding yourself, (of course if police needs your data for something, just be nice to them, they are doing their job), it’s a matter of knowledge, and knowing your rights. 
+**You don’t have to be a criminal to be careful with your privacy**. I mean, that’s what it is, PRIVACY, and should be respected. It’s not a matter of hiding yourself, (of course if police needs your data for something, just be nice to them, they are doing their job), it’s a matter of knowledge, and knowing your rights.
 
 The users data is being used for statistics, to know what the public like and offer it. That’s generally, a good idea, but can be very intrusive.
 

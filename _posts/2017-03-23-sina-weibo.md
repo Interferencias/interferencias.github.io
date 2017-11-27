@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sina Weibo y la censura de internet en China
-author: paula
+author: terceranexus6
 ---
 
 ![sina_weibo_01]({{ "/assets/images/sina_weibo_01.png" }})
