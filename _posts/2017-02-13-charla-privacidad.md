@@ -2,6 +2,7 @@
 layout: post
 title: Te espían, te estudian, te controlan, dale importancia a tu privacidad en la red
 author: germaaan
+tags: charla privacidad
 ---
 
 **miércoles 15 de febrero de 2017**

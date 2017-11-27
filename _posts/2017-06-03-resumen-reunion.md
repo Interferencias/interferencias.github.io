@@ -2,6 +2,7 @@
 layout: post
 title: Reunión de Junio
 author: terceranexus6
+tags: reunion
 ---
 
 **Resumen de la reunión del 3 de Junio de 2017**

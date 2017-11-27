@@ -2,6 +2,7 @@
 layout: post
 title: What about privacy?
 author: terceranexus6
+tags: privacy privacy-policies
 ---
 
 ### _(prī′və-sē)_

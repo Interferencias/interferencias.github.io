@@ -2,6 +2,7 @@
 layout: post
 title: Reunión marzo 2017
 author: germaaan
+tags: reunion
 ---
 
 Reunión mensual del grupo Interferencias para tratar temas de actualidad sobre privacidad, derechos en Internet y temas similares. Como en todas las reuniones primero hablaremos sobre los proyecto actuales del grupo, de entre los que destacan el ciclo de charlas que estamos llevando a cabo ([introducción a la privacidad](https://bitbucket.org/josealberto4444/charla_introduccion_privacidad), [redes Tor](https://github.com/nacheteam/Charla-sobre-Tor) y [moneda BitCoins](https://interferencias.github.io/2017/02/28/charla-bitcoins/)) que próximamente estarán disponibles en vídeo y el podcast que estamos gestionando para empezar a funcionar, además del evento que tenemos en proyecto montar sobre los temas de interés del grupo.

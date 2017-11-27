@@ -2,6 +2,7 @@
 layout: post
 title: Tattoos no longer private
 author: terceranexus6
+tags: tatoo privacy criminal prisoner
 ---
 ### When Science Fiction Dystopia becomes real
 Imagine you are about to enter a very secure place, such an airport. You proudly have a tattoo in your arm, you have it since you were a teenager. Just before passing, a cop ask you politely to show your tattoo entirely, with a surprise feeling, you show it.

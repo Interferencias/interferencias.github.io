@@ -2,6 +2,7 @@
 layout: post
 title: Resumen de la reunión de Febrero
 author: terceranexus6
+tags: reunion
 ---
 
 # Reunión de interferencias
