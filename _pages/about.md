@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contacto
-permalink: /about
+permalink: /about/
 image:
   feature: banners/header.png
 modified: 2016-11-25

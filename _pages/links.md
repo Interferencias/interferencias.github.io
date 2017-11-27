@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enlaces y recursos / Links and resources
-permalink: /links
+permalink: /links/
 image:
   feature: banners/header.png
 modified: 2016-11-25

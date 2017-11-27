@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Normas / Rules
-permalink: /rules
+permalink: /rules/
 image:
   feature: banners/header.png
 modified: 2016-11-25

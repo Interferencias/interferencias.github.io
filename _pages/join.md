@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cómo unirme / How to join
-permalink: /join
+permalink: /join/
 image:
   feature: banners/header.png
 modified: 2016-11-25
