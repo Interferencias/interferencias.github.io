@@ -2,6 +2,8 @@
 layout: post
 title: Reunión marzo 2017
 author: germaaan
+image:
+  feature: banners/header.png
 tags: reunion
 ---
 

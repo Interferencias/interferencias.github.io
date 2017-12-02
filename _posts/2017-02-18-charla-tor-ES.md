@@ -2,6 +2,8 @@
 layout: post
 title: Repetición de la charla sobre la privacidad en la red y charla sobre Tor
 author: germaaan
+image:
+  feature: banners/header.png
 tags: charla privacidad tor
 ---
 

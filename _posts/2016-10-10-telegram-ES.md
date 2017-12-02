@@ -2,6 +2,8 @@
 layout: post
 title: Telegram
 author: terceranexus6
+image:
+  feature: banners/header.png
 tags: grupo-telegram
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: ¿Qué pasa con la privacidad?
 author: terceranexus6
 translator: nacheteam
+image:
+  feature: banners/header.png
 tags: privacidad terminos-uso terminos-privacidad traduccion
 ---
 

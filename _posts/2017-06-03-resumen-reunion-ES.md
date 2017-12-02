@@ -2,6 +2,8 @@
 layout: post
 title: Reunión de Junio
 author: terceranexus6
+image:
+  feature: banners/header.png
 tags: reunion
 ---
 

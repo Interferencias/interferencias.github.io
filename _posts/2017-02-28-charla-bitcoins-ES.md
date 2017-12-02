@@ -2,6 +2,8 @@
 layout: post
 title: Charla sobre Bitcoins, la moneda del futuro
 author: germaaan
+image:
+  feature: banners/header.png
 tags: charla bitcoin
 ---
 

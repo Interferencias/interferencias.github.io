@@ -2,6 +2,8 @@
 layout: post
 title: What about privacy?
 author: terceranexus6
+image:
+  feature: banners/header.png
 tags: privacy privacy-policies
 ---
 

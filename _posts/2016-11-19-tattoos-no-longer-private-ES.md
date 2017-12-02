@@ -3,6 +3,8 @@ layout: post
 title: Los tatuajes ya no son privados
 author: terceranexus6
 translator: nacheteam
+image:
+  feature: banners/header.png
 tags: tatuaje privacidad criminal preso traducción
 ---
 ### Cuando la Distopía de la Ciencia Ficción se vuelve real

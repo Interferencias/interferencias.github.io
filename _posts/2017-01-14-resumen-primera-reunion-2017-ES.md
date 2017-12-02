@@ -2,6 +2,8 @@
 layout: post
 title: Resumen de la reunión de enero
 author: terceranexus6
+image:
+  feature: banners/header.png
 tags: reunion
 ---
 
