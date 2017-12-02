@@ -1,0 +1,33 @@
+<span class="entry-date date published updated">
+	<time datetime="{{ post.date | date_to_xmlschema }}">
+		<a href="{{ site.url }}{{ post.url }}">
+			{% include date %}
+		</a>
+	</time>
+</span>
+{% if site.reading_time %}
+	<span class="entry-reading-time">
+		<i class="fa fa-clock-o"></i>
+        	{% include read-time-index %}
+	</span><!-- /.entry-reading-time -->
+{% endif %}
+{% if post.author %}
+	<br>ESCRITO POR
+	{% if author.web %}
+		<a href="{{ author.web }}">
+			{{ author.name }}
+		</a>
+	{% else %}
+		{{ author.name }}
+	{% endif %}
+{% endif %}
+{% if post.translator %}
+	<br>TRADUCIDO POR
+	{% if translator.web %}
+		<a href="{{ translator.web }}">
+			{{ translator.name }}
+		</a>
+	{% else %}
+		{{ translator.name }}
+	{% endif %}
+{% endif %}
