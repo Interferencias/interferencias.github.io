@@ -4,13 +4,13 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-{% include head.html %}
+{% include head %}
 </head>
 
 <body id="page" {% if page.image.feature %}class="feature"{% endif %}>
 
-{% include browser-upgrade.html %}
-{% include navigation.html %}
+{% include browser-upgrade %}
+{% include navigation %}
 
 {% if page.image.feature %}
 <div class="entry-header">
@@ -29,7 +29,7 @@
         {% if site.reading_time %}
         <p class="entry-reading-time">
           <i class="fa fa-clock-o"></i>
-          {% include read-time.html %}
+          {% include read-time %}
         </p><!-- /.entry-reading-time -->
         {% endif %}
       </div><!-- /.header-title-wrap -->
@@ -39,7 +39,7 @@
       <footer class="entry-meta">
         {% if page.modified %}<span>Updated on <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
         <span class="author vcard"><span class="fn">{{ site.author.name }}</span></span>{% endif %}
-        {% if page.share != false %}{% include social-share.html %}{% endif %}
+        {% if page.share != false %}{% include social-share %}{% endif %}
       </footer>
     </div><!-- /.entry-content -->
   </article>
@@ -47,11 +47,11 @@
 
 <div class="footer-wrapper">
   <footer role="contentinfo">
-    {% include footer.html %}
+    {% include footer %}
   </footer>
 </div><!-- /.footer-wrapper -->
 
-{% include scripts.html %}
+{% include scripts %}
 
 </body>
 </html>

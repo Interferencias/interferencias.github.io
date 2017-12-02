@@ -4,13 +4,13 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
-{% include head.html %}
+{% include head %}
 </head>
 
 <body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
 
-{% include browser-upgrade.html %}
-{% include navigation.html %}
+{% include browser-upgrade %}
+{% include navigation %}
 
 <div class="entry-header">
   {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
@@ -33,11 +33,11 @@
 
 <div class="footer-wrapper">
   <footer role="contentinfo">
-    {% include footer.html %}
+    {% include footer %}
   </footer>
 </div><!-- /.footer-wrapper -->
 
-{% include scripts.html %}
+{% include scripts %}
 
 </body>
 </html>
