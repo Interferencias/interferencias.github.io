@@ -28,8 +28,5 @@ with open("authors.yml", "r") as f:
 for key, value in avatars.items():
     authors[key]["avatar"] = value
 
-for key, value in authors.items():
-    print (key, value)
-
 with open('authors.yml', 'w') as f:
     yaml.safe_dump(authors, f, default_flow_style = False, allow_unicode = True)

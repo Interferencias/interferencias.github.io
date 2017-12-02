@@ -17,7 +17,7 @@ image:
       </div><!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time> POR </span>{% if post.author %}{% if author.web %}<a href="{{ author.web }}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% endif %}
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span>{% if post.author %} POR {% if author.web %}<a href="{{ author.web }}">{{ author.name }}</a>{% else %} POR {{ author.name }}{% endif %}{% endif %}
       {% if site.reading_time %}
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
@@ -28,7 +28,7 @@ image:
     {% if post.link %}
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url"><img src="{% if post.author != "anonymous" %}{{ author.avatar }}{% else %}{{ "/assets/images/logo.png" }}{% endif %}" alt="avatar" width="50" height="50">&nbsp&nbsp{{ post.title }}</a></h1>
     {% endif %}
   </header>
   <div class="entry-content">

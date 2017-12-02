@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¡Libera tu móvil!
-author: speedy
+author: josealberto4444
 tags: movil software-libre replicant lineageOS
 ---
 
