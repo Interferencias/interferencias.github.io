@@ -14,14 +14,14 @@ Recientemente he visto a políticos afirmar en medios de comunicación que todos
 Todo está mal.  
 
 Hay varios motivos por los que esta afirmación no es correcta y más aún, es peligrosa.  
-En primer lugar las redes sociales no son anónimas, ya que hay muchos factores que nos identifican y se nos piden o se obtienen de nosotros, por ejemplo: número de teléfono, dirección, IP,...  
+En primer lugar las redes sociales no son anónimas, ya que hay muchos factores que nos identifican y se nos piden o se obtienen de nosotros, por ejemplo: número de teléfono, dirección, IP ...  
 Todo esto hace que identificar a una persona en las redes sociales sea posible, ya que además las mismas plataformas suelen ceder los datos ante peticiones judiciales de los mismos.  
 Entonces, ¿cuál es el problema?  
 
 Las redes sociales de por sí ya tienen suficiente información sobre nosotros, ¿qué pasaría si le tuviéramos que dar nuestro documento de identidad?  
 En primer lugar podrían comprar datos a otras empresas (que sí tienen nuestro documento de identidad) como bancos, tiendas online, servicios médicos privados, etc.  
 
-**Esto implicaría que Google, Facebook, Twitter y todas las redes sociales más extendidas podrían saber si padecemos una enfermedad, si tenemos seguro, qué coche conducimos, qué ingresos tenemos, dónde trabajamos, ...**  
+**Esto implicaría que Google, Facebook, Twitter y todas las redes sociales más extendidas podrían saber si padecemos una enfermedad, si tenemos seguro, qué coche conducimos, qué ingresos tenemos, dónde trabajamos ...**  
 Ya ha dejado de ser una buena idea, ¿verdad?
 
 No quiero particularizar el caso en ningún partido político, ya que no es necesario para estas reflexiones. Lo que quiero provocar en vosotros es un ánimo crítico cuando escuchamos a algún político hablar sobre Internet, redes sociales o privacidad.  
