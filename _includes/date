@@ -1,5 +1,8 @@
-{% assign m = post.date | date: "%-m" %}
-{{ post.date | date: "%-d de" }}
+{% assign type = include.type %}
+
+{% assign m = type.date | date: "%-m" %}
+{{ type.date | date: "%-d de" }}
+
 {% case m %}
   {% when '1' %}enero
   {% when '2' %}febrero
@@ -14,4 +17,5 @@
   {% when '11' %}noviembre
   {% when '12' %}diciembre
 {% endcase %}
-{{ post.date | date: "de %Y" }}
+
+{{ type.date | date: "de %Y" }}

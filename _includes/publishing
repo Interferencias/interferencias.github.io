@@ -1,7 +1,7 @@
 <span class="entry-date date published updated">
 	<time datetime="{{ post.date | date_to_xmlschema }}">
 		<a href="{{ site.url }}{{ post.url }}">
-			{% include date %}
+			{% include date type=post %}
 		</a>
 	</time>
 </span>
