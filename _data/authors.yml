@@ -2,11 +2,22 @@
 terceranexus6:
     name: Paula
     email: inversealien@protonmail.com
-    web: http://twitter.com/terceranexus6
+    github: &github https://github.com/terceranexus6
+    twitter: &twitter http://twitter.com/terceranexus6
+    web: *twitter
 germaaan:
     name: Germán
     email: germaaan@protonmail.com
-    web: http://twitter.com/germaaan_
+    github: &github https://github.com/germaaan
+    twitter: &twitter http://twitter.com/germaaan_
+    web: *twitter
 speedy:
     name: José Alberto
-    web: https://twitter.com/josealberto4444
+    github: &github https://github.com/josealberto4444
+    twitter: &twitter https://twitter.com/josealberto4444
+    web: *twitter
+nacheteam:
+    name: Nacho
+    github: &github https://github.com/nacheteam
+    twitter: &twitter https://twitter.com/NachoFuckOff
+    web: *twitter
