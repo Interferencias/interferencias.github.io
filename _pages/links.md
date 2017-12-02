@@ -2,9 +2,9 @@
 layout: page
 title: Enlaces y recursos / Links and resources
 permalink: /links/
+description: "Enlaces de interés."
 image:
   feature: banners/header.png
-modified: 2016-11-25
 ---
 
 Algunos enlaces de interés:

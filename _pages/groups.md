@@ -2,9 +2,9 @@
 layout: page
 title: Grupos y soporte / Groups and support
 permalink: /groups/
+description: "Información para grupos."
 image:
   feature: banners/header.png
-modified: 2016-11-25
 ---
 
 ![interferencias_banner]({{ "/assets/images/banners/interferencias_banner.png" }})

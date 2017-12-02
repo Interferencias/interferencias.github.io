@@ -1,50 +1,121 @@
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation">
-	<button class="dl-trigger">Menú</button>
+	<button class="dl-trigger">
+		Menú
+	</button>
+
 	<ul class="dl-menu">
-		<li><a href="{{ site.url }}/">Inicio</a></li>
 		<li>
-			<a href="#">Nosotros</a>
+			<a href="{{ site.url }}/">
+				Inicio
+			</a>
+		</li>
+
+		<li>
+			<a href="#">
+				Nosotros
+			</a>
+
 			<ul class="dl-submenu">
 				<li>
 					<img src="{{ site.url }}/assets/images/{{ site.author.avatar }}" alt="{{ site.author.name }} photo" class="author-photo">
 					<h4>{{ site.author.name }}</h4>
 					<p>{{ site.author.bio }}</p>
 				</li>
-				<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">+ Info</span></a></li>
-				{% if site.author.email %}<li>
-					<a href="mailto:{{ site.author.email }}"><i class="fa fa-fw fa-envelope"></i> Email</a>
-				</li>{% endif %}
-				{% if site.author.telegram %}<li>
-					<a href="https://t.me/{{ site.author.telegram }}"><i class="fa fa-fw fa-telegram"></i> Telegram</a>
-				</li>{% endif %}
-				{% if site.author.twitter %}<li>
-					<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-fw fa-twitter"></i> Twitter</a>
-				</li>{% endif %}
-				{% if site.author.mastodon %}<li>
-					<a href="https://mastodon.technology/@{{ site.author.mastodon }}">&nbsp<img src="{{ "/assets/images/social/mastodon.png" }}" width="13"> &nbspMastodon</a>
-				</li>{% endif %}
-				{% if site.author.github %}<li>
-					<a href="https://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github"></i> GitHub</a>
-				</li>{% endif %}
-				{% if site.author.vimeo %}<li>
-					<a href="https://vimeo.com/{{ site.author.vimeo }}"><i class="fa fa-fw fa-vimeo"></i> Vimeo</a>
-				</li>{% endif %}
-			</ul><!-- /.dl-submenu -->
+
+				<li>
+					<a href="{{ site.url }}/about/">
+						<span class="btn btn-inverse">
+							+ Info
+						</span>
+					</a>
+				</li>
+
+				{% if site.author.email %}
+					<li>
+						<a href="mailto:{{ site.author.email }}">
+							<i class="fa fa-fw fa-envelope"></i> Email
+						</a>
+					</li>
+				{% endif %}
+
+				{% if site.author.telegram %}
+					<li>
+						<a href="https://t.me/{{ site.author.telegram }}">
+							<i class="fa fa-fw fa-telegram"></i> Telegram
+						</a>
+					</li>
+				{% endif %}
+
+				{% if site.author.twitter %}
+					<li>
+						<a href="https://twitter.com/{{ site.author.twitter }}">
+							<i class="fa fa-fw fa-twitter"></i> Twitter
+						</a>
+					</li>
+				{% endif %}
+
+				{% if site.author.mastodon %}
+					<li>
+						<a href="https://mastodon.technology/@{{ site.author.mastodon }}">
+							&nbsp<img src="{{ "/assets/images/social/mastodon.png" }}" width="13"> &nbspMastodon</a>
+					</li>
+				{% endif %}
+
+				{% if site.author.github %}
+					<li>
+						<a href="https://github.com/{{ site.author.github }}">
+							<i class="fa fa-fw fa-github"></i> GitHub
+						</a>
+					</li>
+				{% endif %}
+
+				{% if site.author.vimeo %}
+					<li>
+						<a href="https://vimeo.com/{{ site.author.vimeo }}">
+							<i class="fa fa-fw fa-vimeo"></i> Vimeo
+						</a>
+					</li>
+				{% endif %}
+
+			</ul> <!-- /.dl-submenu -->
 		</li>
+
 		<li>
 			<a href="#">Entradas</a>
 			<ul class="dl-submenu">
-				<li><a href="{{ site.url }}/posts/">Posts</a></li>
-				<li><a href="{{ site.url }}/tags/">Tags</a></li>
+				<li>
+					<a href="{{ site.url }}/posts/">
+						Posts
+					</a>
+				</li>
+				<li>
+					<a href="{{ site.url }}/tags/">
+						Tags
+					</a>
+				</li>
 			</ul>
 		</li>
+
 		{% for link in site.data.navigation %}
-	    {% if link.url contains 'http' %}
-	        {% assign domain = '' %}
-	        {% else %}
-	        {% assign domain = site.url %}
+	  	{% if link.url contains 'http' %}
+	    	{% assign domain = '' %}
+	    {% else %}
+	    	{% assign domain = site.url %}
 	    {% endif %}
-	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{% if link.title == 'RSS' %} <i class="fa fa fa-rss"></i> {% endif %} {{ link.title }}</a></li>
+
+	    <li>
+				<a href="{{ domain }}{{ link.url }}"
+					{% if link.url contains 'http' %}
+						target="_blank"
+					{% endif %}
+				>
+
+					{% if link.title == 'RSS' %}
+						<i class="fa fa fa-rss"></i>
+					{% endif %}
+
+					{{ link.title }}
+				</a></li>
 	  {% endfor %}
 	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->

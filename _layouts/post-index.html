@@ -1,24 +1,46 @@
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!--[if lt IE 7]>
+  <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es">
+<![endif]-->
+<!--[if (IE 7)&!(IEMobile)]>
+  <html class="no-js lt-ie9 lt-ie8" lang="es">
+<![endif]-->
+<!--[if (IE 8)&!(IEMobile)]>
+  <html class="no-js lt-ie9" lang="es">
+<![endif]-->
+<!--[if gt IE 8]>
+  <!--> <html class="no-js" lang="es">
+<!--<![endif]-->
+
 <head>
 {% include head %}
 </head>
 
-<body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="post-index"
+  {% if page.image.feature %}
+    class="feature"
+  {% endif %}
+>
 
 {% include browser-upgrade %}
 {% include navigation %}
 
 <div class="entry-header">
-  {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
+  {% if page.image.credit %}
+    <div class="image-credit">
+      Fuente:
+      <a href="{{ page.image.creditlink }}">
+        {{ page.image.credit }}
+      </a>
+    </div><!-- /.image-credit -->
+  {% endif %}
+
   {% if page.image.feature %}
     <div class="entry-image">
       <img src="{{ site.url }}/assets/images/{{ page.image.feature }}" alt="{{ page.title }}">
     </div><!-- /.entry-image -->
   {% endif %}
+
   <div class="header-title">
     <div class="header-title-wrap">
       <h1>{{ site.title }}</h1>

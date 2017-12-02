@@ -1,31 +1,55 @@
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!--[if lt IE 7]>
+  <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es">
+<![endif]-->
+<!--[if (IE 7)&!(IEMobile)]>
+  <html class="no-js lt-ie9 lt-ie8" lang="es">
+<![endif]-->
+<!--[if (IE 8)&!(IEMobile)]>
+  <html class="no-js lt-ie9" lang="ea">
+<![endif]-->
+<!--[if gt IE 8]>
+  <!--> <html class="no-js" lang="es">
+<!--<![endif]-->
+
 <head>
 {% include head %}
 </head>
 
-<body id="page" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="page"
+  {% if page.image.feature %}
+    class="feature"
+  {% endif %}
+>
 
 {% include browser-upgrade %}
 {% include navigation %}
 
 {% if page.image.feature %}
-<div class="entry-header">
-  {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
-  <div class="entry-image">
-    <img src="{{ site.url }}/assets/images/{{ page.image.feature }}" alt="{{ page.title }}">
-  </div><!-- /.entry-image -->
-</div><!-- /.entry-header -->
+  <div class="entry-header">
+    {% if page.image.credit %}
+      <div class="image-credit">
+          Fuente:
+          <a href="{{ page.image.creditlink }}">
+            {{ page.image.credit }}
+          </a>
+      </div><!-- /.image-credit -->
+    {% endif %}
+
+    <div class="entry-image">
+      <img src="{{ site.url }}/assets/images/{{ page.image.feature }}" alt="{{ page.title }}">
+    </div><!-- /.entry-image -->
+  </div><!-- /.entry-header -->
 {% endif %}
 
 <div id="main" role="main">
   <article class="hentry">
     <header class="header-title">
       <div class="header-title-wrap">
-        <h1 class="entry-title">{{ page.title }}</h1>
+        <h1 class="entry-title">
+            {{ page.title }}
+        </h1>
+
         {% unless page.error %}
           {% if site.reading_time %}
           <p class="entry-reading-time">
@@ -36,12 +60,13 @@
         {% endunless %}
       </div><!-- /.header-title-wrap -->
     </header>
+
     <div class="entry-content">
       {{ content }}
       <footer class="entry-meta">
-        {% if page.modified %}<span>Actualizado el <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
-        <span class="author vcard"><span class="fn">{{ site.author.name }}</span></span>{% endif %}
-        {% if page.share != false %}{% include social-share %}{% endif %}
+        {% if page.share != false %}
+          {% include social-share %}
+        {% endif %}
       </footer>
     </div><!-- /.entry-content -->
   </article>

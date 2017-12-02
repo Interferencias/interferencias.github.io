@@ -1,5 +1,14 @@
 <span>
-  &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
-  Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>
-  using the <a href="https://mademistakes.com/work/hpstr-jekyll-theme/" rel="nofollow">HPSTR Theme</a>.
+  &copy; {{ site.time | date: '%Y' }} <a href="https://github.com/Interferencias/interferencias.github.io">{{ site.author.name }}</a>.
+  Sitio web generado con <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>
+  basándose en <a href="https://mademistakes.com/work/hpstr-jekyll-theme/" rel="nofollow">HPSTR Theme</a>.
+  <br>Contenido publicado bajo licencia <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> salvo recursos en los que explícitamente se indique lo contrario.
+  <br><br>
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+    <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="CC BY-SA 4.0" width="70" height="70">
+  </a>
+  &nbsp&nbsp
+  <a href="https://www.gnu.org/licenses/gpl.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/1200px-GPLv3_Logo.svg.png" alt="GPL v3" width="70" height="70">
+  </a>
 </span>

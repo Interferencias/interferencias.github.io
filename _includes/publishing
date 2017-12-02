@@ -5,12 +5,14 @@
 		</a>
 	</time>
 </span>
+
 {% if site.reading_time %}
 	<span class="entry-reading-time">
 		<i class="fa fa-clock-o"></i>
-        	{% include read-time-index %}
+    	{% include read-time-index %}
 	</span><!-- /.entry-reading-time -->
 {% endif %}
+
 {% if post.author %}
 	<br>ESCRITO POR
 	{% if author.web %}
@@ -21,6 +23,7 @@
 		{{ author.name }}
 	{% endif %}
 {% endif %}
+
 {% if post.translator %}
 	<br>TRADUCIDO POR
 	{% if translator.web %}

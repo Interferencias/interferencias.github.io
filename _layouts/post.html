@@ -1,24 +1,48 @@
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!--[if lt IE 7]>
+  <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es">
+<![endif]-->
+<!--[if (IE 7)&!(IEMobile)]>
+  <html class="no-js lt-ie9 lt-ie8" lang="es">
+<![endif]-->
+<!--[if (IE 8)&!(IEMobile)]>
+  <html class="no-js lt-ie9" lang="es">
+<![endif]-->
+<!--[if gt IE 8]>
+  <!--> <html class="no-js" lang="es">
+<!--<![endif]-->
+
 <head>
 {% include head %}
 </head>
 
-<body id="post" {% if page.image.feature %}class="feature"{% endif %}>
+<body id="post"
+  {% if page.image.feature %}
+    class="feature"
+  {% endif %}
+>
 
 {% include browser-upgrade %}
 {% include navigation %}
 
 {% if page.image.feature %}
-<div class="entry-header">
-  {% if page.image.credit %}<div class="image-credit">Imagen original: {% if page.image.creditlink %}<a href="{{ page.image.creditlink }}">{% endif %}{{ page.image.credit }}{% if page.image.creditlink %}</a>{% endif %}</div><!-- /.image-credit -->{% endif %}
-  <div class="entry-image">
-    <img src="{{ site.url }}/assets/images/{{ page.image.feature }}" alt="{{ page.title }}">
-  </div><!-- /.entry-image -->
-</div><!-- /.entry-header -->
+  <div class="entry-header">
+    {% if page.image.credit %}
+      <div class="image-credit">Imagen original:
+        {% if page.image.creditlink %}
+          <a href="{{ page.image.creditlink }}">
+        {% endif %}{{ page.image.credit }}
+
+        {% if page.image.creditlink %}
+          </a>
+        {% endif %}
+      </div><!-- /.image-credit -->
+    {% endif %}
+
+    <div class="entry-image">
+      <img src="{{ site.url }}/assets/images/{{ page.image.feature }}" alt="{{ page.title }}">
+    </div><!-- /.entry-image -->
+  </div><!-- /.entry-header -->
 {% endif %}
 
 <div id="main" role="main">
@@ -26,11 +50,28 @@
     <header class="header-title">
       <div class="header-title-wrap">
         {% if page.link %}
-          <h1 class="entry-title"><i class="fa fa-bookmark permalink"></i> <a href="{{ page.link }}">{{ page.title }}</a></h1>
+          <h1 class="entry-title">
+            <i class="fa fa-bookmark permalink"></i>
+            <a href="{{ page.link }}">
+              {{ page.title }}
+            </a>
+          </h1>
         {% else %}
-          <h1 class="entry-title"><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+          <h1 class="entry-title">
+            <a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">
+              {{ page.title }}
+            </a>
+          </h1>
         {% endif %}
-        <h2><span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}">{% include date type=page %}</time></span></h2>
+
+        <h2>
+          <span class="entry-date date published">
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+              {% include date type=page %}
+            </time>
+          </span>
+        </h2>
+
         {% if site.reading_time %}
         <p class="entry-reading-time">
           <i class="fa fa-clock-o"></i>
@@ -39,16 +80,32 @@
         {% endif %}
       </div><!-- /.header-title-wrap -->
     </header>
+
     <div class="entry-content">
       {{ content }}
       <footer class="entry-meta">
-        <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}" title="Pages tagged {{ tag }}" class="tag"><span class="term">{{ tag }}</span></a>{% unless forloop.last %}{% endunless %}{% endfor %}</span>
-        {% if page.modified %}<span>Actualizado el <span class="entry-date date updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
-        <span class="author vcard"><span class="fn">{{ site.author.name }}</span></span>{% endif %}
-        {% if page.share != false %}{% include social-share %}{% endif %}
+        <span class="entry-tags">
+          {% for tag in page.tags %}
+            <a href="{{ site.url }}/tags/#{{ tag }}" title="Páginas etiquetadas {{ tag }}" class="tag">
+              <span class="term">
+                {{ tag }}
+              </span>
+            </a>
+
+            {% unless forloop.last %}
+            {% endunless %}
+          {% endfor %}
+        </span>
+
+        {% if page.share != false %}
+          {% include social-share %}
+        {% endif %}
       </footer>
     </div><!-- /.entry-content -->
-    {% if site.related_posts.size > 0 %}{% include read-more %}{% endif %}
+
+    {% if site.related_posts.size > 0 %}
+      {% include read-more %}
+    {% endif %}
   </article>
 </div><!-- /#main -->
 

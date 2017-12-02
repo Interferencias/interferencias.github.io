@@ -2,9 +2,9 @@
 layout: page
 title: Normas / Rules
 permalink: /rules/
+description: "Normas de convivencia del grupo."
 image:
   feature: banners/header.png
-modified: 2016-11-25
 ---
 
 Las normas y la filosofía de este grupo intentan ser pocas, y simples.

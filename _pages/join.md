@@ -2,9 +2,9 @@
 layout: page
 title: Cómo unirme / How to join
 permalink: /join/
+description: "Información para unirse al grupo."
 image:
   feature: banners/header.png
-modified: 2016-11-25
 ---
 
 Si estás interesado en los temas nombrados en [**nuestra información**](/about), ¡únete! El grupo se encuentra actualmente en construcción, y es el mejor momento para hacerlo.

@@ -1,7 +1,9 @@
 {% if post.author != "anonymous" %}
-	<a href="{{ author.github }}"> <img src="{{ author.avatar }}
+	<a href="{{ author.github }}">
+		<img src="{{ author.avatar }}
 {% else %}
-	<a href="https://interferencias.github.io/"> <img src="{{ "/assets/images/logo.png" }}
+	<a href="https://interferencias.github.io/">
+		<img src="{{ "/assets/images/logo.png" }}
 {% endif %}"
 
 alt="avatar" width="50" height="50"></a>&nbsp&nbsp
