@@ -1,23 +1,26 @@
-# Author details.
-terceranexus6:
-    name: Paula
-    email: inversealien@protonmail.com
-    github: &github https://github.com/terceranexus6
-    twitter: &twitter http://twitter.com/terceranexus6
-    web: *twitter
 germaaan:
-    name: Germán
-    email: germaaan@protonmail.com
-    github: &github https://github.com/germaaan
-    twitter: &twitter http://twitter.com/germaaan_
-    web: *twitter
-speedy:
-    name: José Alberto
-    github: &github https://github.com/josealberto4444
-    twitter: &twitter https://twitter.com/josealberto4444
-    web: *twitter
+  avatar: https://avatars1.githubusercontent.com/u/5518719?v=4
+  email: germaaan@protonmail.com
+  github: https://github.com/germaaan
+  name: Germán
+  twitter: http://twitter.com/germaaan_
+  web: http://twitter.com/germaaan_
+josealberto4444:
+  avatar: https://avatars3.githubusercontent.com/u/13300909?v=4
+  github: https://github.com/josealberto4444
+  name: José Alberto
+  twitter: https://twitter.com/josealberto4444
+  web: https://twitter.com/josealberto4444
 nacheteam:
-    name: Nacho
-    github: &github https://github.com/nacheteam
-    twitter: &twitter https://twitter.com/NachoFuckOff
-    web: *twitter
+  avatar: https://avatars2.githubusercontent.com/u/16293577?v=4
+  github: https://github.com/nacheteam
+  name: Nacho
+  twitter: https://twitter.com/NachoFuckOff
+  web: https://twitter.com/NachoFuckOff
+terceranexus6:
+  avatar: https://avatars0.githubusercontent.com/u/9094121?v=4
+  email: inversealien@protonmail.com
+  github: https://github.com/terceranexus6
+  name: Paula
+  twitter: http://twitter.com/terceranexus6
+  web: http://twitter.com/terceranexus6
