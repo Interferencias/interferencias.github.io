@@ -2,6 +2,8 @@
 layout: post
 title: El anonimato y los insultos en las redes sociales
 author: nacheteam
+image:
+  feature: banners/header.png
 tags: anonimato políticos insultos justicia
 ---
 
