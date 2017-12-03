@@ -3,10 +3,12 @@ layout: post
 title: Los tatuajes ya no son privados
 author: terceranexus6
 translator: nacheteam
+original: https://interferencias.github.io/2016/11/19/tattoos-no-longer-private
 image:
   feature: banners/header.png
 tags: tatuaje privacidad criminal preso traducción
 ---
+
 ### Cuando la Distopía de la Ciencia Ficción se vuelve real
 Imagínate que estás a punto de entrar en un sitio muy seguro, como un aeropuerto. Te sientes orgulloso de tener un tatuaje en tu brazo desde que eras un adolescente. Justo antes de entrar, un policía te pide educadamente que enseñes tu tatuaje completo. Tú, con sorpresa, se lo enseñas.  
 

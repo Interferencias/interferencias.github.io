@@ -3,16 +3,18 @@
 <span class="entry-date date published updated">
 	<time datetime="{{ layout.date | date_to_xmlschema }}">
 		<a href="{{ site.url }}{{ layout.url }}">
-			{% include date type=post %}
+			{% include date type=layout %}
 		</a>
 	</time>
 </span>
 
 {% if site.reading_time %}
-	<span class="entry-reading-time">
-		<i class="fa fa-clock-o"></i>
-    	{% include read-time-index %}
-	</span><!-- /.entry-reading-time -->
+	{% if layout!=page %}
+		<span class="entry-reading-time">
+			<i class="fa fa-clock-o"></i>
+	    	{% include read-time-index %}
+		</span><!-- /.entry-reading-time -->
+	{% endif %}
 {% endif %}
 
 {% if layout.author %}
@@ -24,15 +26,8 @@
 	{% else %}
 		{{ author.name }}
 	{% endif %}
-{% endif %}
-
-{% if layout.translator %}
-	<br>TRADUCIDO POR
-	{% if translator.web %}
-		<a href="{{ translator.web }}">
-			{{ translator.name }}
-		</a>
-	{% else %}
-		{{ translator.name }}
+	
+	{% if layout==page %}
+		{% include author type=layout %}
 	{% endif %}
 {% endif %}

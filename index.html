@@ -24,12 +24,28 @@ image:
       {% include publishing layout=post %}
     </div><!-- /.entry-meta -->
     {% if post.link %}
-      <h1 class="entry-title">{% include author %}<a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+      <h1 class="entry-title">{% include author type=post %}<a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
       <h1 class="entry-title">{% include author %}<a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
   <div class="entry-content">
+    {% if post.translator %}
+      <div class="entry-meta">
+        TRADUCIDO POR
+      	{% if translator.web %}
+      		<a href="{{ translator.web }}">
+      			{{ translator.name }}
+      		</a>
+      	{% else %}
+      		{{ translator.name }}
+      	{% endif %}
+        <br>
+        <a href="{{ post.original }}">
+          {{ post.original }}
+        </a>
+      </div>
+    {% endif %}
     {{ post.content }}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
