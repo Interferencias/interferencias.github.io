@@ -21,7 +21,7 @@ image:
       </div>--> <!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
-      {% include publishing %}
+      {% include publishing layout=post %}
     </div><!-- /.entry-meta -->
     {% if post.link %}
       <h1 class="entry-title">{% include author %}<a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>

@@ -25,6 +25,9 @@
 {% include browser-upgrade %}
 {% include navigation %}
 
+{% assign author = site.data.authors[page.author] %}
+{% assign translator = site.data.authors[page.translator] %}
+
 {% if page.image.feature %}
   <div class="entry-header">
     {% if page.image.credit %}
@@ -64,12 +67,15 @@
           </h1>
         {% endif %}
 
-        <h2>
+        <h2 style="font-size: 1em" >
+          {% include publishing layout=page %}
+          <!--
           <span class="entry-date date published">
             <time datetime="{{ page.date | date_to_xmlschema }}">
               {% include date type=page %}
             </time>
           </span>
+          -->
         </h2>
 
         {% if site.reading_time %}
