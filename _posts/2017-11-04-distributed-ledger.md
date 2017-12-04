@@ -15,7 +15,7 @@ The key of this system's movement lays on Token, elements that contains informat
 
 **Beware!** Shitty diagram incoming:
 
-![](https://github.com/terceranexus6/ethereum_lab/blob/master/images/diagram.jpg)
+![](https://github.com/terceranexus6/ethereum_lab/blob/master/images/diagram.jpg?raw=true)
 
 Ethereum (an uprising cryptocurrency) has a wallet application that let developers freely deploy c++ contracts for token creation or nodes organizations in a virtual sandbox or in the real world. This is a lot of fun and makes the understanding of distributed ledger clearer for developers. The original documentation can be found [here](https://www.ethereum.org/dao) and [here](https://www.ethereum.org/token), and I will sum up how to create a token contract. Also, there's a wider explanation about DL in spanish and some contract examples in my [github repository](https://github.com/terceranexus6/ethereum_lab), please feel free to take a look at it and suggest any issues or PR. The project development is also pictured in a kanban styled board in the repo.
 
