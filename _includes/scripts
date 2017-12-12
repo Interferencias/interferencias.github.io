@@ -1,5 +1,19 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
-  window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-3.2.1.min.js"><\/script>')
+	window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-3.2.1.min.js"><\/script>')
 </script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML&locale=es" type="text/javascript"></script>
+
+<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({
+	"showProcessingMessages": false,
+	"tex2jax": {"inlineMath": [ ['$','$'], ["\\(","\\)"] ], "processEscapes": true},
+	"fast-preview": {"disabled": true},
+	"CommonHTML": { "linebreaks": { "automatic": true } },
+	"HTML-CSS": { "linebreaks": { "automatic": true	} },
+	"SVG": { "linebreaks": { "automatic": true } } }
+	);
+</script>
+
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
