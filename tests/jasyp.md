@@ -21,4 +21,4 @@ En 2018 pretendemos lanzar la segunda edición de este evento, y esperamos poder
 
 Somos un grupo de voluntarios con mucha energía e interés, pero por desgracia no contamos con la solvencia económica suficiente como para pagar a los ponentes de fuera viaje y estancia. Sin embargo,  podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
 
-Si te gusta como suena, aquí te dejamos el formulario a rellenar. Aceptamos propuestas de ponentes de todas las edades, géneros, etnia y condición social,** seas quien seas, si te gusta la temática ¡Anímate!**
+Si te gusta como suena, aquí te dejamos el formulario a rellenar. Aceptamos propuestas de ponentes de todas las edades, géneros, etnia y condición social, **seas quien seas, si te gusta la temática ¡Anímate!**
