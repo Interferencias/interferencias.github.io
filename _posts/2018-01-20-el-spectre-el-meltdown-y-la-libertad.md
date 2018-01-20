@@ -11,9 +11,7 @@ Mucho se ha hablado últimamente de las vulnerabilidades Spectre y Meltdown que 
 
 Intel (al igual que la mayoría de fabricantes) no te proporcionan una versión accesible del código del software que se ejecuta en el interior de su hardware y sin el que el mismo no puede funcionar, generalmente para esto se alegan _"motivos de seguridad"_. El problema de esto es que tenemos que confiar ciegamente en que la empresa va a hacer bien su trabajo (lo que se ha de presuponer siempre...🌚) y que su prioridad es el bienestar el usuario (🌚🌚🌚...directamente).
 
-Ahora en serio, son cosas que pasan, sí, es difícil explotarlo, también; pero más allá de los detalles técnicos, que una empresa haga oídos sordos durante meses cuando ya se conocía el problema o que incluso lancen nuevos productos con el conocimiento de que son _"defectuosos"_, no habla precisamente bien de las políticas de esa empresa.
-
-https://www.profesionalreview.com/2018/01/05/intel-lanzo-coffee-lake-sabiendo-vulnerable-spectre-meltdown/
+Ahora en serio, son cosas que pasan, sí, es difícil explotarlo, también; pero más allá de los detalles técnicos, que una empresa haga oídos sordos durante meses cuando ya se conocía el problema o que incluso [lancen nuevos productos con el conocimiento de que son _"defectuosos"_](https://www.profesionalreview.com/2018/01/05/intel-lanzo-coffee-lake-sabiendo-vulnerable-spectre-meltdown/), no habla precisamente bien de las políticas de esa empresa.
 
 Y si la intención era cuidar su imagen, desde luego no lo están consiguiendo, porque la estrategia de desarrollar el parche en el oscurantismo para lanzarlo justo a la vez que se hiciera público el problema (_"lanzamos el parche ipso facto, y esto en dos días está olvidado"_), realmente no ha solucionado el problema: [el problema sigue estando](https://www.xataka.com/componentes/intel-admite-que-el-parche-para-spectre-provoca-problemas-en-practicamente-todos-sus-procesadores) y su imagen cada vez está quedando más manchada.
 
