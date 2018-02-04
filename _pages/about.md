@@ -1,45 +1,50 @@
 ---
 layout: page
-title: Sobre nosotros / About us
+title: "Sobre nosotros / About us"
 permalink: /about/
-description: "Información sobre el grupo."
+description: "Información sobre el grupo / Information about the group"
 image:
   feature: banners/header.png
+share: false
 ---
 
 **Interferencias** es un grupo ciberactivista sin ánimo de lucro que pretende reunir a una serie de personas interesadas en:
 
-- Privacidad
+- Derechos digitales
+- Privacidad en Internet
 - Vigilancia masiva
-- Derechos en internet
-- Seguridad
+- Seguridad informática
 
-Y derivados, con la idea de compartir experiencias, hacer mesas redondas y participar activamente en la defensa de los derechos en internet y la privacidad.
+La idea es compartir información sobre estos temas, al igual que hacer mesas redondas para conocer las opiniones del resto de personas y participar activamente en la defensa de los derechos en internet y la privacidad.
 
-Este grupo está asociado a la [EFF](https://www.eff.org) y más concretamente a la [Electronic Frontier Alliance](https://www.eff.org/fight) para activismo estudiantil.
+Este grupo se basa en los ideales de la [EFF](https://www.eff.org) sobre la importancia de que estos temas sean de conocimiento público y cercano para todas las personas, así como que se luche tanto desde las instituciones como desde las comunidades educativas, como hacen con [Electronic Frontier Alliance](https://www.eff.org/fight) para el activismo estudiantil.
 
-Puedes escribirnos por correo para más información: [interferencias@protonmail.com](mailto:interferencias@protonmail.com)
+Si necesitas más información o quieres comentarnos cualquier cuestión, puedes escribirnos por correo electrónico a [info@interferencias.tech](mailto:info@interferencias.tech) o [interferencias@protonmail.com](mailto:interferencias@protonmail.com).
 
-También puedes unirte a nuestro grupo de Telegram, que es el medio de comunicación más directo que usamos: [https://t.me/inter_ferencias](https://t.me/inter_ferencias)
-
-{% capture images %}
-  /assets/images/contact/qr_mail.png
-  /assets/images/contact/qr_telegram.png
-{% endcapture %}
-{% include gallery images=images cols=2 %}
+También puedes unirte a nuestro grupo de Telegram, que es el medio de comunicación más directo que usamos: [https://t.me/inter_ferencias](https://t.me/inter_ferencias).
 
 ---
-**Interferencias** is a nonprofit cyberactivist group dedicated in bring together people interested in:
 
-- Privacy
-- Massive Surveillance
-- Internet Rights
-- Security
+**Interferencias** is a non-profit cyber-activist group that aims to bring together a number of people interested in:
 
-And related, with the idea of sharing experiences, discuss and actively participate in privacy and internet rights.
+- Digital rights
+- Internet privacy
+- Massive surveillance
+- Computer security
 
-This group is associated with [EFF](https://www.eff.org) and [Electronic Frontier Alliance](https://www.eff.org/fight) for Student Activism.
+The idea is to share information on these issues, as well as round tables to know the opinions of other people and actively participate in the defense of rights on the Internet and privacy in the network.
 
-You can mail us for more information: [interferencias@protonmail.com](mailto:interferencias@protonmail.com)
+This group is based on the ideals of the [EFF](https://www.eff.org) on the importance of these issues being public knowledge and close to all people, as well as fighting from the institutions as from the educational communities, as they do with [Electronic Frontier Alliance](https://www.eff.org/fight) for student activism.
 
-You can also join our group Telegram, which is the most direct means of communication that we use:  [https://t.me/inter_ferencias](https://t.me/inter_ferencias)
+If you need more information or want to tell us any question, you can write us by email to [info@interferencias.tech](mailto:info@interferencias.tech) or [interferencias@protonmail.com](mailto:interferencias@protonmail.com).
+
+You can also join our Telegram group, which is the most direct means of communication we use: [https://t.me/inter_ferencias](https://t.me/inter_ferencias).
+
+---
+
+{% capture images %}
+  /assets/images/contact/qr_mail_interferencias.png
+  /assets/images/contact/qr_mail_protonmail.png
+  /assets/images/contact/qr_telegram.png
+{% endcapture %}
+{% include gallery images=images cols=3 %}
