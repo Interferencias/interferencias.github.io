@@ -17,3 +17,8 @@ Algunos enlaces de interés:
   * [Derechos del Bloggero / Bloggers' Rights](https://www.eff.org/bloggers)
   * [Centro de Atención / Action Center](https://act.eff.org/)
   * [Otros / Others](https://www.eff.org/issues)
+  
+ Colaboradores:
+ 
+ * [Hack & Beers](https://twitter.com/hackandbeers?lang=es)
+ * [Follow the white rabbit](fwhibbit.es)
