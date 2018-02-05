@@ -5,7 +5,7 @@ permalink: /about/
 description: "Información sobre el grupo / Information about the group"
 image:
   feature: banners/header.png
-share: false
+timing: false
 ---
 
 **Interferencias** es un grupo ciberactivista sin ánimo de lucro que pretende reunir a una serie de personas interesadas en:

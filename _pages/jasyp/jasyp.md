@@ -29,9 +29,9 @@ Si te gusta como suena, aquí te dejamos el formulario a rellenar. Aceptamos pro
 		<hr>
 
 		<div class="form-group">
-			<form name="reg_form" role="form" class="form-horizontal" method="post" action="http://localhost:3000/form">
-				<input type="hidden" name="good" value="https://interferencias.tech/" />
-				<input type="hidden" name="bad" value="https://interferencias.tech/about" />
+			<form name="reg_form" role="form" class="form-horizontal" method="post" action="http://localhost/jasyp_app/form">
+				<input type="hidden" name="good" value="{{ site.url }}/jasyp/success/" />
+				<input type="hidden" name="bad" value="{{ site.url }}/jasyp/error/" />
 				<label for="name" style="margin: 0 auto;">Nombre:</label>
 				<input type="text" name="name" class="form-control" style="width: 250px; margin: 0 auto;" required minlength="2" maxlength="255" pattern="[a-zA-ZÁáÉéÍíÓóÚúñÑÇç ]+" oninvalid="this.setCustomValidity('Introduce una cadena con entre 2 y 255 caracteres alfabéticos')"
 				 oninput="setCustomValidity('')" />

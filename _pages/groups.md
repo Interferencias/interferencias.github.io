@@ -5,6 +5,7 @@ permalink: /groups/
 description: "Información para grupos."
 image:
   feature: banners/header.png
+timing: false
 ---
 
 ![interferencias_banner]({{ "/assets/images/banners/interferencias_banner.png" }})
