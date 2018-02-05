@@ -1,7 +1,7 @@
 ---
 layout: post
 title: bluetooth hacking experiment and open tools
-author: inversealien
+author: terceranexus6
 image:
   feature: banners/header.png
 tags: hacking bluetooth security english
