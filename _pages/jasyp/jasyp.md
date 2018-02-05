@@ -5,6 +5,7 @@ permalink: /jasyp/
 description: "Formulario de participación para las JASYP '18"
 image:
   feature: banners/header.png
+timing: false
 ---
 
 Las **JASyP** son unas jornadas organizadas por Interferencias con la colaboración de Follow the White Rabbit y Hack&Beers, que pretende dar cabida a todos aquellos ponentes que quieran hablar de anonimato, seguridad informática y protección digital. La edición de 2017 se celebró en la Escuela Técnica Superior de Ingeniería Informática y Telecomunicaciones de la Universidad de Granada, y acogió a ponentes y asistentes de toda España durante dos días en la Escuela Técnica para acabar con un tercer día de Hack&Beers.
@@ -25,11 +26,11 @@ Si te gusta como suena, aquí te dejamos el formulario a rellenar. Aceptamos pro
 
 <div class="bootstrap">
 	<div class="text-center">
-		<h3>Crear participaciones</h3>
+		<h3>Registrar participación</h3>
 		<hr>
 
 		<div class="form-group">
-			<form name="reg_form" role="form" class="form-horizontal" method="post" action="http://localhost/jasyp_app/form">
+			<form name="reg_form" role="form" class="form-horizontal" method="post" action="{{ site.url }}/jasyp_app/form">
 				<input type="hidden" name="good" value="{{ site.url }}/jasyp/success/" />
 				<input type="hidden" name="bad" value="{{ site.url }}/jasyp/error/" />
 				<label for="name" style="margin: 0 auto;">Nombre:</label>
