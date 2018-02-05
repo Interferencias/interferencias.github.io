@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CA pairs creation
-author: inversealien
+author: terceranexus6
 image:
   feature: banners/header.png
 tags: security english linux
