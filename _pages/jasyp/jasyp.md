@@ -8,24 +8,53 @@ image:
 timing: false
 ---
 
-Las **JASyP** son unas jornadas organizadas por Interferencias con la colaboración de Follow the White Rabbit y Hack&Beers, que pretende dar cabida a todos aquellos ponentes que quieran hablar de anonimato, seguridad informática y protección digital. La edición de 2017 se celebró en la Escuela Técnica Superior de Ingeniería Informática y Telecomunicaciones de la Universidad de Granada, y acogió a ponentes y asistentes de toda España durante dos días en la Escuela Técnica para acabar con un tercer día de Hack&Beers.
+Las **JASyP** (*Jornadas sobre Anonimato, Seguridad y Privacidad*) son unas jornadas organizadas por [Interferencias](https://twitter.com/Inter_ferencias) con la colaboración de [Follow the White Rabbit](https://twitter.com/fwhibbit_blog) y [Hack&Beers](https://twitter.com/hackandbeers), que pretende dar un espacio a todas aquellas personas con inquietudes sobre los problemas que encontramos en el día a día cada vez que usamos Internet o cualquier ordenador en general. La edición de 2017 se celebró en la [Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/), recibiendo a parcitipantes y asistentes de toda España durante dos días en el Salón de Actos de la propia Escuela, para cerrar con un tercer día en el que se celebró un **Hack&Beers** en el bar **La Posada**.
 
-En 2018 pretendemos lanzar la segunda edición de este evento, y esperamos poder aprender mucho, aprovechar los días incluso más, y sacar partido del buen rollo que Granada siempre brinda en sus bares. Para ello lanzamos este **C4P** para todos aquellos interesados en participar como ponentes en el evento.
+![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/01.jpg" }})
 
-**¿Qué pedimos?**
-
-- Ponentes interesados en hablar sobre cualquiera de los temas relacionados: **Anonimato en internet, Seguridad Informática y Protección digital.**
-- Las charlas pueden ser de cualquier área. Es cierto que la temática se presta a talleres y charlas técnicas, pero nos encantaría acoger una charla relacionada con la temática de **derecho, filosofía, política, arte** o cualquier otra rama. ¡Lánzate y cuéntanoslo!
-- Si la charla está apoyada en Software libre o cualquier contenido que sea libre, muchísimo mejor.
-
-**¿Qué ofrecemos?**
-
-Somos un grupo de voluntarios con mucha energía e interés, pero por desgracia no contamos con la solvencia económica suficiente como para pagar a los ponentes de fuera viaje y estancia. Sin embargo,  podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
-
-Si te gusta como suena, aquí te dejamos el formulario a rellenar. Aceptamos propuestas de ponentes de todas las edades, géneros, etnia y condición social, **seas quien seas, si te gusta la temática ¡Anímate!**
+En este 2018 pretendemos lanzar la segunda edición de este evento, donde esperamos poder aprender mucho, aprovechar los días incluso más, y sacar partido del buen rollo que Granada siempre brinda en sus bares. Para ello lanzamos este **Call for Papers** para todos aquellos interesados en participar en la **edición de este año**, que tendrá lugar **los días VIERNES 13 Y SÁBADO 14 DE ABRIL**.
 
 <div class="bootstrap">
 	<div class="text-center">
+    <br>
+		<h3>¿Qué pedimos?</h3>
+		<hr>
+  </div>
+</div>
+
+- Personas interesadas en hablar sobre la importancia de los **derechos digitales**, la **privacidad en Internet**, la **seguridad informática** y todos aquellos temas de este ámbito que puedan tener relación.
+- Las charlas pueden ser de cualquier área. Es cierto que la temática se presta a talleres y charlas técnicas, pero nos encantaría acoger una charla relacionada con la temática desde un punto de vista distinto, como puede ser el de personas dedicadas a **derecho, filosofía, política, arte** o cualquier otra rama. ¡Lánzate y cuéntanoslo!
+- Si la charla está apoyada en Software Libre o cualquier contenido que sea libre, muchísimo mejor.
+
+![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/02.jpg" }})
+
+<div class="bootstrap">
+	<div class="text-center">
+    <br>
+		<h3>¿Qué ofrecemos?</h3>
+		<hr>
+  </div>
+</div>
+
+Los integrantes de Interferencias somos un grupo de personas con mucha energía e interés, y aunque en la edición de este año (al igual que en la del año pasado) contamos con el patrocinio del [Colegio Profesional de Ingenieros en Informática de Andalucía](http://cpiiand.es/), por desgracia no contamos con la suficiente solvencia económica como para poder hacernos cargo de los gastos de viaje y alojamiento para los participantes que tengan que desplazarse. Sin embargo, podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
+
+Es por eso que también buscamos patrocinadores que nos permitieran hacer frente a los gastos que serían necesarios cubrir para facilitar la intervención en las Jornadas de todos los participantes sin importar de que parte del país sean; ofreciendo a cambio la visibilidad y repercusión que tenemos gracias a la implicación en las redes sociales de los grupos y asociaciones amigas, así como en la prensa provincial gracias a la mediación de la Dirección de Escuela Técnica donde se realizaran parte de las Jornadas. Si quieres participar como patrocinador de las **JASyP '18** o tienes alguna duda relacionada con el tema escríbemos a [jasyp@interferencias.tech](mailto:[jasyp@interferencias.tech]).
+
+<div class="bootstrap">
+	<div class="text-center">
+    <br>
+		<h3>¿Te hemos convencido?</h3>
+		<hr>
+  </div>
+</div>
+
+En el caso de sea así, si todo esto te suena bien, aquí te dejamos el formulario a rellenar; aunque también agradecemos enormemente que nos ayudes con la difusión del evento a través de redes sociales o el simple boca a boca. Aceptamos propuestas de participantes de todas las edades, géneros, etnias y condición social, **seas quien seas, si te gusta la temática ¡Anímate!**
+
+![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/03.jpg" }})
+
+<div class="bootstrap">
+	<div class="text-center">
+    <br>
 		<h3>Registrar participación</h3>
 		<hr>
 
