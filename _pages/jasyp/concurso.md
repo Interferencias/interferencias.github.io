@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JASyP '18 - Consurso
+title: JASyP '18 - Concurso
 permalink: /jasyp/concurso/
 description: "Concurso de arte para las JASYP"
 image:
