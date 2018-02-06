@@ -26,6 +26,7 @@ En este 2018 pretendemos lanzar la segunda edición de este evento, donde espera
 - Las charlas pueden ser de cualquier área. Es cierto que la temática se presta a talleres y charlas técnicas, pero nos encantaría acoger una charla relacionada con la temática desde un punto de vista distinto, como puede ser el de personas dedicadas a **derecho, filosofía, política, arte** o cualquier otra rama. ¡Lánzate y cuéntanoslo!
 - Si la charla está apoyada en Software Libre o cualquier contenido que sea libre, muchísimo mejor.
 - Además, también vamos a organizar un concurso artístico sobre el que podréis encontrar más información [aquí]({{ site.url }}/jasyp/concurso/).
+- El plazo para mandar la solicitudes de participación estará abierto hasta el día **LUNES 5 DE MARZO**.
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/02.jpg" }})
 
