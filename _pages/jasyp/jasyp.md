@@ -12,7 +12,7 @@ Las **JASyP** (*Jornadas sobre Anonimato, Seguridad y Privacidad*) son unas jorn
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/01.jpg" }})
 
-En este 2018 pretendemos lanzar la segunda edición de este evento, donde esperamos poder aprender mucho, aprovechar los días incluso más, y sacar partido del buen rollo que Granada siempre brinda en sus bares. Para ello lanzamos este **Call for Papers** para todos aquellos interesados en participar en la **edición de este año**, que tendrá lugar **los días VIERNES 13 Y SÁBADO 14 DE ABRIL**.
+En este 2018 pretendemos lanzar la segunda edición de este evento, donde esperamos poder aprender mucho, aprovechar los días incluso más, y sacar partido del buen rollo que Granada siempre brinda en sus bares. Para ello lanzamos este **Call for Papers** para todas aquellas personas interesadas en participar en la **edición de este año**, que tendrá lugar **los días VIERNES 13 Y SÁBADO 14 DE ABRIL**.
 
 <div class="bootstrap">
 	<div class="text-center">
@@ -25,6 +25,7 @@ En este 2018 pretendemos lanzar la segunda edición de este evento, donde espera
 - Personas interesadas en hablar sobre la importancia de los **derechos digitales**, la **privacidad en Internet**, la **seguridad informática** y todos aquellos temas de este ámbito que puedan tener relación.
 - Las charlas pueden ser de cualquier área. Es cierto que la temática se presta a talleres y charlas técnicas, pero nos encantaría acoger una charla relacionada con la temática desde un punto de vista distinto, como puede ser el de personas dedicadas a **derecho, filosofía, política, arte** o cualquier otra rama. ¡Lánzate y cuéntanoslo!
 - Si la charla está apoyada en Software Libre o cualquier contenido que sea libre, muchísimo mejor.
+- Además, también vamos a organizar un concurso artístico sobre el que podréis encontrar más información [aquí]({{ site.url }}/jasyp/concurso/).
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/02.jpg" }})
 
@@ -70,7 +71,7 @@ En el caso de sea así, si todo esto te suena bien, aquí te dejamos el formular
 				<label for="email" style="margin: 0 auto;">Email:</label>
 				<input type="email" name="email" class="form-control" style="width: 250px; margin: 0 auto;" required maxlength="255" oninvalid="this.setCustomValidity('Introduce una dirección de correo eletrónico válida')" oninput="setCustomValidity('')" />
 				<label for="title" style="margin: 0 auto;">Título:</label>
-				<input type="text" name="title" class="form-control" style="width: 350px; margin: 0 auto;" required minlength="20" maxlength="255" pattern="[a-zA-Z0-9ÁáÉéÍíÓóÚúñÑÇç.,-: ]+" oninvalid="this.setCustomValidity('Introduce una cadena con entre 20 y 255 caracteres alfanuméricos o signos de puntuación')"
+				<input type="text" name="title" class="form-control" style="width: 350px; margin: 0 auto;" required minlength="20" maxlength="255" pattern="[a-zA-Z0-9ÁáÉéÍíÓóÚúñÑÇç.,-:¿?¡! ]+" oninvalid="this.setCustomValidity('Introduce una cadena con entre 20 y 255 caracteres alfanuméricos o signos de puntuación/exclamación')"
 				 oninput="setCustomValidity('')" />
 				<label for="type">Tipo:</label>
 				<p>
@@ -83,7 +84,7 @@ En el caso de sea así, si todo esto te suena bien, aquí te dejamos el formular
 					<input type="radio" name="length" value="L" /> Larga
 				</p>
 				<label for="title">Resumen:</label>
-				<textarea name="abstract" required class="form-control" style="resize:none; overflow-y: scroll;" rows="4" cols="50" required minlength="150" maxlength="2000" pattern="[a-zA-Z0-9ÁáÉéÍíÓóÚúñÑÇç.,-: ]+ " oninvalid="this.setCustomValidity('Introduce una cadena con entre 150 y 2000 caracteres alfanúmericos o signos de puntuación')"
+				<textarea name="abstract" required class="form-control" style="resize:none; overflow-y: scroll;" rows="4" cols="50" required minlength="150" maxlength="2000" oninvalid="this.setCustomValidity('Introduce una cadena con entre 150 y 2000 caracteres alfanúmericos o signos de puntuación')"
 				 oninput="setCustomValidity('')"></textarea>
 				<div class="col-xs-12" style="height:12px;"></div>
 				<button type="submit" class="btn btn-default">Enviar</button>
