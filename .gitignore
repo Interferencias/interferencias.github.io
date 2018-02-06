@@ -4,3 +4,4 @@ _site
 node_modules
 Gemfile.lock
 access_token
+assets/lib/

@@ -9,76 +9,72 @@
   <html class="no-js lt-ie9" lang="ea">
 <![endif]-->
 <!--[if gt IE 8]>
-  <!--> <html class="no-js" lang="es">
+  <!-->
+<html class="no-js" lang="es">
 <!--<![endif]-->
 
 <head>
-{% include head %}
+	{% include head %}
 </head>
 
-<body id="page"
-  {% if page.image.feature %}
-    class="feature"
-  {% endif %}
->
+<body id="page" {% if page.image.feature %} class="feature" {% endif %}>
 
-{% include browser-upgrade %}
-{% include navigation %}
-
-{% if page.image.feature %}
-  <div class="entry-header">
-    {% if page.image.credit %}
-      <div class="image-credit">
-          Fuente:
-          <a href="{{ page.image.creditlink }}">
+	{% include browser-upgrade %} {% include navigation %} {% if page.image.feature %}
+	<div class="entry-header">
+		{% if page.image.credit %}
+		<div class="image-credit">
+			Fuente:
+			<a href="{{ page.image.creditlink }}">
             {{ page.image.credit }}
           </a>
-      </div><!-- /.image-credit -->
-    {% endif %}
+		</div>
+		<!-- /.image-credit -->
+		{% endif %}
 
-    <div class="entry-image">
-      <img src="{{ site.url }}/assets/images/{{ page.image.feature }}" alt="{{ page.title }}">
-    </div><!-- /.entry-image -->
-  </div><!-- /.entry-header -->
-{% endif %}
+		<div class="entry-image">
+			<img src="{{ site.url }}/assets/images/{{ page.image.feature }}" alt="{{ page.title }}">
+		</div>
+		<!-- /.entry-image -->
+	</div>
+	<!-- /.entry-header -->
+	{% endif %}
 
-<div id="main" role="main">
-  <article class="hentry">
-    <header class="header-title">
-      <div class="header-title-wrap">
-        <h1 class="entry-title">
+	<div id="main" role="main">
+		<article class="hentry">
+			<header class="header-title">
+				<div class="header-title-wrap">
+					<h1 class="entry-title">
             {{ page.title }}
-        </h1>
+        </h1> {% unless page.error %} {% if page.timing != false %} {% if site.reading_time %}
+					<p class="entry-reading-time">
+						<i class="fa fa-clock-o"></i> {% include read-time %}
+					</p>
+					<!-- /.entry-reading-time -->
+					{% endif %} {% endif %} {% endunless %}
+				</div>
+				<!-- /.header-title-wrap -->
+			</header>
 
-        {% unless page.error %}
-          {% if site.reading_time %}
-          <p class="entry-reading-time">
-            <i class="fa fa-clock-o"></i>
-            {% include read-time %}
-          </p><!-- /.entry-reading-time -->
-          {% endif %}
-        {% endunless %}
-      </div><!-- /.header-title-wrap -->
-    </header>
+			<div class="entry-content">
+				{{ content }}
+				<footer class="entry-meta">
+					{% if page.share != false %} {% include social-share %} {% endif %}
+				</footer>
+			</div>
+			<!-- /.entry-content -->
+		</article>
+	</div>
+	<!-- /#main -->
 
-    <div class="entry-content">
-      {{ content }}
-      <footer class="entry-meta">
-        {% if page.share != false %}
-          {% include social-share %}
-        {% endif %}
-      </footer>
-    </div><!-- /.entry-content -->
-  </article>
-</div><!-- /#main -->
+	<div class="footer-wrapper">
+		<footer role="contentinfo">
+			{% include footer %}
+		</footer>
+	</div>
+	<!-- /.footer-wrapper -->
 
-<div class="footer-wrapper">
-  <footer role="contentinfo">
-    {% include footer %}
-  </footer>
-</div><!-- /.footer-wrapper -->
-
-{% include scripts %}
+	{% include scripts %}
 
 </body>
+
 </html>

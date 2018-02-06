@@ -89,6 +89,25 @@
 
     <div class="entry-content">
       {{ content }}
+
+      <script data-isso="//interferencias.tech/isso/"
+              data-isso-css="true"
+              data-isso-reply-to-self="true"
+              data-isso-require-author="true"
+              data-isso-require-email="false"
+              data-isso-max-comments-top="10"
+              data-isso-max-comments-nested="5"
+              data-isso-reveal-on-click="5"
+              data-isso-avatar="true"
+              data-isso-avatar-bg="#f0f0f0"
+              data-isso-avatar-fg="#9abf88 #5698c4 #e279a3 #dbdb7f #ffa500 #a52a2a"
+              data-isso-vote="true"
+              data-vote-levels="0,1,2,3,4,5,6,7,8,9,10"
+
+        src="//interferencias.tech/isso/js/embed.min.js"></script>
+
+      <section id="isso-thread"></section>
+
       <footer class="entry-meta">
         <span class="entry-tags">
           {% for tag in page.tags %}

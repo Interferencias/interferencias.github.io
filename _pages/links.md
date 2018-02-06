@@ -5,6 +5,7 @@ permalink: /links/
 description: "Enlaces de interés."
 image:
   feature: banners/header.png
+timing: false
 ---
 
 Algunos enlaces de interés:
@@ -17,3 +18,8 @@ Algunos enlaces de interés:
   * [Derechos del Bloggero / Bloggers' Rights](https://www.eff.org/bloggers)
   * [Centro de Atención / Action Center](https://act.eff.org/)
   * [Otros / Others](https://www.eff.org/issues)
+
+ Colaboradores:
+
+ * [Hack & Beers](https://twitter.com/hackandbeers?lang=es)
+ * [Follow the white rabbit](fwhibbit.es)

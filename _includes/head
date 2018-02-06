@@ -92,6 +92,7 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+<link rel="stylesheet" href="{{ site.url }}/assets/css/iso.css">
 <!-- Webfonts -->
 <link href="{{ site.url }}/assets/css/lato.css" rel="stylesheet" type="text/css">
 
@@ -133,6 +134,6 @@
       {{ site.url }}/assets/images/{{ background }}
     {% endcapture %}
   {% endunless %}
-  
+
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}

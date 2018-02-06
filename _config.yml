@@ -5,9 +5,10 @@ description:      Grupo ciberactivista dedicado a organizar actividades y compar
 reading_time:     true
 words_per_minute: 200
 
-# Your site's domain goes here (when testing locally leave blank or use http://localhost:4000)
-url: https://interferencias.github.io
-# url: http://localhost:4000
+# Site domain
+# url: https://interferencias.tech
+# url: https://interferencias.github.io
+url: http://localhost:4000
 
 # Author information
 author:
@@ -16,7 +17,7 @@ author:
   bio:            Grupo ciberactivista dedicado a organizar actividades y compartir
     información y opinión sobre derechos digitales, seguridad informática y temáticas
     similares.
-  email:          interferencias@protonmail.com
+  email:          info@interferencias.tech
   # Social networking links used in footer.
   telegram:       inter_ferencias
   twitter:        inter_ferencias

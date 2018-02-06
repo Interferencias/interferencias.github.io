@@ -5,6 +5,7 @@ permalink: /rules/
 description: "Normas de convivencia del grupo."
 image:
   feature: banners/header.png
+timing: false
 ---
 
 Las normas y la filosofía de este grupo intentan ser pocas, y simples.
