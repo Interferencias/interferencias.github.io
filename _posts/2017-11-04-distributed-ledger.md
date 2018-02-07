@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Distributed Ledger
+title: Distributed Ledger and ethereum token creation
 author: terceranexus6
 image:
   feature: banners/header.png
 tags: security bitcoins distributed_ledger ledger blockchain
 ---
-
-# Distributed Ledger and ethereum token creation
 
 Basically, **distributed ledger** is the concept of sharing data evolution control in a common network. One of the most famous examples of this are BITCOINS, which works over a blockchain, a data base distributed between several participants (nodes) inside a ledger, which contains the updated status of each transaction between the nodes. These nodes are connected using a specific protocol.
 
