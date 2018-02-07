@@ -46,8 +46,13 @@ image:
         </a>
       </div>
     {% endif %}
-    {{ post.content }}
+    {{ post.content | truncatewords:100}}
   </div><!-- /.entry-content -->
+  <div class="bootstrap">
+  	<div class="text-center">
+      <a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><button type="button" class="btn btn-success">Leer más</button></a>
+    </div>
+  </div>
 </article><!-- /.hentry -->
 {% endfor %}
 

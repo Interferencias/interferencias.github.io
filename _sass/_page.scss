@@ -219,10 +219,10 @@ body {
 .entry-meta {
 	@include font-rem(15);
 	text-transform: uppercase;
-	color: lighten($base-color,60);
+	color: lighten($base-color,40);
 
 	a {
-		color: lighten($base-color,60);
+		color: lighten($base-color,1);
 	}
 
 	.vcard {
