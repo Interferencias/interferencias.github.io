@@ -8,7 +8,7 @@ image:
 timing: false
 ---
 
-Algunos enlaces de interés:
+Algunos enlaces de interés: / Some links of interest:
 
 * [Tor Project](https://www.torproject.org/) (navegador anónimo / anonymous browser)
 * [DistroWatch.com](http://distrowatch.com) (distribuciones de Linux / Linux distributions)
@@ -21,5 +21,5 @@ Algunos enlaces de interés:
 
  Colaboradores:
 
- * [Hack & Beers](https://twitter.com/hackandbeers?lang=es)
- * [Follow the white rabbit](fwhibbit.es)
+ * [Hack&Beers](https://twitter.com/hackandbeers)
+ * [Follow the White Rabbit](fwhibbit.es)

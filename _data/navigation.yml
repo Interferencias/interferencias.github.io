@@ -6,14 +6,11 @@
 - title: Unirme
   url: /join/
 
-- title: Normas
-  url: /rules/
+- title: Grupos
+  url: /groups/
 
 - title: Enlaces
   url: /links/
-
-- title: Grupos
-  url: /groups/
 
 - title: RSS
   url: /feed.xml
