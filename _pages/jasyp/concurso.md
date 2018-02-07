@@ -23,4 +23,4 @@ En las JASyP (Jornadas de Anonimato, Seguridad y Privacidad) que como ya hemos a
 
 En el caso de las obras no seleccionadas, todas serán publicitadas en nuestra web con el debido reconocimiento a sus autores en agradecimiento por su participación. ¡Estamos deseando ver todas vuestras ideas! ¡Seguro que son inspiradoras!
 
-![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/ciberknowledge.jpg" }})
+![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/ciberknowledge.png" }})
