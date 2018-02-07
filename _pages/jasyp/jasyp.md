@@ -26,6 +26,7 @@ En este 2018 pretendemos lanzar la segunda edición de este evento, donde espera
 - Las charlas pueden ser de cualquier área. Es cierto que la temática se presta a talleres y charlas técnicas, pero nos encantaría acoger una charla relacionada con la temática desde un punto de vista distinto, como puede ser el de personas dedicadas a **derecho, filosofía, política, arte** o cualquier otra rama. ¡Lánzate y cuéntanoslo!
 - Si la charla está apoyada en Software Libre o cualquier contenido que sea libre, muchísimo mejor.
 - Además, también vamos a organizar un concurso artístico sobre el que podréis encontrar más información [aquí]({{ site.url }}/jasyp/concurso/).
+- Y como complemento a todo esto, también estamos preparando un **Capture The Flag**, donde cualquiera que se anime pueda poner a prueba sus habilidades a la hora de explotar las debilidades de sistemas informáticos.
 - El plazo para mandar la solicitudes de participación estará abierto hasta el día **LUNES 5 DE MARZO**.
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/02.jpg" }})
@@ -40,7 +41,7 @@ En este 2018 pretendemos lanzar la segunda edición de este evento, donde espera
 
 Los integrantes de Interferencias somos un grupo de personas con mucha energía e interés, y aunque en la edición de este año (al igual que en la del año pasado) contamos con el patrocinio del [Colegio Profesional de Ingenieros en Informática de Andalucía](http://cpiiand.es/), por desgracia no contamos con la suficiente solvencia económica como para poder hacernos cargo de los gastos de viaje y alojamiento para los participantes que tengan que desplazarse. Sin embargo, podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
 
-Es por eso que también buscamos patrocinadores que nos permitieran hacer frente a los gastos que serían necesarios cubrir para facilitar la intervención en las Jornadas de todos los participantes sin importar de que parte del país sean; ofreciendo a cambio la visibilidad y repercusión que tenemos gracias a la implicación en las redes sociales de los grupos y asociaciones amigas, así como en la prensa provincial gracias a la mediación de la Dirección de Escuela Técnica donde se realizaran parte de las Jornadas.
+Es por eso que también buscamos patrocinadores que nos permitieran hacer frente a los gastos que serían necesarios cubrir para facilitar la intervención en las Jornadas de todos los participantes sin importar de qué parte del país sean; ofreciendo a cambio la visibilidad y repercusión que tenemos gracias a la implicación en las redes sociales de los grupos y asociaciones amigas, así como en la prensa provincial gracias a la mediación de la Dirección de Escuela Técnica donde se realizaran parte de las Jornadas.
 
 Si quieres participar como patrocinador de las **JASyP '18** o tienes alguna duda relacionada con las Jornadas escríbemos a [jasyp@interferencias.tech](mailto:[jasyp@interferencias.tech]).
 

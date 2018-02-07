@@ -14,7 +14,7 @@ En Interferencias creemos que la privacidad en Internet (al igual que todo lo qu
 En las JASyP (Jornadas de Anonimato, Seguridad y Privacidad) que como ya hemos anunciado tendrán lugar **los días VIERNES 13 Y SÁBADO 14 DE ABRIL**, a parte de las diferentes [charlas y talleres](https://interferencias.tech/jasyp/) para queremos lanzar un concurso de arte.
 
 - El tema de la obra deberá ser **Privacidad en Internet, Derechos digitales, Seguridad informática o Anonimato en las redes**.
-- El método de expresión puede ser pintura, fotografía, ilustración o recurso audiovisual (este último deberá tener un extensión no superior a los 2 minutos).
+- El medio de expresión puede ser pintura, fotografía, ilustración o recurso audiovisual (este último deberá tener un extensión no superior a los 2 minutos).
 - Una selección de 15 obras será expuesta durante las Jornadas en el hall de la Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada. En el caso de las obras audiovisuales que sean seleccionadas, estas serán proyectadas en el Salón de Actos a lo largo de las mismas. El premio para la obra que resulte ganadora será de un vale para la tienda de bellas artes **La Madriguera Shop**, donde cuenta con una extensa variedad de material de ilustración, dibujo y caligrafía y dedicada a diseñadores, artesanos e ilustradores.
 - Si quieres participar escríbenos a [jasyp@interferencias.tech](mailto:jasyp@interferencias.tech) indicándonos tu interés en participar en el concurso y con en qué formato sería, en cuanto recibamos tu correo te contestaremos con el método de participación en función del formato de la obra.
 
