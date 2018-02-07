@@ -8,6 +8,32 @@ image:
 timing: false
 ---
 
+<div style='font-size:0;'>
+  <div style='margin:0 auto 0 auto; text-align:center; display:inline-block;'>
+    <img src='https://interferencias.tech/assets/images/social/tags/banner.png' alt='Logo de Interferencias en formato banner' width="636">
+  </div>
+  <div style="margin:0 auto 0 auto; text-align:center; display:inline-block;">
+    <a href="mailto:info@interferencias.tech">
+      <img src="https://interferencias.tech/assets/images/social/tags/email.png" alt="Logo Email" width="106">
+    </a>
+    <a href="https://t.me/inter_ferencias">
+      <img src="https://interferencias.tech/assets/images/social/tags/telegram.png" alt="Logo Telegram" width="106">
+    </a>
+    <a href="https://twitter.com/Inter_ferencias">
+      <img src="https://interferencias.tech/assets/images/social/tags/twitter.png" alt="Logo Twitter" width="106">
+    </a>
+    <a href="https://mastodon.technology/@interferencias">
+      <img src="https://interferencias.tech/assets/images/social/tags/mastodon.png" alt="Logo Mastodon" width="106">
+    </a>
+    <a href="https://vimeo.com/interferencias">
+      <img src="https://interferencias.tech/assets/images/social/tags/vimeo.png" alt="Logo Vimeo" width="106">
+    </a>
+    <a href="https://github.com/interferencias">
+      <img src="https://interferencias.tech/assets/images/social/tags/github.png" alt="Logo GitHub" width="106">
+    </a>
+  </div>
+</div>
+
 **Interferencias** es un grupo ciberactivista sin ánimo de lucro que pretende reunir a una serie de personas interesadas en:
 
 - Derechos digitales

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: bluetooth hacking experiment and open tools
+title: Bluetooth hacking experiment and open tools
 author: terceranexus6
 image:
   feature: banners/header.png
@@ -11,12 +11,12 @@ I've been quite in many things lately, which didn't allow me to study all I want
 
 ![](https://thumbs.gfycat.com/SaneSpanishCrayfish-max-1mb.gif)
 
- 
+
 Anyway, what I want to do here is to catch a connection between two nodes using bluetooth. The first idea is _only_ to capture the content of the connection.  For this I need a linux system, in this case I'm using debian based Raspbian in the RPi 3.  
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/r096d85eunjfpjpc3wdk.jpg)
 
-On it, I install some packages and clone the [repo](https://github.com/conorpp/btproxy.git) of the tool on github (**git needed here, btw**): 
+On it, I install some packages and clone the [repo](https://github.com/conorpp/btproxy.git) of the tool on github (**git needed here, btw**):
 
 ```
 $ sudo apt-get install bluez libbluetooth-dev python-dev
@@ -25,10 +25,10 @@ $ git clone git://github.com/conorpp/btproxy
 ```
 For installing the tool, simply use `sudo python setup.py install`.
 
-Now we need to [get](https://www.systutorials.com/docs/linux/man/1-hcitool/) the MAC address of the both nodes. 
+Now we need to [get](https://www.systutorials.com/docs/linux/man/1-hcitool/) the MAC address of the both nodes.
 
 ```
-$ hcitool scan 
+$ hcitool scan
 ```
 ![](https://thepracticaldev.s3.amazonaws.com/i/rjcsf6kg5iiufuu7pdz6.jpg)
 
