@@ -39,7 +39,7 @@ En este 2018 pretendemos lanzar la segunda edición de este evento, donde espera
   </div>
 </div>
 
-Los integrantes de Interferencias somos un grupo de personas con mucha energía e interés, y aunque en la edición de este año (al igual que en la del año pasado) contamos con el patrocinio del [Colegio Profesional de Ingenieros en Informática de Andalucía](http://cpiiand.es/), por desgracia no contamos con la suficiente solvencia económica como para poder hacernos cargo de los gastos de viaje y alojamiento para los participantes que tengan que desplazarse. Sin embargo, podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
+Los integrantes de Interferencias somos un grupo de personas con mucha energía e interés, y aunque en la edición del año pasado contamos con el patrocinio del [Colegio Profesional de Ingenieros en Informática de Andalucía](http://cpiiand.es/), por desgracia no contamos con la suficiente solvencia económica como para poder hacernos cargo de los gastos de viaje y alojamiento para los participantes que tengan que desplazarse. Sin embargo, podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
 
 Es por eso que también buscamos patrocinadores que nos permitieran hacer frente a los gastos que serían necesarios cubrir para facilitar la intervención en las Jornadas de todos los participantes sin importar de qué parte del país sean; ofreciendo a cambio la visibilidad y repercusión que tenemos gracias a la implicación en las redes sociales de los grupos y asociaciones amigas, así como en la prensa provincial gracias a la mediación de la Dirección de Escuela Técnica donde se realizaran parte de las Jornadas.
 

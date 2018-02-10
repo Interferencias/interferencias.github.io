@@ -61,3 +61,5 @@ def slave_cb(res):
 I must say this tool confusing when using two nodes being equal, such as two mobiles phones, and didn't work properly. Also for _that_ kind of sniffing I would suggest [this repo](https://github.com/vshymanskyy/BLESniffer_Python/tree/e9429371a9832d406fd6e897b2dadc2637c64976) instead, which also prepares a .pcap file out of the scanning for the phone traffic, but it might needs [hardware support](https://www.adafruit.com/product/2269), if you have an arduino you [can make](https://github.com/RedBearLab/nRF51822-Arduino) your own, tho. On the other hand, another alternative is [BTJuice](https://github.com/DigitalSecurity/btlejuice), which also works with **python** + **NodeJS**. This tool is very complete and includes an user-friendly interface for using in localhost. Also the commands are very similar to the ones used in btproxy.     
 
 Anyway this is everything I got until now!
+
+*Also written in: [https://dev.to/terceranexus6/security-sprint-week-10--11-bluetooth-hacking--4kh3](https://dev.to/terceranexus6/security-sprint-week-10--11-bluetooth-hacking--4kh3)*
