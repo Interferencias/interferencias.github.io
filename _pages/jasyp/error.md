@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JASyP '18 - Participación
+title: JASYP '18 - Participación
 permalink: /jasyp/error/
 description: "Formulario de participación para las JASYP '18"
 image:

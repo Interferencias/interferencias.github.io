@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JASyP '18 - Participación
+title: JASYP '18 - Participación
 permalink: /jasyp/success/
 description: "Formulario de participación para las JASYP '18"
 image:
@@ -9,7 +9,7 @@ timing: false
 share: false
 ---
 
-Gracias por registrarte en las **JASyP '18**!!!
+Gracias por registrarte en las **JASYP '18**!!!
 
 Tu solicitud de participación ha sido registrada con éxito. Deberías recibir en unos minutos un correo de confirmación de [jasyp@interferencias.tech](mailto:jasyp@interferencias.tech) a la dirección que has indicado.
 

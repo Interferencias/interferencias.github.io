@@ -8,7 +8,7 @@ image:
 timing: false
 ---
 
-Las **JASyP** (*Jornadas sobre Anonimato, Seguridad y Privacidad*) son unas jornadas organizadas por [Interferencias](https://twitter.com/Inter_ferencias) con la colaboración de [Follow the White Rabbit](https://twitter.com/fwhibbit_blog) y [Hack&Beers](https://twitter.com/hackandbeers), que pretende dar un espacio a todas aquellas personas con inquietudes sobre los problemas que encontramos en el día a día cada vez que usamos Internet o cualquier ordenador en general. La edición de 2017 se celebró en la [Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/), recibiendo a parcitipantes y asistentes de toda España durante dos días en el Salón de Actos de la propia Escuela, para cerrar con un tercer día en el que se celebró un **Hack&Beers** en el bar **La Posada**.
+Las **JASYP** (*Jornadas sobre Anonimato, Seguridad y Privacidad*) son unas jornadas organizadas por [Interferencias](https://twitter.com/Inter_ferencias) con la colaboración de [Follow the White Rabbit](https://twitter.com/fwhibbit_blog) y [Hack&Beers](https://twitter.com/hackandbeers), que pretende dar un espacio a todas aquellas personas con inquietudes sobre los problemas que encontramos en el día a día cada vez que usamos Internet o cualquier ordenador en general. La edición de 2017 se celebró en la [Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/), recibiendo a parcitipantes y asistentes de toda España durante dos días en el Salón de Actos de la propia Escuela, para cerrar con un tercer día en el que se celebró un **Hack&Beers** en el bar **La Posada**.
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/01.jpg" }})
 
@@ -26,7 +26,7 @@ En este 2018 pretendemos lanzar la segunda edición de este evento, donde espera
 - Las charlas pueden ser de cualquier área. Es cierto que la temática se presta a talleres y charlas técnicas, pero nos encantaría acoger una charla relacionada con la temática desde un punto de vista distinto, como puede ser el de personas dedicadas a **derecho, filosofía, política, arte** o cualquier otra rama. ¡Lánzate y cuéntanoslo!
 - Si la charla está apoyada en Software Libre o cualquier contenido que sea libre, muchísimo mejor.
 - Además, también vamos a organizar un concurso artístico sobre el que podréis encontrar más información [aquí]({{ site.url }}/jasyp/concurso/).
-- Y como complemento a todo esto, también estamos preparando un **Capture The Flag**, donde cualquiera que se anime pueda poner a prueba sus habilidades a la hora de explotar las debilidades de sistemas informáticos.
+- Y como complemento a todo esto, también estamos preparando un **Capture The Flag**, donde cualquiera que se anime pueda poner a prueba sus habilidades a la hora de explotar las debilidades de sistemas informáticos (las bases de participación serán publicadas próximamente).
 - El plazo para mandar la solicitudes de participación estará abierto hasta el día **LUNES 5 DE MARZO**.
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/02.jpg" }})
@@ -39,11 +39,9 @@ En este 2018 pretendemos lanzar la segunda edición de este evento, donde espera
   </div>
 </div>
 
-Los integrantes de Interferencias somos un grupo de personas con mucha energía e interés, y aunque en la edición del año pasado contamos con el patrocinio del [Colegio Profesional de Ingenieros en Informática de Andalucía](http://cpiiand.es/), por desgracia no contamos con la suficiente solvencia económica como para poder hacernos cargo de los gastos de viaje y alojamiento para los participantes que tengan que desplazarse. Sin embargo, podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
+Los integrantes de Interferencias somos un grupo de personas con mucha energía e interés, pero por desgracia no contamos con la suficiente solvencia económica como para poder hacernos cargo de los gastos de viaje y alojamiento para los participantes que tengan que desplazarse. Sin embargo, podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
 
-Es por eso que también buscamos patrocinadores que nos permitieran hacer frente a los gastos que serían necesarios cubrir para facilitar la intervención en las Jornadas de todos los participantes sin importar de qué parte del país sean; ofreciendo a cambio la visibilidad y repercusión que tenemos gracias a la implicación en las redes sociales de los grupos y asociaciones amigas, así como en la prensa provincial gracias a la mediación de la Dirección de Escuela Técnica donde se realizaran parte de las Jornadas.
-
-Si quieres participar como patrocinador de las **JASyP '18** o tienes alguna duda relacionada con las Jornadas escríbemos a [jasyp@interferencias.tech](mailto:[jasyp@interferencias.tech]).
+Es por eso que también estamos buscando patrocinadores que nos ayuden a cubrir estos gastos que nos gustaría poder afrontar de cara a hacer un evento de una mayor magnitud. Puedes encontrar más información sobre cómo patrocinar las JASYP en [esta página]({{ site.url }}/jasyp/patrocinio/) o escribiendo al correo [jasyp@interferencias.tech](mailto:[jasyp@interferencias.tech]).
 
 <div class="bootstrap">
 	<div class="text-center">
