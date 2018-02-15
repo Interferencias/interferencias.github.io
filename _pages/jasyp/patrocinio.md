@@ -27,8 +27,8 @@ Actualmente hemos definido cuatro niveles de patrocinio:
 
 - **Cyberdefensor (150€)**: además de lo descrito en el nivel anterior, también incluye que el logo de este patrocinador aparecerá en todo el material promocional y cartelería del evento.
 
-- **Cyberactivista (200€)**: aparte de incluir los beneficios de los dos primeros niveles, pasará a ser patrocinador oficial del [concurso de arte]({{ site.url }}/jasyp/concurso/).
+- **Cyberactivista (200€, limitado a 1 patrocinador)**: aparte de incluir los beneficios de los dos primeros niveles, pasará a ser patrocinador oficial del [concurso de arte]({{ site.url }}/jasyp/concurso/).
 
-- **Cyberguerrero (250€)**: aparte de incluir los beneficios de los dos primeros niveles, pasará a ser patrocinador oficial de la competición **Capture The Flag**.
+- **Cyberguerrero (250€, limitado a 1 patrocinador)**: aparte de incluir los beneficios de los dos primeros niveles, pasará a ser patrocinador oficial de la competición **Capture The Flag**.
 
 Si quieres participar como patrocinador de las **JASYP '18** o tienes alguna duda relacionada con las Jornadas escríbemos a [jasyp@interferencias.tech](mailto:[jasyp@interferencias.tech]).
