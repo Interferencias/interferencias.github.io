@@ -27,7 +27,6 @@ En este 2018 pretendemos lanzar la segunda edición de este evento, donde espera
 - Si la charla está apoyada en Software Libre o cualquier contenido que sea libre, muchísimo mejor.
 - Además, también vamos a organizar un concurso artístico sobre el que podréis encontrar más información [aquí]({{ site.url }}/jasyp/concurso/).
 - Y como complemento a todo esto, también estamos preparando un **Capture The Flag**, donde cualquiera que se anime pueda poner a prueba sus habilidades a la hora de explotar las debilidades de sistemas informáticos (las bases de participación serán publicadas próximamente).
-- El plazo para mandar la solicitudes de participación estará abierto hasta el día **LUNES 5 DE MARZO**.
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/02.jpg" }})
 
