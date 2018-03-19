@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security Sprint&#58 Week 10 &#58 11 - Bluetooth hacking experiment and open tools
+title: Security Sprint&#58 Week 10 &#38 11 - Bluetooth hacking experiment and open tools
 author: terceranexus6
 image:
   feature: banners/header.png
