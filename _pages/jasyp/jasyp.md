@@ -1,93 +1,314 @@
 ---
 layout: page
-title: JASYP '18 - Participación
+title: JASYP '18
 permalink: /jasyp/
-description: "Formulario de participación para las JASYP '18"
+description: JASYP '18
 image:
   feature: banners/header.png
 timing: false
 ---
 
-Las **JASYP** (*Jornadas sobre Anonimato, Seguridad y Privacidad*) son unas jornadas organizadas por [Interferencias](https://twitter.com/Inter_ferencias) con la colaboración de [Follow the White Rabbit](https://twitter.com/fwhibbit_blog) y [Hack&Beers](https://twitter.com/hackandbeers), que pretende dar un espacio a todas aquellas personas con inquietudes sobre los problemas que encontramos en el día a día cada vez que usamos Internet o cualquier ordenador en general. La edición de 2017 se celebró en la [Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/), recibiendo a parcitipantes y asistentes de toda España durante dos días en el Salón de Actos de la propia Escuela, para cerrar con un tercer día en el que se celebró un **Hack&Beers** en el bar **La Posada**.
+![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/18/cartel.png" }})
+
+Las **JASYP** (_Jornadas sobre Anonimato, Seguridad y Privacidad_) son unas jornadas organizadas por [Interferencias](https://twitter.com/Inter_ferencias) que pretende dar un espacio a todas aquellas personas con inquietudes sobre los problemas que encontramos en el día a día cada vez que usamos Internet o cualquier ordenador en general.
+
+En este 2018 hemos lanzado la segunda edición de este evento, donde esperamos poder aprender mucho, aprovechar los días incluso más, y sacar partido del buen rollo que Granada siempre brinda en sus bares. La **edición de este año** tendrá lugar **los días VIERNES 13 Y SÁBADO 14 DE ABRIL** en la **[Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/)** _(Calle Periodista Daniel Saucedo Aranda, s/n, 18071 Granada)_.
+
+Por nuestra parte, lo único que podemos decir es que estamos muy felices ya que la respuesta ha sido muy buena en cuanto a participaciones recibidas, consiguiendo un equilibrio entre personas con experiencia y personas que están empezando, equilibrio entre personas con perfil técnico y personas con un perfil más social, equilibrio entre personas de diferentes edades y de diferentes sexos. Por ello solo nos queda más que daros las gracias.
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/01.jpg" }})
 
-En este 2018 pretendemos lanzar la segunda edición de este evento, donde esperamos poder aprender mucho, aprovechar los días incluso más, y sacar partido del buen rollo que Granada siempre brinda en sus bares. Para ello lanzamos este **Call for Papers** para todas aquellas personas interesadas en participar en la **edición de este año**, que tendrá lugar **los días VIERNES 13 Y SÁBADO 14 DE ABRIL**.
-
 <div class="bootstrap">
-	<div class="text-center">
-    <br>
-		<h3>¿Qué pedimos?</h3>
-		<hr>
-  </div>
+  <div class="text-center">
+  <br>
+  <h3>Actividades</h3>
+  <hr>
+</div>
 </div>
 
-- Personas interesadas en hablar sobre la importancia de los **derechos digitales**, la **privacidad en Internet**, la **seguridad informática** y todos aquellos temas de este ámbito que puedan tener relación.
-- Las charlas pueden ser de cualquier área. Es cierto que la temática se presta a talleres y charlas técnicas, pero nos encantaría acoger una charla relacionada con la temática desde un punto de vista distinto, como puede ser el de personas dedicadas a **derecho, filosofía, política, arte** o cualquier otra rama. ¡Lánzate y cuéntanoslo!
-- Si la charla está apoyada en Software Libre o cualquier contenido que sea libre, muchísimo mejor.
-- Además, también vamos a organizar un concurso artístico sobre el que podréis encontrar más información [aquí]({{ site.url }}/jasyp/concurso/).
-- Y como complemento a todo esto, también estamos preparando un **Capture The Flag**, donde cualquiera que se anime pueda poner a prueba sus habilidades a la hora de explotar las debilidades de sistemas informáticos (las bases de participación serán publicadas próximamente).
+Las JASYP de este año están enfocadas en 3 bloques:
+
+- **Charlas y talleres**. Es el bloque principal de las Jornadas y puedes ver la programación completa justo a continuación. (Próximamente confirmaremos el horario definitivo).
+- **Capture The Flag**. Esta es una actividad complementaria que hacemos por primera vez este año gracias a nuestros amigos de [**Hacking Desde Cero**](http://www.hackingdesdecero.org/). Dentro de poco os iremos informando sobre como participar para poner a pruebas vuestras habilidades en el CTF Jeopardy-style que están preparando.
+- **Concurso de arte**. Y por último, otra actividad también nueva. Consideramos que es importante hacer activismo en todas sus vertientes, por eso queríamos organizar un concurso artístico sobre el que podéis encontrar más información [**aquí**]({{ site.url }}/jasyp/concurso/).
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/02.jpg" }})
 
 <div class="bootstrap">
 	<div class="text-center">
-    <br>
-		<h3>¿Qué ofrecemos?</h3>
+		<br>
+		<h3>Programa</h3>
 		<hr>
-  </div>
-</div>
+		<table class="table table-bordered table-striped table-hover table-condensed table-responsive">
+			<thead>
+				<tr>
+					<th class="not_mapped_style" style="text-align:center">
 
-Los integrantes de Interferencias somos un grupo de personas con mucha energía e interés, pero por desgracia no contamos con la suficiente solvencia económica como para poder hacernos cargo de los gastos de viaje y alojamiento para los participantes que tengan que desplazarse. Sin embargo, podemos ofreceros cerveza y tapas gratis, además de mucho buen humor granadino.
-
-Es por eso que también estamos buscando patrocinadores que nos ayuden a cubrir estos gastos que nos gustaría poder afrontar de cara a hacer un evento de una mayor magnitud. Puedes encontrar más información sobre cómo patrocinar las JASYP en [esta página]({{ site.url }}/jasyp/patrocinio/) o escribiendo al correo [jasyp@interferencias.tech](mailto:[jasyp@interferencias.tech]).
-
-<div class="bootstrap">
-	<div class="text-center">
-    <br>
-		<h3>¿Te hemos convencido?</h3>
-		<hr>
-  </div>
-</div>
-
-En el caso de sea así, si todo esto te suena bien, aquí te dejamos el formulario a rellenar; aunque también agradecemos enormemente que nos ayudes con la difusión del evento a través de redes sociales o el simple boca a boca. Aceptamos propuestas de participantes de todas las edades, géneros, etnias y condición social, **seas quien seas, si te gusta la temática ¡Anímate!**
-
-![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/03.jpg" }})
-
-<div class="bootstrap">
-	<div class="text-center">
-    <br>
-		<h3>Registrar participación</h3>
-		<hr>
-
-		<div class="form-group">
-			<form name="reg_form" role="form" class="form-horizontal" method="post" action="{{ site.url }}/jasyp_app/form">
-				<input type="hidden" name="good" value="{{ site.url }}/jasyp/success/" />
-				<input type="hidden" name="bad" value="{{ site.url }}/jasyp/error/" />
-				<label for="name" style="margin: 0 auto;">Nombre:</label>
-				<input type="text" name="name" class="form-control" style="width: 250px; margin: 0 auto;" required minlength="2" maxlength="255" pattern="[a-zA-ZÁáÉéÍíÓóÚúñÑÇç ]+" oninvalid="this.setCustomValidity('Introduce una cadena con entre 2 y 255 caracteres alfabéticos')"
-				 oninput="setCustomValidity('')" />
-				<label for="email" style="margin: 0 auto;">Email:</label>
-				<input type="email" name="email" class="form-control" style="width: 250px; margin: 0 auto;" required maxlength="255" oninvalid="this.setCustomValidity('Introduce una dirección de correo eletrónico válida')" oninput="setCustomValidity('')" />
-				<label for="title" style="margin: 0 auto;">Título:</label>
-				<input type="text" name="title" class="form-control" style="width: 350px; margin: 0 auto;" required minlength="20" maxlength="255" pattern="[a-zA-Z0-9ÁáÉéÍíÓóÚúñÑÇç.,-:¿?¡! ]+" oninvalid="this.setCustomValidity('Introduce una cadena con entre 20 y 255 caracteres alfanuméricos o signos de puntuación/exclamación')"
-				 oninput="setCustomValidity('')" />
-				<label for="type">Tipo:</label>
-				<p>
-					<input type="radio" name="type" value="T" required oninvalid="this.setCustomValidity('Selecciona una de las dos opciones')" oninput="setCustomValidity('')" /> Charla &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input type="radio" name="type" value="W" /> Taller
-				</p>
-				<label for="length">Duración:</label>
-				<p>
-					<input type="radio" name="length" value="S" required oninvalid="this.setCustomValidity('Selecciona una de las dos opciones')" oninput="setCustomValidity('')" /> Corta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-					<input type="radio" name="length" value="L" /> Larga
-				</p>
-				<label for="title">Resumen:</label>
-				<textarea name="abstract" required class="form-control" style="resize:none; overflow-y: scroll;" rows="4" cols="50" required minlength="150" maxlength="2000" oninvalid="this.setCustomValidity('Introduce una cadena con entre 150 y 2000 caracteres alfanúmericos o signos de puntuación')"
-				 oninput="setCustomValidity('')"></textarea>
-				<div class="col-xs-12" style="height:12px;"></div>
-				<button type="submit" class="btn btn-default">Enviar</button>
-			</form>
-		</div>
+					</th>
+					<th class="not_mapped_style" style="text-align:center">
+						PONENTE
+					</th>
+					<th class="not_mapped_style" style="text-align:center">
+						TÍTULO
+					</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Carmen María Balches
+					</td>
+					<td>
+						Hacktivismo en femenino
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/alejandro_cortes.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Alejandro Cortés (<a href="https://twitter.com/Kirzahk">@Kirzahk</a>)
+					</td>
+					<td>
+						Privacidad y anonimicidad vs. regulación y control en el ciberespacio
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/nuria_escamilla.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Nuria Escamilla
+					</td>
+					<td>
+						Escoge tu hacker: los tipos de hacking
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/angel_pablo_hinojosa.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Angel Pablo Hinojosa (<a href="https://twitter.com/psicobyte_">@psicobyte_</a>)
+					</td>
+					<td>
+						Cuando los antropólogos descubrieron a los hackers
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/paula_de_la_hoz.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Paula de la Hoz (<a href="https://twitter.com/Terceranexus6">@Terceranexus6</a>)
+					</td>
+					<td>
+						Escoge tu hacker: los tipos de hacking
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/andrea_laguillo.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Andrea Laguillo (<a href="https://twitter.com/andrea_sanfe">@andrea_sanfe</a>)
+					</td>
+					<td>
+						Somos información: la importancia de la privacidad en datos genéticos
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jj_merelo.png" }}" height="200" width="200">
+					</td>
+					<td>
+						JJ Merelo (<a href="https://twitter.com/jjmerelo">@jjmerelo</a>)
+					</td>
+					<td>
+						Despliega seguro: buenas, malas y peores prácticas en el despliegue de aplicaciones en la nube
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/rolo_mijan.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Rolo Miján (<a href="https://twitter.com/RoloMijan">@RoloMijan</a>)
+					</td>
+					<td>
+						Hackeando a Manolo ElBarbas
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_montes.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Javier Montes (<a href="https://twitter.com/Main_Javi">@Main_Javi</a>)
+					</td>
+					<td>
+						Educación en el Software
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/josep_moreno.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Josep Moreno (<a href="https://twitter.com/jo_mo_za">@jo_mo_za</a>)
+					</td>
+					<td>
+						PenTORsting! 17 años de Deep Web
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/ignacio_navarro.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Ignacio Navarro (<a href="https://twitter.com/pirikun">@pirikun</a>)
+					</td>
+					<td>
+						¿Cómo hemos llegado a este desastre?
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jose_alberto_orejuela.png" }}" height="200" width="200">
+					</td>
+					<td>
+						José Alberto Orejuela (<a href="https://twitter.com/josealberto4444">@josealberto4444</a>)
+					</td>
+					<td>
+						Sal de la cúpula: una alternativa libre para cada servicio de Google
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/bartolome_ortiz.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Bartolomé Ortiz (<a href="https://twitter.com/bortizmath">@bortizmath</a>)
+					</td>
+					<td>
+						Maths and censorship to control people minds
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/benito_palacios.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Benito Palacios (<a href="https://twitter.com/pleonex">@pleonex</a>)
+					</td>
+					<td>
+						Destripando juegos: protecciones anti ROM Hacking
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Celia Pedregosa (<a href="https://twitter.com/AilekUmbreon">@AilekUmbreon</a>)
+					</td>
+					<td>
+						El cifrado asimétrico
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jacob_peregrina.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Jacob Peregrina (<a href="https://twitter.com/jacobperegrina">@jacobperegrina</a>)
+					</td>
+					<td>
+						OSINT ¿Privacidad? Claro que sí guapi
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Antonio Ramirez
+					</td>
+					<td>
+						TORpi - Haz de tu Raspberry un router Onion
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Álvaro Rodríguez (<a href="https://twitter.com/alvarospotify">@alvarospotify</a>)
+					</td>
+					<td>
+						Criptomonedas, minería y blockchain
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/guillermo_roman.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Guillermo Román (<a href="https://twitter.com/Guille_Hartek">@Guille_Hartek</a>)
+					</td>
+					<td>
+						Air Profiling: perfilado de un dispositivo a través de los paquetes de red
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/lorena_sanchez.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Lorena Sánchez (<a href="https://twitter.com/LastStrawberry">@LastStrawberry</a>)
+					</td>
+					<td>
+						Make elections great again: un muro no evitará que hackeen tus elecciones
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/david_santo.png" }}" height="200" width="200">
+					</td>
+					<td>
+						David Santo (<a href="https://twitter.com/santoorcero">@santoorcero</a>)
+					</td>
+					<td>
+						Esteganografía en sistemas operativos libres
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/luis_serrano.png" }}" height="200" width="200">
+					</td>
+					<td>
+						Luis Serrano
+					</td>
+					<td>
+						Perito informático: el que no aparece en Mr. Robot
+					</td>
+				</tr>
+			</tbody>
+		</table>
 	</div>
 </div>
+
+<div class="bootstrap">
+  <div class="text-center">
+  <br>
+  <h3>¿Te hemos convencido?</h3>
+  <hr>
+</div>
+</div>
+
+Pues entonces te esperamos el...
+
+![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/18/mosaico.jpg" }})
