@@ -56,7 +56,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 			<tbody>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Carmen María Balches
@@ -67,10 +67,29 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/alejandro_cortes.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/alejandro_cortes.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Alejandro Cortés (<a href="https://twitter.com/Kirzahk">@Kirzahk</a>)
+						<div class="area">Alejandro Cortés
+							<div class="fixed">
+								<b>Formación:</b>
+								<ul>
+									<li>Perito Judicial Informático Forense en ANTPJI por UDIMA</li>
+									<li>Ingeniero Técnico Industrial en Electricidad por UMA</li>
+								</ul>
+                <b>Experiencia:</b>
+                <ul>
+                	<li>Programador Freelance desde 1990</li>
+                	<li>Director en Jenhyal Soluciones Personalizadas S.L. desde 2013</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+                	<li>Protección de datos personales</li>
+                	<li>Ciberseguridad de dispositivos IoT</li>
+                	<li>Hacking legal</li>
+                </ul>
+							</div>
+						</div> (<a href="https://twitter.com/Kirzahk">@Kirzahk</a>)
 					</td>
 					<td>
 						Privacidad y anonimicidad vs. regulación y control en el ciberespacio
@@ -78,7 +97,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/nuria_escamilla.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/nuria_escamilla.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Nuria Escamilla
@@ -89,7 +108,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/angel_pablo_hinojosa.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/angel_pablo_hinojosa.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Angel Pablo Hinojosa (<a href="https://twitter.com/psicobyte_">@psicobyte_</a>)
@@ -100,7 +119,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/paula_de_la_hoz.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/paula_de_la_hoz.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Paula de la Hoz (<a href="https://twitter.com/Terceranexus6">@Terceranexus6</a>)
@@ -111,7 +130,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/andrea_laguillo.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/andrea_laguillo.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Andrea Laguillo (<a href="https://twitter.com/andrea_sanfe">@andrea_sanfe</a>)
@@ -122,7 +141,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jj_merelo.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jj_merelo.png" }}" height="250" width="250">
 					</td>
 					<td>
 						JJ Merelo (<a href="https://twitter.com/jjmerelo">@jjmerelo</a>)
@@ -133,7 +152,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/rolo_mijan.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/rolo_mijan.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Rolo Miján (<a href="https://twitter.com/RoloMijan">@RoloMijan</a>)
@@ -144,7 +163,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_montes.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_montes.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Javier Montes (<a href="https://twitter.com/Main_Javi">@Main_Javi</a>)
@@ -155,7 +174,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/josep_moreno.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/josep_moreno.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Josep Moreno (<a href="https://twitter.com/jo_mo_za">@jo_mo_za</a>)
@@ -166,7 +185,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/ignacio_navarro.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/ignacio_navarro.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Ignacio Navarro (<a href="https://twitter.com/pirikun">@pirikun</a>)
@@ -177,7 +196,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jose_alberto_orejuela.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jose_alberto_orejuela.png" }}" height="250" width="250">
 					</td>
 					<td>
 						José Alberto Orejuela (<a href="https://twitter.com/josealberto4444">@josealberto4444</a>)
@@ -188,7 +207,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/bartolome_ortiz.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/bartolome_ortiz.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Bartolomé Ortiz (<a href="https://twitter.com/bortizmath">@bortizmath</a>)
@@ -199,7 +218,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/benito_palacios.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/benito_palacios.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Benito Palacios (<a href="https://twitter.com/pleonex">@pleonex</a>)
@@ -210,7 +229,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Celia Pedregosa (<a href="https://twitter.com/AilekUmbreon">@AilekUmbreon</a>)
@@ -221,7 +240,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jacob_peregrina.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jacob_peregrina.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Jacob Peregrina (<a href="https://twitter.com/jacobperegrina">@jacobperegrina</a>)
@@ -232,7 +251,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Antonio Ramirez
@@ -243,7 +262,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Álvaro Rodríguez (<a href="https://twitter.com/alvarospotify">@alvarospotify</a>)
@@ -254,7 +273,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/guillermo_roman.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/guillermo_roman.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Guillermo Román (<a href="https://twitter.com/Guille_Hartek">@Guille_Hartek</a>)
@@ -265,7 +284,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/lorena_sanchez.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/lorena_sanchez.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Lorena Sánchez (<a href="https://twitter.com/LastStrawberry">@LastStrawberry</a>)
@@ -276,7 +295,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/david_santo.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/david_santo.png" }}" height="250" width="250">
 					</td>
 					<td>
 						David Santo (<a href="https://twitter.com/santoorcero">@santoorcero</a>)
@@ -287,7 +306,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/luis_serrano.png" }}" height="200" width="200">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/luis_serrano.png" }}" height="250" width="250">
 					</td>
 					<td>
 						Luis Serrano

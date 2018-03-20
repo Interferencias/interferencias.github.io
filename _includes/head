@@ -93,6 +93,7 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
 <link rel="stylesheet" href="{{ site.url }}/assets/css/iso.css">
+<link rel="stylesheet" href="{{ site.url }}/assets/css/jasyp.css">
 <!-- Webfonts -->
 <link href="{{ site.url }}/assets/css/lato.css" rel="stylesheet" type="text/css">
 

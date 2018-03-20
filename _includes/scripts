@@ -16,5 +16,17 @@
 	);
 </script>
 
+<script>
+$(document).ready(function(){
+  $(".area").mouseenter( function() {
+      $(".fixed").show();
+  });
+
+  $(".area").mouseleave( function() {
+      $(".fixed").hide();
+  });
+});
+</script>
+
 <script src="{{ site.url }}/assets/js/scripts.min.js"></script>
 <script src="{{ site.url }}/assets/lib/validatinator/js/validatinator.min.js"></script>
