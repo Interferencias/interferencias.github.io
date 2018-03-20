@@ -18,12 +18,158 @@
 
 <script>
 $(document).ready(function(){
-  $(".area").mouseenter( function() {
-      $(".fixed").show();
+  $(".speaker1").mouseenter( function() {
+      $(".bio1").show();
+  });
+  $(".speaker1").mouseleave( function() {
+      $(".bio1").hide();
   });
 
-  $(".area").mouseleave( function() {
-      $(".fixed").hide();
+  $(".speaker2").mouseenter( function() {
+      $(".bio2").show();
+  });
+  $(".speaker2").mouseleave( function() {
+      $(".bio2").hide();
+  });
+
+  $(".speaker3").mouseenter( function() {
+      $(".bio3").show();
+  });
+  $(".speaker3").mouseleave( function() {
+      $(".bio3").hide();
+  });
+
+  $(".speaker4").mouseenter( function() {
+      $(".bio4").show();
+  });
+  $(".speaker4").mouseleave( function() {
+      $(".bio4").hide();
+  });
+
+  $(".speaker5").mouseenter( function() {
+      $(".bio5").show();
+  });
+  $(".speaker5").mouseleave( function() {
+      $(".bio5").hide();
+  });
+
+  $(".speaker6").mouseenter( function() {
+      $(".bio6").show();
+  });
+  $(".speaker6").mouseleave( function() {
+      $(".bio6").hide();
+  });
+
+  $(".speaker7").mouseenter( function() {
+      $(".bio7").show();
+  });
+  $(".speaker7").mouseleave( function() {
+      $(".bio7").hide();
+  });
+
+  $(".speaker8").mouseenter( function() {
+      $(".bio8").show();
+  });
+  $(".speaker8").mouseleave( function() {
+      $(".bio8").hide();
+  });
+
+  $(".speaker9").mouseenter( function() {
+      $(".bio9").show();
+  });
+  $(".speaker9").mouseleave( function() {
+      $(".bio9").hide();
+  });
+
+  $(".speaker10").mouseenter( function() {
+      $(".bio10").show();
+  });
+  $(".speaker10").mouseleave( function() {
+      $(".bio10").hide();
+  });
+
+  $(".speaker11").mouseenter( function() {
+      $(".bio11").show();
+  });
+  $(".speaker11").mouseleave( function() {
+      $(".bio11").hide();
+  });
+
+  $(".speaker12").mouseenter( function() {
+      $(".bio12").show();
+  });
+  $(".speaker12").mouseleave( function() {
+      $(".bio12").hide();
+  });
+
+  $(".speaker13").mouseenter( function() {
+      $(".bio13").show();
+  });
+  $(".speaker13").mouseleave( function() {
+      $(".bio13").hide();
+  });
+
+  $(".speaker14").mouseenter( function() {
+      $(".bio14").show();
+  });
+  $(".speaker14").mouseleave( function() {
+      $(".bio14").hide();
+  });
+
+  $(".speaker15").mouseenter( function() {
+      $(".bio15").show();
+  });
+  $(".speaker15").mouseleave( function() {
+      $(".bio15").hide();
+  });
+
+  $(".speaker16").mouseenter( function() {
+      $(".bio16").show();
+  });
+  $(".speaker16").mouseleave( function() {
+      $(".bio16").hide();
+  });
+
+  $(".speaker17").mouseenter( function() {
+      $(".bio17").show();
+  });
+  $(".speaker17").mouseleave( function() {
+      $(".bio17").hide();
+  });
+
+  $(".speaker18").mouseenter( function() {
+      $(".bio18").show();
+  });
+  $(".speaker18").mouseleave( function() {
+      $(".bio18").hide();
+  });
+
+  $(".speaker19").mouseenter( function() {
+      $(".bio19").show();
+  });
+  $(".speaker19").mouseleave( function() {
+      $(".bio19").hide();
+  });
+
+  $(".speaker20").mouseenter( function() {
+      $(".bio20").show();
+  });
+  $(".speaker20").mouseleave( function() {
+      $(".bio20").hide();
+  });
+
+  $(".speaker21").mouseenter( function() {
+      $(".bio21").show();
+  });
+  $(".speaker21").mouseleave( function() {
+      $(".bio21").hide();
+  });
+
+  $(".speaker22").mouseenter( function() {
+      $(".bio22").show();
+  });
+  $(".speaker22").mouseleave( function() {
+      $(".bio22").hide();
   });
 });
 </script>

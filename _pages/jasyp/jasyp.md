@@ -70,8 +70,8 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/alejandro_cortes.png" }}" height="250" width="250">
 					</td>
 					<td>
-						<div class="area">Alejandro Cortés
-							<div class="fixed">
+						<div class="speaker1">Alejandro Cortés
+							<div class="bio1">
 								<b>Formación:</b>
 								<ul>
 									<li>Perito Judicial Informático Forense en ANTPJI por UDIMA</li>
@@ -89,7 +89,8 @@ Las JASYP de este año están enfocadas en 3 bloques:
                 	<li>Hacking legal</li>
                 </ul>
 							</div>
-						</div> (<a href="https://twitter.com/Kirzahk">@Kirzahk</a>)
+						</div>
+            (<a href="https://twitter.com/Kirzahk">@Kirzahk</a>)
 					</td>
 					<td>
 						Privacidad y anonimicidad vs. regulación y control en el ciberespacio
@@ -100,7 +101,22 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/nuria_escamilla.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Nuria Escamilla
+						<div class="speaker2">Nuria Escamilla
+              <div class="bio2">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Estudiante en 1º de Grado en Ingeniería Informática - Tecnologías Informáticas</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Participación en AIESEC</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>InfoSec</li>
+                </ul>
+              </div>
+            </div>
 					</td>
 					<td>
 						Escoge tu hacker: los tipos de hacking
@@ -111,7 +127,27 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/angel_pablo_hinojosa.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Angel Pablo Hinojosa (<a href="https://twitter.com/psicobyte_">@psicobyte_</a>)
+						<div class="speaker4">Angel Pablo Hinojosa
+              <div class="bio4">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Programador y diseñador</li>
+            	    <li>Formador TIC</li>
+            	    <li>Experto en software libre</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Diletante</li>
+            	    <li>Buscando nuevos retos</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Privacidad, libertad de expresión, derechos civiles</li>
+            	    <li>Especialmente ciudadano vs empresa</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/psicobyte_">@psicobyte_</a>)
 					</td>
 					<td>
 						Cuando los antropólogos descubrieron a los hackers
@@ -133,7 +169,21 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/andrea_laguillo.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Andrea Laguillo (<a href="https://twitter.com/andrea_sanfe">@andrea_sanfe</a>)
+						<div class="speaker6">Andrea Laguillo
+              <div class="bio6">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Grado en Biotecnología</li>
+            	    <li>Estudiante de Máster en Bioinformática</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Biometría </li>
+            	    <li>Tratamiento de datos genéticos (privacidad y uso ético en el ámbito de la salud)</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/andrea_sanfe">@andrea_sanfe</a>)
 					</td>
 					<td>
 						Somos información: la importancia de la privacidad en datos genéticos
@@ -144,7 +194,25 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jj_merelo.png" }}" height="250" width="250">
 					</td>
 					<td>
-						JJ Merelo (<a href="https://twitter.com/jjmerelo">@jjmerelo</a>)
+						<div class="speaker7">JJ Merelo
+              <div class="bio7">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Doctor en Físicas</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Profesor de universidad por casi 30 años</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Software Libre</li>
+            	    <li>Big data</li>
+            	    <li>Algoritmos de optimización para securizar</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/jjmerelo">@jjmerelo</a>)
 					</td>
 					<td>
 						Despliega seguro: buenas, malas y peores prácticas en el despliegue de aplicaciones en la nube
@@ -166,7 +234,16 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_montes.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Javier Montes (<a href="https://twitter.com/Main_Javi">@Main_Javi</a>)
+						<div class="speaker9">Javier Montes
+              <div class="bio9">
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Software Libre</li>
+            	    <li>Iniciativas relacionadas con privacidad y anonimato</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/Main_Javi">@Main_Javi</a>)
 					</td>
 					<td>
 						Educación en el Software
@@ -177,7 +254,21 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/josep_moreno.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Josep Moreno (<a href="https://twitter.com/jo_mo_za">@jo_mo_za</a>)
+						<div class="speaker10">Josep Moreno
+              <div class="bio10">
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Administrador de sistemas</li>
+            	    <li>Organizador del evento de Ciberseguridad "BitUp Alicante"</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Seguridad Ofensiva</li>
+            	    <li>Privacidad</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/jo_mo_za">@jo_mo_za</a>)
 					</td>
 					<td>
 						PenTORsting! 17 años de Deep Web
@@ -188,7 +279,29 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/ignacio_navarro.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Ignacio Navarro (<a href="https://twitter.com/pirikun">@pirikun</a>)
+						<div class="speaker11">Ignacio Navarro
+              <div class="bio11">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Ingenierio Informático por la UC3M</li>
+            	    <li>Master en Ingeniería Informática</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Más de 5 años de experiencia en lenguajes de programación funcional (Scala)</li>
+            	    <li>Co-organizador del Meetup de Scala Madrid</li>
+            	    <li>Experiencia en programación en videojuegos (juegos publicados en Steam y en el App Store)</li>
+            	    <li>Actualmente trabajando para Qindel Group en sistema de virtualización</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Seguridad defensiva</li>
+            	    <li>Calidad de código</li>
+            	    <li>Open source</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/pirikun">@pirikun</a>)
 					</td>
 					<td>
 						¿Cómo hemos llegado a este desastre?
@@ -199,7 +312,24 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jose_alberto_orejuela.png" }}" height="250" width="250">
 					</td>
 					<td>
-						José Alberto Orejuela (<a href="https://twitter.com/josealberto4444">@josealberto4444</a>)
+						<div class="speaker12">José Alberto Orejuela
+              <div class="bio12">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Graduado en Física</li>
+            	    <li>Doctorando en Física Teórica</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Organizador en Interferencias</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Privacidad y anonimato en Internet</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/josealberto4444">@josealberto4444</a>)
 					</td>
 					<td>
 						Sal de la cúpula: una alternativa libre para cada servicio de Google
@@ -210,7 +340,23 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/bartolome_ortiz.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Bartolomé Ortiz (<a href="https://twitter.com/bortizmath">@bortizmath</a>)
+						<div class="speaker13">Bartolomé Ortiz
+              <div class="bio13">
+                <b>Formación:</b>
+                <ul>
+                  <li>Estudiante del Máster de Física y Matemáticas</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Organizador en Interferencias</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Censura en Internet</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/bortizmath">@bortizmath</a>)
 					</td>
 					<td>
 						Maths and censorship to control people minds
@@ -221,7 +367,24 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/benito_palacios.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Benito Palacios (<a href="https://twitter.com/pleonex">@pleonex</a>)
+						<div class="speaker14">Benito Palacios
+              <div class="bio14">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Graduado en Ingeniería de Tecnologías de Telecomunicación en la UGR</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>2 años y medio como Ingeniero de Software en RTI</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Ingeniería inversa</li>
+            	    <li>Mecanismos de seguridad en consolas y videojuegos (ROM Hacking)</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/pleonex">@pleonex</a>)
 					</td>
 					<td>
 						Destripando juegos: protecciones anti ROM Hacking
@@ -243,7 +406,27 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jacob_peregrina.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Jacob Peregrina (<a href="https://twitter.com/jacobperegrina">@jacobperegrina</a>)
+						<div class="speaker16">Jacob Peregrina
+              <div class="bio16">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Abogado especializado en Derecho Digital, Ciberseguridad y Cibercrimen</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Fundador del Gabinete Jurídico Tecnoiuris</li>
+            	    <li>Asesor y mentor legal de startups y proyectos de base tecnológica</li>
+            	    <li>Socio fundador de ENATIC</li>
+            	    <li>Cibercooperante en INCIBE</li>
+            	    <li>Miembro de la asociación HoneySEC y co-organizador de HoneyCON</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Problemas jurídico-técnicos de las tecnologías emergentes </li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/jacobperegrina">@jacobperegrina</a>)
 					</td>
 					<td>
 						OSINT ¿Privacidad? Claro que sí guapi
@@ -265,7 +448,23 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Álvaro Rodríguez (<a href="https://twitter.com/alvarospotify">@alvarospotify</a>)
+						<div class="speaker18">Álvaro Rodríguez
+              <div class="bio18">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Estudiante 4º de ESO</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+                  <li>Autodidacta en los sistemas de minado de criptomonedas</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Pasión por la informática en general</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/alvarospotify">@alvarospotify</a>)
 					</td>
 					<td>
 						Criptomonedas, minería y blockchain
@@ -276,7 +475,27 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/guillermo_roman.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Guillermo Román (<a href="https://twitter.com/Guille_Hartek">@Guille_Hartek</a>)
+						<div class="speaker19">Guillermo Román
+              <div class="bio19">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Graduado en Ingeniería Informática</li>
+            	    <li>Máster en ciberseguridad</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Trabajando como analista de seguridad y protocolos de red</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Hacking</li>
+            	    <li>Redes</li>
+            	    <li>Desarrollo</li>
+            	    <li>Monitorización</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/Guille_Hartek">@Guille_Hartek</a>)
 					</td>
 					<td>
 						Air Profiling: perfilado de un dispositivo a través de los paquetes de red
@@ -287,7 +506,27 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/lorena_sanchez.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Lorena Sánchez (<a href="https://twitter.com/LastStrawberry">@LastStrawberry</a>)
+						<div class="speaker20">Lorena Sánchez
+              <div class="bio20">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Jurista y politóloga por la UC3M</li>
+            	    <li>Máster en Derecho Tecnológico e Informática Forense</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Consultora de seguridad, riesgos tecnológicos y legaltech</li>
+            	    <li>Editora del medio de análisis político y social Polikracia</li>
+            	    <li>Especializada en derecho tecnológico, protección de datos, seguridad informática y su relación con las ciencias sociales y el derecho</li>
+            	    <li>Investigadora independiente en nuevas tecnologías, derecho, ciencias políticas y seguridad internacional</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Protección de datos, seguridad informática y su relación con las ciencias sociales y el derecho</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/LastStrawberry">@LastStrawberry</a>)
 					</td>
 					<td>
 						Make elections great again: un muro no evitará que hackeen tus elecciones
@@ -298,7 +537,32 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/david_santo.png" }}" height="250" width="250">
 					</td>
 					<td>
-						David Santo (<a href="https://twitter.com/santoorcero">@santoorcero</a>)
+						<div class="speaker21">David Santo
+              <div class="bio21">
+                <b>Formación:</b>
+                <ul>
+                  <li>Doctor Ingeniero en Informática</li>
+                  <li>Ingeniero en Organización Industrial</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Decano del Colegio Profesional de Ingeniería Informática de Andalucía</li>
+            	    <li>Más de 10 años de experiencia como auditor de sistemas, perito judicial informático y pentester</li>
+            	    <li>Más de 20 años de experiencia como profesional en sistemas (implantación, administración, hardening, seguridad)</li>
+            	    <li>Miembro del comité técnico de AENOR AEN/CTN 197 (Informes de actuaciones periciales) y del grupo de trabajo GT1 (Informes Periciales) y GT2 (Informes periciales en TIC)</li>
+            	    <li>Coautor de la norma UNE 197010:2015 "Criterios generales para la elaboración de informes y dictámenes periciales sobre Tecnologías de la Información y las Comunicaciones (TIC)"</li>
+            	    <li>Miembro de comité técnico de UNE CTN 71/SC 27 "Técnicas de Seguridad" (comité responsable de la familia de normas ISO 27000)</li>
+            	    <li>Profesor asociado a tiempo parcial en UMA (asignatura de Dirección de Proyectos de Sistemas de Información</li>
+            	    <li>Conocido ponente y escritor, escritor de dos libros, más de 400 artículos técnicos e impartido más de un centenar de ponencias y cursos en varios países de Europa y de América</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>En derecho: Derecho a la libertad de pensamiento y privacidad. Derecho al anonimato. Especialmente, en la defensa de estos derechos frente al estado.</li>
+            	    <li>En seguridad informática: peritajes, pentesting.</li>
+                </ul>
+              </div>
+            </div>
+            (<a href="https://twitter.com/santoorcero">@santoorcero</a>)
 					</td>
 					<td>
 						Esteganografía en sistemas operativos libres
@@ -309,7 +573,25 @@ Las JASYP de este año están enfocadas en 3 bloques:
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/luis_serrano.png" }}" height="250" width="250">
 					</td>
 					<td>
-						Luis Serrano
+						<div class="speaker22">Luis Serrano
+              <div class="bio22">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Licenciado en Informática</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Profesor de Ciclos Superiores de Desarrollo de Aplicaciones Multiplataforma</li>
+            	    <li>Perito informático judicial</li>
+            	    <li>Colegiado número 96 del Colegio de Ingenieros Informáticos de Andalucía</li>
+                </ul>
+                <b>Campos de interés:</b>
+                <ul>
+            	    <li>Informática forense</li>
+            	    <li>Peritaje informático</li>
+                </ul>
+              </div>
+            </div>
 					</td>
 					<td>
 						Perito informático: el que no aparece en Mr. Robot
