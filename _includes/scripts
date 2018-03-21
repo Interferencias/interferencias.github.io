@@ -171,6 +171,160 @@ $(document).ready(function(){
   $(".speaker22").mouseleave( function() {
       $(".bio22").hide();
   });
+
+  $(".act1n").mouseenter( function() {
+      $(".act1d").show();
+  });
+  $(".act1n").mouseleave( function() {
+      $(".act1d").hide();
+  });
+
+  $(".act2n").mouseenter( function() {
+      $(".act2d").show();
+  });
+  $(".act2n").mouseleave( function() {
+      $(".act2d").hide();
+  });
+
+  $(".act3n").mouseenter( function() {
+      $(".act3d").show();
+  });
+  $(".act3n").mouseleave( function() {
+      $(".act3d").hide();
+  });
+
+  $(".act4n").mouseenter( function() {
+      $(".act4d").show();
+  });
+  $(".act4n").mouseleave( function() {
+      $(".act4d").hide();
+  });
+
+  $(".act5n").mouseenter( function() {
+      $(".act5d").show();
+  });
+  $(".act5n").mouseleave( function() {
+      $(".act5d").hide();
+  });
+
+  $(".act6n").mouseenter( function() {
+      $(".act6d").show();
+  });
+  $(".act6n").mouseleave( function() {
+      $(".act6d").hide();
+  });
+
+  $(".act7n").mouseenter( function() {
+      $(".act7d").show();
+  });
+  $(".act7n").mouseleave( function() {
+      $(".act7d").hide();
+  });
+
+  $(".act8n").mouseenter( function() {
+      $(".act8d").show();
+  });
+  $(".act8n").mouseleave( function() {
+      $(".act8d").hide();
+  });
+
+  $(".act9n").mouseenter( function() {
+      $(".act9d").show();
+  });
+  $(".act9n").mouseleave( function() {
+      $(".act9d").hide();
+  });
+
+  $(".act10n").mouseenter( function() {
+      $(".act10d").show();
+  });
+  $(".act10n").mouseleave( function() {
+      $(".act10d").hide();
+  });
+
+  $(".act11n").mouseenter( function() {
+      $(".act11d").show();
+  });
+  $(".act11n").mouseleave( function() {
+      $(".act11d").hide();
+  });
+
+  $(".act12n").mouseenter( function() {
+      $(".act12d").show();
+  });
+  $(".act12n").mouseleave( function() {
+      $(".act12d").hide();
+  });
+
+  $(".act13n").mouseenter( function() {
+      $(".act13d").show();
+  });
+  $(".act13n").mouseleave( function() {
+      $(".act13d").hide();
+  });
+
+  $(".act14n").mouseenter( function() {
+      $(".act14d").show();
+  });
+  $(".act14n").mouseleave( function() {
+      $(".act14d").hide();
+  });
+
+  $(".act15n").mouseenter( function() {
+      $(".act15d").show();
+  });
+  $(".act15n").mouseleave( function() {
+      $(".act15d").hide();
+  });
+
+  $(".act16n").mouseenter( function() {
+      $(".act16d").show();
+  });
+  $(".act16n").mouseleave( function() {
+      $(".act16d").hide();
+  });
+
+  $(".act17n").mouseenter( function() {
+      $(".act17d").show();
+  });
+  $(".act17n").mouseleave( function() {
+      $(".act17d").hide();
+  });
+
+  $(".act18n").mouseenter( function() {
+      $(".act18d").show();
+  });
+  $(".act18n").mouseleave( function() {
+      $(".act18d").hide();
+  });
+
+  $(".act19n").mouseenter( function() {
+      $(".act19d").show();
+  });
+  $(".act19n").mouseleave( function() {
+      $(".act19d").hide();
+  });
+
+  $(".act20n").mouseenter( function() {
+      $(".act20d").show();
+  });
+  $(".act20n").mouseleave( function() {
+      $(".act20d").hide();
+  });
+
+  $(".act21n").mouseenter( function() {
+      $(".act21d").show();
+  });
+  $(".act21n").mouseleave( function() {
+      $(".act21d").hide();
+  });
+
+  $(".act22n").mouseenter( function() {
+      $(".act22d").show();
+  });
+  $(".act22n").mouseleave( function() {
+      $(".act22d").hide();
+  });
 });
 </script>
 
