@@ -63,7 +63,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 			<tbody>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker1">Carmen María Balches
@@ -80,7 +80,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/alejandro_cortes.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/alejandro_cortes.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker2">Alejandro Cortés (<a href="https://twitter.com/Kirzahk">@Kirzahk</a>)
@@ -116,7 +116,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/nuria_escamilla.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/nuria_escamilla.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker3">Nuria Escamilla
@@ -147,7 +147,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/angel_pablo_hinojosa.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/angel_pablo_hinojosa.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker4">Angel Pablo Hinojosa (<a href="https://twitter.com/psicobyte_">@psicobyte_</a>)
@@ -182,7 +182,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/paula_de_la_hoz.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/paula_de_la_hoz.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker5">Paula de la Hoz (<a href="https://twitter.com/Terceranexus6">@Terceranexus6</a>)
@@ -218,7 +218,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/andrea_laguillo.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/andrea_laguillo.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker6">Andrea Laguillo (<a href="https://twitter.com/andrea_sanfe">@andrea_sanfe</a>)
@@ -248,7 +248,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jj_merelo.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jj_merelo.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker7">JJ Merelo (<a href="https://twitter.com/jjmerelo">@jjmerelo</a>)
@@ -282,7 +282,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/rolo_mijan.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/rolo_mijan.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker8">Rolo Miján (<a href="https://twitter.com/RoloMijan">@RoloMijan</a>)
@@ -323,7 +323,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_montes.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_montes.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker9">Javier Montes (<a href="https://twitter.com/Main_Javi">@Main_Javi</a>)
@@ -348,7 +348,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/josep_moreno.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/josep_moreno.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker10">Josep Moreno (<a href="https://twitter.com/jo_mo_za">@jo_mo_za</a>)
@@ -379,7 +379,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/ignacio_navarro.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/ignacio_navarro.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker11">Ignacio Navarro (<a href="https://twitter.com/pirikun">@pirikun</a>)
@@ -417,7 +417,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jose_alberto_orejuela.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jose_alberto_orejuela.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker12">José Alberto Orejuela (<a href="https://twitter.com/josealberto4444">@josealberto4444</a>)
@@ -449,7 +449,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/bartolome_ortiz.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/bartolome_ortiz.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker13">Bartolomé Ortiz (<a href="https://twitter.com/bortizmath">@bortizmath</a>)
@@ -480,7 +480,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/benito_palacios.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/benito_palacios.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker14">Benito Palacios (<a href="https://twitter.com/pleonex">@pleonex</a>)
@@ -514,7 +514,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker15">Celia Pedregosa (<a href="https://twitter.com/AilekUmbreon">@AilekUmbreon</a>)
@@ -531,7 +531,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jacob_peregrina.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jacob_peregrina.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker16">Jacob Peregrina (<a href="https://twitter.com/jacobperegrina">@jacobperegrina</a>)
@@ -568,7 +568,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker18">Álvaro Rodríguez (<a href="https://twitter.com/alvarospotify">@alvarospotify</a>)
@@ -601,7 +601,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/guillermo_roman.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/guillermo_roman.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker19">Guillermo Román (<a href="https://twitter.com/Guille_Hartek">@Guille_Hartek</a>)
@@ -636,7 +636,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/lorena_sanchez.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/lorena_sanchez.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker20">Lorena Sánchez (<a href="https://twitter.com/LastStrawberry">@LastStrawberry</a>)
@@ -673,7 +673,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/david_santo.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/david_santo.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker21">David Santo (<a href="https://twitter.com/santoorcero">@santoorcero</a>)
@@ -716,7 +716,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 				</tr>
 				<tr>
 					<td>
-						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/luis_serrano.png" }}" height="250" width="250">
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/luis_serrano.jpg" }}" height="250" width="250">
 					</td>
 					<td>
 						<div class="speaker22">Luis Serrano
