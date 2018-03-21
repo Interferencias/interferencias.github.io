@@ -748,6 +748,33 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
             </div>
 					</td>
 				</tr>
+        <tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_valls.jpg" }}" height="250" width="250">
+					</td>
+					<td>
+						<div class="speaker23">Javier Valls (<a href="https://twitter.com/javi_valls">@javi_valls</a>)
+              <div class="bio23">
+                <b>Formación:</b>
+                <ul>
+            	    <li>Doctor en Derecho</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+            	    <li>Profesor Titular de Derecho Penal </li>
+                </ul>
+              </div>
+            </div>
+					</td>
+					<td>
+						<div class="act23n">Derechos Fundamentales en peligro por la utilización de IA por el Estado
+              <div class="act23d">
+              	<b>Descripción:</b><br><br>
+              	Vamos a comprobar como los sistemas de procesado de datos para combatir el crimen y las amenazas a la seguridad pueden poner en peligro Derechos Fundamentales de los ciudadanos en un Estado Democrátido de Derecho.
+              </div>
+            </div>
+					</td>
+				</tr>
 			</tbody>
 		</table>
 	</div>

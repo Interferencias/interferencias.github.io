@@ -172,6 +172,13 @@ $(document).ready(function(){
       $(".bio22").hide();
   });
 
+  $(".speaker23").mouseenter( function() {
+      $(".bio23").show();
+  });
+  $(".speaker23").mouseleave( function() {
+      $(".bio23").hide();
+  });
+
   $(".act1n").mouseenter( function() {
       $(".act1d").show();
   });
@@ -324,6 +331,13 @@ $(document).ready(function(){
   });
   $(".act22n").mouseleave( function() {
       $(".act22d").hide();
+  });
+
+  $(".act23n").mouseenter( function() {
+      $(".act23d").show();
+  });
+  $(".act23n").mouseleave( function() {
+      $(".act23d").hide();
   });
 });
 </script>
