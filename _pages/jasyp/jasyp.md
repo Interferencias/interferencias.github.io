@@ -763,7 +763,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 
 Pues entonces ya sabes, te esperamos **los días VIERNES 13 Y SÁBADO 14 DE ABRIL** en la **[Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/)** _(Calle Periodista Daniel Saucedo Aranda, s/n, 18071 Granada)_. Todas las personas son bienvenidas independientemente de edades, géneros, etnias y condición social; tengas conocimientos o no sobre los temas, lo importante es que tengas interés. **Seas quien seas, si te gusta la temática ¡Anímate!**
 
-Por otra parte, la asistencia al evento es totalmente gratuito y libre, aunque si no te importa, puedes registrarte en este evento de Meetup para hacer estimación de público asistente.
+Por otra parte, la asistencia al evento es totalmente gratuito y libre, aunque si no te importa, puedes registrarte en [este evento de Meetup](https://www.meetup.com/es-ES/Granada-Geek/events/248955510/) para hacer estimación de público asistente.
 
 Y ya para terminar, lo único que querríamos pediros es que nos ayudarais con la publicidad del evento por redes sociales y demás canales de difusión que tengáis a vuestra disposición, ya sea usando el hashtag #jasyp2018 ([como estamos haciendo en Twitter](https://twitter.com/search?f=tweets&q=%23jasyp2018)) o mencionándonos directamente por Twitter como [@Inter_ferencias](https://twitter.com/Inter_ferencias) o por Mastodon como [@interferencias@mastodon.technology](https://mastodon.technology/@interferencias).
 
