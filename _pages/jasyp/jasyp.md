@@ -28,7 +28,7 @@ Por nuestra parte, lo único que podemos decir es que estamos muy felices ya que
 
 Las JASYP de este año están enfocadas en 3 bloques:
 
-- **Charlas y talleres**. Es el bloque principal de las Jornadas y puedes ver la programación completa justo a continuación. (Próximamente confirmaremos el horario definitivo).
+- **Charlas y talleres**. Es el bloque principal de las Jornadas y puedes ver la programación justo a continuación. (Próximamente confirmaremos el horario definitivo).
 - **Capture The Flag**. Esta es una actividad complementaria que hacemos por primera vez este año gracias a nuestros amigos de [**Hacking Desde Cero**](http://www.hackingdesdecero.org/). Dentro de poco os iremos informando sobre como participar para poner a pruebas vuestras habilidades en el CTF Jeopardy-style que están preparando.
 - **Concurso de arte**. Y por último, otra actividad también nueva. Consideramos que es importante hacer activismo en todas sus vertientes, por eso queríamos organizar un concurso artístico sobre el que podéis encontrar más información [**aquí**]({{ site.url }}/jasyp/concurso/).
 
@@ -38,6 +38,13 @@ Las JASYP de este año están enfocadas en 3 bloques:
 	<div class="text-center">
 		<br>
 		<h3>Programa</h3>
+  </div>
+</div>
+
+Lo que aquí podéis encontrar es la programación de las diferentes charlas que tendrán lugar en las Jornadas. Estad atentos, porque todavía nos faltan por confirmar unos cuantos ponentes invitados... además de varias sorpresas... 🌚
+
+<div class="bootstrap">
+	<div class="text-center">
 		<hr>
 		<table class="table table-bordered table-striped table-hover table-condensed table-responsive">
 			<thead>
@@ -754,6 +761,10 @@ Las JASYP de este año están enfocadas en 3 bloques:
 </div>
 </div>
 
-Pues entonces te esperamos el...
+Pues entonces ya sabes, te esperamos **los días VIERNES 13 Y SÁBADO 14 DE ABRIL** en la **[Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/)** _(Calle Periodista Daniel Saucedo Aranda, s/n, 18071 Granada)_. Todas las personas son bienvenidas independientemente de edades, géneros, etnias y condición social; tengas conocimientos o no sobre los temas, lo importante es que tengas interés. **Seas quien seas, si te gusta la temática ¡Anímate!**
+
+Por otra parte, la asistencia al evento es totalmente gratuito y libre, aunque si no te importa, puedes registrarte en este evento de Meetup para hacer estimación de público asistente.
+
+Y ya para terminar, lo único que querríamos pediros es que nos ayudarais con la publicidad del evento por redes sociales y demás canales de difusión que tengáis a vuestra disposición, ya sea usando el hashtag #jasyp2018 ([como estamos haciendo en Twitter](https://twitter.com/search?f=tweets&q=%23jasyp2018)) o mencionándonos directamente por Twitter como [@Inter_ferencias](https://twitter.com/Inter_ferencias) o por Mastodon como [@interferencias@mastodon.technology](https://mastodon.technology/@interferencias).
 
 ![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/18/mosaico.jpg" }})
