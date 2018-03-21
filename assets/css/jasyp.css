@@ -2,7 +2,7 @@
 	position: relative;
 }
 
-.bio1, .bio2, .bio3, .bio4, .bio5, .bio6, .bio7, .bio8, .bio9, .bio10, .bio11, .bio12, .bio13, .bio14, .bio15, .bio16, .bio17, .bio18, .bio19, .bio20, .bio21, .bio22, .act1d, .act2d, .act3d, .act4d, .act5d, .act6d, .act7d, .act8d, .act9d, .act10d, .act11d, .act12d, .act13d, .act14d, .act15d, .act16d, .act17d, .act18d, .act19d, .act20d, .act21d, .act22d {
+.bio1, .bio2, .bio3, .bio4, .bio5, .bio6, .bio7, .bio8, .bio9, .bio10, .bio11, .bio12, .bio13, .bio14, .bio15, .bio16, .bio17, .bio18, .bio19, .bio20, .bio21, .bio22 {
 	background-color: black;
 	color: #28f400;
 	display: none;
@@ -10,5 +10,16 @@
 	position: absolute;
 	text-align: left;
 	width: 450px;
-  z-index: 100;
+	z-index: 100;
+}
+
+.act1d, .act2d, .act3d, .act4d, .act5d, .act6d, .act7d, .act8d, .act9d, .act10d, .act11d, .act12d, .act13d, .act14d, .act15d, .act16d, .act17d, .act18d, .act19d, .act20d, .act21d, .act22d {
+	background-color: black;
+	color: #28f400;
+	display: none;
+	padding: 10px 10px;
+	position: absolute;
+	text-align: left;
+	width: 450px;
+	z-index: 100;
 }
