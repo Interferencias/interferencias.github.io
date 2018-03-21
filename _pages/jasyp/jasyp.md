@@ -8,7 +8,7 @@ image:
 timing: false
 ---
 
-![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/18/cartel.png" }})
+![cartel_jasyp]({{ "/assets/images/jasyp/18/cartel.png" }})
 
 Las **JASYP** (_Jornadas sobre Anonimato, Seguridad y Privacidad_) son unas jornadas organizadas por [Interferencias](https://twitter.com/Inter_ferencias) que pretende dar un espacio a todas aquellas personas con inquietudes sobre los problemas que encontramos en el día a día cada vez que usamos Internet o cualquier ordenador en general.
 
@@ -16,7 +16,7 @@ En este 2018 hemos lanzado la segunda edición de este evento, donde esperamos p
 
 Por nuestra parte, lo único que podemos decir es que estamos muy felices ya que la respuesta ha sido muy buena en cuanto a participaciones recibidas, consiguiendo un equilibrio entre personas con experiencia y personas que están empezando, equilibrio entre personas con perfil técnico y personas con un perfil más social, equilibrio entre personas de diferentes edades y de diferentes sexos. Por ello solo nos queda más que daros las gracias.
 
-![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/01.jpg" }})
+![imagen_jasyp_2017_1]({{ "/assets/images/jasyp/17/01.jpg" }})
 
 <div class="bootstrap">
   <div class="text-center">
@@ -32,7 +32,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 - **Capture The Flag**. Esta es una actividad complementaria que hacemos por primera vez este año gracias a nuestros amigos de [**Hacking Desde Cero**](http://www.hackingdesdecero.org/). Dentro de poco os iremos informando sobre como participar para poner a pruebas vuestras habilidades en el CTF Jeopardy-style que están preparando.
 - **Concurso de arte**. Y por último, otra actividad también nueva. Consideramos que es importante hacer activismo en todas sus vertientes, por eso queríamos organizar un concurso artístico sobre el que podéis encontrar más información [**aquí**]({{ site.url }}/jasyp/concurso/).
 
-![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/17/02.jpg" }})
+![imagen_jasyp_2017_1]({{ "/assets/images/jasyp/17/02.jpg" }})
 
 <div class="bootstrap">
 	<div class="text-center">
@@ -755,10 +755,10 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 
 <div class="bootstrap">
   <div class="text-center">
-  <br>
-  <h3>¿Te hemos convencido?</h3>
-  <hr>
-</div>
+    <br>
+    <h3>¿Te hemos convencido?</h3>
+    <hr>
+  </div>
 </div>
 
 Pues entonces ya sabes, te esperamos **los días VIERNES 13 Y SÁBADO 14 DE ABRIL** en la **[Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/)** _(Calle Periodista Daniel Saucedo Aranda, s/n, 18071 Granada)_. Todas las personas son bienvenidas independientemente de edades, géneros, etnias y condición social; tengas conocimientos o no sobre los temas, lo importante es que tengas interés. **Seas quien seas, si te gusta la temática ¡Anímate!**
@@ -767,4 +767,32 @@ Por otra parte, la asistencia al evento es totalmente gratuito y libre, aunque s
 
 Y ya para terminar, lo único que querríamos pediros es que nos ayudarais con la publicidad del evento por redes sociales y demás canales de difusión que tengáis a vuestra disposición, ya sea usando el hashtag #jasyp2018 ([como estamos haciendo en Twitter](https://twitter.com/search?f=tweets&q=%23jasyp2018)) o mencionándonos directamente por Twitter como [@Inter_ferencias](https://twitter.com/Inter_ferencias) o por Mastodon como [@interferencias@mastodon.technology](https://mastodon.technology/@interferencias).
 
-![cartel_privacidad_etsiit]({{ "/assets/images/jasyp/18/mosaico.jpg" }})
+![mosaico_jasyp_17]({{ "/assets/images/jasyp/18/mosaico.jpg" }})
+
+<div class="bootstrap">
+  <div class="text-center">
+    <br>
+    <h3>Agradecimientos</h3>
+    <hr>
+  </div>
+</div>
+
+{% capture images %}
+  /assets/images/jasyp/18/agradecimientos/ugr.png
+  /assets/images/jasyp/18/agradecimientos/etsiit.png
+  /assets/images/jasyp/18/agradecimientos/hdc.png
+{% endcapture %}
+{% include gallery images=images cols=3 %}
+
+{% capture images %}
+  /assets/images/jasyp/18/agradecimientos/fwhibbit.png
+  /assets/images/jasyp/18/agradecimientos/bitup.png
+  /assets/images/jasyp/18/agradecimientos/hb.png
+{% endcapture %}
+{% include gallery images=images cols=3 %}
+
+{% capture images %}
+  /assets/images/jasyp/18/agradecimientos/madriguera.png
+  /assets/images/jasyp/18/agradecimientos/gr_hacklab.png
+{% endcapture %}
+{% include gallery images=images cols=2 %}
