@@ -1,8 +1,8 @@
-.speaker1, .speaker2, .speaker3, .speaker4, .speaker5, .speaker6, .speaker7, .speaker8, .speaker9, .speaker10, .speaker11, .speaker12, .speaker13, .speaker14, .speaker15, .speaker16, .speaker17, .speaker18, .speaker19, .speaker20, .speaker21, .speaker22 {
+.speaker1, .speaker2, .speaker3, .speaker4, .speaker5, .speaker6, .speaker7, .speaker8, .speaker9, .speaker10, .speaker11, .speaker12, .speaker13, .speaker14, .speaker15, .speaker16, .speaker17, .speaker18, .speaker19, .speaker20, .speaker21, .speaker22, .speaker23, .speaker24 {
 	position: relative;
 }
 
-.bio1, .bio2, .bio3, .bio4, .bio5, .bio6, .bio7, .bio8, .bio9, .bio10, .bio11, .bio12, .bio13, .bio14, .bio15, .bio16, .bio17, .bio18, .bio19, .bio20, .bio21, .bio22, .bio23 {
+.bio1, .bio2, .bio3, .bio4, .bio5, .bio6, .bio7, .bio8, .bio9, .bio10, .bio11, .bio12, .bio13, .bio14, .bio15, .bio16, .bio17, .bio18, .bio19, .bio20, .bio21, .bio22, .bio23, .bio24 {
 	background-color: black;
 	color: #28f400;
 	display: none;
@@ -13,7 +13,7 @@
 	z-index: 100;
 }
 
-.act1d, .act2d, .act3d, .act4d, .act5d, .act6d, .act7d, .act8d, .act9d, .act10d, .act11d, .act12d, .act13d, .act14d, .act15d, .act16d, .act17d, .act18d, .act19d, .act20d, .act21d, .act22d, .act23d {
+.act1d, .act2d, .act3d, .act4d, .act5d, .act6d, .act7d, .act8d, .act9d, .act10d, .act11d, .act12d, .act13d, .act14d, .act15d, .act16d, .act17d, .act18d, .act19d, .act20d, .act21d, .act22d, .act23d, .act24d {
 	background-color: black;
 	color: #28f400;
 	display: none;

@@ -671,6 +671,39 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
             </div>
 					</td>
 				</tr>
+        <tr>
+					<td>
+						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/eduardo_sanchez.jpg" }}" height="250" width="250">
+					</td>
+					<td>
+						<div class="speaker24">Eduardo Sánchez (<a href="https://twitter.com/eduSatoe">@eduSatoe</a>)
+              <div class="bio20">
+                <b>Formación:</b>
+                <ul>
+                  <li>Máster Interuniersitario de Seguridad de las Tecnologías de la Información y las Telecomunicaciones</li>
+            	    <li>Ingenierio Informático</li>
+                </ul>
+                <b>Experiencia:</b>
+                <ul>
+                  <li>Profesor Técnico Formación Profesional</li>
+                  <li>Profesor Universidad Seguridad Informática</li>
+                  <li>Investigador Técnico en onBranding</li>
+                  <li>Responsable de Hack&Beers, Qurtuba Security Congress y Security High School</li>
+                </ul>
+              </div>
+            </div>
+					</td>
+					<td>
+						<div class="act24n">TBA
+              <!--
+              <div class="act24d">
+              	<b>Descripción:</b><br><br>
+              	TBA
+              </div>
+              -->
+            </div>
+					</td>
+				</tr>
 				<tr>
 					<td>
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/david_santo.jpg" }}" height="250" width="250">
