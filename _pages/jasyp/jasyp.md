@@ -677,7 +677,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 					</td>
 					<td>
 						<div class="speaker24">Eduardo Sánchez (<a href="https://twitter.com/eduSatoe">@eduSatoe</a>)
-              <div class="bio20">
+              <div class="bio24">
                 <b>Formación:</b>
                 <ul>
                   <li>Máster Interuniersitario de Seguridad de las Tecnologías de la Información y las Telecomunicaciones</li>
