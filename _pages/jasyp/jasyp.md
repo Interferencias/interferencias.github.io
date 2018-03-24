@@ -752,7 +752,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/luis_serrano.jpg" }}" height="250" width="250">
 					</td>
 					<td>
-						<div class="speaker22">Luis Serrano
+						<div class="speaker22">Luis Serrano (<a href="https://twitter.com/proyectaria">@proyectaria</a>)
               <div class="bio22">
                 <b>Formación:</b>
                 <ul>
