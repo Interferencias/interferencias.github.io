@@ -123,7 +123,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
               <div class="bio3">
                 <b>Formación:</b>
                 <ul>
-            	    <li>Estudiante en 1º de Grado en Ingeniería Informática - Tecnologías Informáticas</li>
+            	    <li>Estudiante en 1º de Grado en Ingeniería Informática-Tecnologías Informáticas</li>
                 </ul>
                 <b>Experiencia:</b>
                 <ul>
@@ -800,10 +800,10 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
             </div>
 					</td>
 					<td>
-						<div class="act23n">Derechos Fundamentales en peligro por la utilización de IA por el Estado
+						<div class="act23n">Derechos fundamentales en peligro por la utilización de IA por el Estado
               <div class="act23d">
               	<b>Descripción:</b><br><br>
-              	Vamos a comprobar como los sistemas de procesado de datos para combatir el crimen y las amenazas a la seguridad pueden poner en peligro Derechos Fundamentales de los ciudadanos en un Estado Democrátido de Derecho.
+              	Vamos a comprobar como los sistemas de procesado de datos para combatir el crimen y las amenazas a la seguridad pueden poner en peligro derechos fundamentales de los ciudadanos en un Estado Democrátido de Derecho.
               </div>
             </div>
 					</td>
@@ -811,6 +811,183 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 			</tbody>
 		</table>
 	</div>
+</div>
+
+<div class="bootstrap">
+  <div class="text-center">
+    <br>
+    <h3>Horario</h3>
+    <hr>
+    <div>
+    <table class="tg">
+      <tr>
+        <th class="tg-amwm" colspan="3">VIERNES 13</th>
+      </tr>
+      <tr>
+        <td class="tg-41e9">HORA</td>
+        <td class="tg-41e9">PONENTE</td>
+        <td class="tg-41e9">TÍTULO</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">10:00-10:30</td>
+        <td class="tg-baqh" colspan="2">PRESENTACIÓN</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">10:30-11:15</td>
+        <td class="tg-0l6a">Alejandro Cortés</td>
+        <td class="tg-0l6a">Privacidad y anonimicidad vs. regulación y control en el ciberespacio </td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">11:20-11:45</td>
+        <td class="tg-baqh">Javier Montes</td>
+        <td class="tg-baqh">Educación en el Software</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">11:45-12:15</td>
+        <td class="tg-0l6a" colspan="2">DESCANSO</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">12:15-13:00</td>
+        <td class="tg-baqh">Eduardo Sánchez</td>
+        <td class="tg-baqh">TBA</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">13:05-13:50</td>
+        <td class="tg-0l6a">Luis Serrano</td>
+        <td class="tg-0l6a">Perito informático: el que no aparece en Mr. Robot</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">13:50-15:30</td>
+        <td class="tg-baqh" colspan="2">DESCANSO</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">15:30-16:15</td>
+        <td class="tg-0l6a">Guillermo Román</td>
+        <td class="tg-0l6a">Air Profiling: perfilado de un dispositivo a través de los paquetes de red</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">16:20-16:45</td>
+        <td class="tg-baqh">José Alberto Orejuela</td>
+        <td class="tg-baqh">Sal de la cúpula: una alternativa libre para cada servicio de Google</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">16:50-17:15</td>
+        <td class="tg-0l6a">Celia Pedregosa</td>
+        <td class="tg-0l6a">El cifrado asimétrico</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">17:20-17:45</td>
+        <td class="tg-baqh">Javier Valls</td>
+        <td class="tg-baqh">Derechos fundamentales en peligro por la utilización de IA por el Estado</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">17:45-18:15</td>
+        <td class="tg-0l6a" colspan="2">DESCANSO</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">18:15-19:00</td>
+        <td class="tg-baqh">Benito Palacios</td>
+        <td class="tg-baqh">Destripando juegos: protecciones anti ROM Hacking</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">19:05-19:50</td>
+        <td class="tg-0l6a">Bartolomé Ortiz</td>
+        <td class="tg-0l6a">Maths and censorship to control people minds</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">19:55-20:40</td>
+        <td class="tg-baqh">Angel Pablo Hinojosa</td>
+        <td class="tg-baqh">Cuando los antropólogos descubrieron a los hackers</td>
+      </tr>
+    </table>
+    </div>
+
+    <br><br>
+
+    <div>
+    <table class="tg">
+      <tr>
+        <th class="tg-amwm" colspan="3">SÁBADO 14</th>
+      </tr>
+      <tr>
+        <td class="tg-41e9">HORA</td>
+        <td class="tg-41e9">PONENTE</td>
+        <td class="tg-41e9">TÍTULO</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">10:30-10:55</td>
+        <td class="tg-baqh">David Santo Orcero</td>
+        <td class="tg-baqh">Esteganografía en sistemas operativos libres</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">11:00-11:45</td>
+        <td class="tg-0l6a">Álvaro Rodríguez</td>
+        <td class="tg-0l6a">Criptomonedas, minería y blockchain</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">11:45-12:15</td>
+        <td class="tg-baqh" colspan="2">DESCANSO</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">12:15-13:00</td>
+        <td class="tg-0l6a">Ignacio Navarro</td>
+        <td class="tg-0l6a">Cómo hemos llegado a este desastre</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">13:05-13:30</td>
+        <td class="tg-baqh">Paula de la Hoz y Nuria Escamilla</td>
+        <td class="tg-baqh">Escoge tu hacker: los tipos de hacking</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">13:35-14:00</td>
+        <td class="tg-0l6a">Andrea Laguillo</td>
+        <td class="tg-0l6a">Somos información: la importancia de la privacidad en datos genéticos</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">14:00-15:30</td>
+        <td class="tg-baqh" colspan="2">DESCANSO</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">15:30-16:15</td>
+        <td class="tg-0l6a">Rolo Miján</td>
+        <td class="tg-0l6a">Hackeando a Manolo "El Barbas"</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">16:20-16:45</td>
+        <td class="tg-baqh">JJ Merelo</td>
+        <td class="tg-baqh">Despliega seguro: buenas, malas y peores prácticas en el despliegue de aplicaciones en la nube</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">16:50-17:15</td>
+        <td class="tg-0l6a">Carmen María Balches</td>
+        <td class="tg-0l6a">Hacktivismo en femenino</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">17:20-18:05</td>
+        <td class="tg-baqh">Josep Moreno</td>
+        <td class="tg-baqh">PenTORsting! 17 años de deep web</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">18:05-18:30</td>
+        <td class="tg-0l6a" colspan="2">DESCANSO</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">18:30-19:15</td>
+        <td class="tg-baqh">Lorena Sánchez</td>
+        <td class="tg-baqh">Make elections great again: un muro no evitará que hackeen tus elecciones</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">19:20-20:05</td>
+        <td class="tg-0l6a">Jacob Peregrina</td>
+        <td class="tg-0l6a">OSINT ¿Privacidad? Claro que sí guapi</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">20:10-20:30</td>
+        <td class="tg-baqh" colspan="2">CIERRE</td>
+      </tr>
+    </table>
+    </div>
+  </div>
 </div>
 
 <div class="bootstrap">
@@ -845,9 +1022,9 @@ Y ya para terminar, lo único que querríamos pediros es que nos ayudarais con l
 {% include gallery images=images cols=3 %}
 
 {% capture images %}
-  /assets/images/jasyp/18/agradecimientos/fwhibbit.png
-  /assets/images/jasyp/18/agradecimientos/bitup.png
   /assets/images/jasyp/18/agradecimientos/hb.png
+  /assets/images/jasyp/18/agradecimientos/bitup.png
+  /assets/images/jasyp/18/agradecimientos/fwhibbit.png
 {% endcapture %}
 {% include gallery images=images cols=3 %}
 
