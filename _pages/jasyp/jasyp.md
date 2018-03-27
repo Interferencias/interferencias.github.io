@@ -695,7 +695,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
             </div>
 					</td>
 					<td>
-						<div class="act24n">TBA
+						<div class="act24n">Exfiltración de datos con Python
               <!--
               <div class="act24d">
               	<b>Descripción:</b><br><br>
@@ -854,7 +854,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
       <tr>
         <td class="tg-0l6a">12:15-13:00</td>
         <td class="tg-0l6a">Eduardo Sánchez</td>
-        <td class="tg-0l6a">TBA</td>
+        <td class="tg-0l6a">Exfiltración de datos con Python</td>
       </tr>
       <tr>
         <td class="tg-baqh">13:05-13:50</td>
