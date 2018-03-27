@@ -696,12 +696,10 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 					<td>
 						<div class="act24n">Exfiltración de datos con Python
-              <!--
               <div class="act24d">
               	<b>Descripción:</b><br><br>
-              	TBA
+              	Veremos cómo podemos obtener datos de usuarios sin ser detectada la fuga de información q ellos mismos nos brindan.
               </div>
-              -->
             </div>
 					</td>
 				</tr>
