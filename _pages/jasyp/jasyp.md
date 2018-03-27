@@ -830,8 +830,8 @@ Las JASYP de este año están enfocadas en 3 bloques:
         <td class="tg-41e9">TÍTULO</td>
       </tr>
             <tr>
-        <td class="tg-0l6a">10:00-10:20</td>
-        <td class="tg-0l6a" colspan="2">APERTURA</td>
+        <td class="tg-baqh">10:00-10:20</td>
+        <td class="tg-baqh" colspan="2">APERTURA</td>
       </tr>
       <tr>
         <td class="tg-0l6a">10:20-10:45</td>
