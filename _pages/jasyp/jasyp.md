@@ -8,11 +8,11 @@ image:
 timing: false
 ---
 
-![cartel_jasyp]({{ "/assets/images/jasyp/18/cartel.png" }})
+![cartel_jasyp]({{ "/assets/images/jasyp/18/cartel_jasyp_18_hb.png" }})
 
 Las **JASYP** (_Jornadas sobre Anonimato, Seguridad y Privacidad_) son unas jornadas organizadas por [Interferencias](https://twitter.com/Inter_ferencias) que pretende dar un espacio a todas aquellas personas con inquietudes sobre los problemas que encontramos en el día a día cada vez que usamos Internet o cualquier ordenador en general.
 
-En este 2018 hemos lanzado la segunda edición de este evento, donde esperamos poder aprender mucho, aprovechar los días incluso más, y sacar partido del buen rollo que Granada siempre brinda en sus bares. La **edición de este año** tendrá lugar **los días VIERNES 13 Y SÁBADO 14 DE ABRIL** en la **[Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/)** _(Calle Periodista Daniel Saucedo Aranda, s/n, 18071 Granada)_.
+En este 2018 hemos lanzado la segunda edición de este evento, donde esperamos poder aprender mucho, aprovechar los días incluso más, y sacar partido del buen rollo que Granada siempre brinda en sus bares. La **edición de este año** tendrá lugar **los días VIERNES 13 Y SÁBADO 14 DE ABRIL** en la **[Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación de la Universidad de Granada](https://etsiit.ugr.es/)** _(Calle Periodista Daniel Saucedo Aranda, s/n, 18071 Granada)_; pero la cosa no termina ahí (ni siquiera empieza), porque para ir calentando motores, **el JUEVES 12** por la tarde tendremos el **Hack & Beers Vol. 4 - Granada**.
 
 Por nuestra parte, lo único que podemos decir es que estamos muy felices ya que la respuesta ha sido muy buena en cuanto a participaciones recibidas, consiguiendo un equilibrio entre personas con experiencia y personas que están empezando, equilibrio entre personas con perfil técnico y personas con un perfil más social, equilibrio entre personas de diferentes edades y de diferentes sexos. Por ello solo nos queda más que daros las gracias.
 
@@ -28,7 +28,10 @@ Por nuestra parte, lo único que podemos decir es que estamos muy felices ya que
 
 Las JASYP de este año están enfocadas en 3 bloques:
 
-- **Charlas y talleres**. Es el bloque principal de las Jornadas y puedes ver la programación justo a continuación. (Próximamente confirmaremos el horario definitivo).
+- **Charlas y talleres**. Es el bloque principal de las Jornadas:
+    + <a href="#programa">Programa</a>
+    + <a href="#horario">Horario</a>
+    + <a href="#hb">Hack & Beers</a>
 - **Capture The Flag**. Esta es una actividad complementaria que hacemos por primera vez este año gracias a nuestros amigos de [**Hacking Desde Cero**](http://www.hackingdesdecero.org/). Dentro de poco os iremos informando sobre como participar para poner a pruebas vuestras habilidades en el CTF Jeopardy-style que están preparando.
 - **Concurso de arte**. Y por último, otra actividad también nueva. Consideramos que es importante hacer activismo en todas sus vertientes, por eso queríamos organizar un concurso artístico sobre el que podéis encontrar más información [**aquí**]({{ site.url }}/jasyp/concurso/).
 
@@ -37,11 +40,9 @@ Las JASYP de este año están enfocadas en 3 bloques:
 <div class="bootstrap">
 	<div class="text-center">
 		<br>
-		<h3>Programa</h3>
+		<h3 id="programa">Programa</h3>
   </div>
 </div>
-
-Lo que aquí podéis encontrar es la programación de las diferentes charlas que tendrán lugar en las Jornadas. Estad atentos, porque todavía nos faltan por confirmar unos cuantos ponentes invitados... además de varias sorpresas... 🌚
 
 <div class="bootstrap">
 	<div class="text-center">
@@ -123,7 +124,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
               <div class="bio3">
                 <b>Formación:</b>
                 <ul>
-            	    <li>Estudiante en 1º de Grado en Ingeniería Informática-Tecnologías Informáticas</li>
+            	    <li>Estudiante en 1º de Grado en Ingeniería Informática - Tecnologías Informáticas</li>
                 </ul>
                 <b>Experiencia:</b>
                 <ul>
@@ -816,7 +817,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
 <div class="bootstrap">
   <div class="text-center">
     <br>
-    <h3>Horario</h3>
+    <h3 id="horario">Horario</h3>
     <hr>
     <div>
     <table class="tg">
@@ -916,7 +917,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
       </tr>
       <tr>
         <td class="tg-baqh">10:30-10:55</td>
-        <td class="tg-baqh">David Santo Orcero</td>
+        <td class="tg-baqh">David Santo</td>
         <td class="tg-baqh">Esteganografía en sistemas operativos libres</td>
       </tr>
       <tr>
@@ -931,7 +932,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
       <tr>
         <td class="tg-0l6a">12:15-13:00</td>
         <td class="tg-0l6a">Ignacio Navarro</td>
-        <td class="tg-0l6a">Cómo hemos llegado a este desastre</td>
+        <td class="tg-0l6a">¿Cómo hemos llegado a este desastre?</td>
       </tr>
       <tr>
         <td class="tg-baqh">13:05-13:30</td>
@@ -965,7 +966,7 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
       <tr>
         <td class="tg-baqh">17:20-18:05</td>
         <td class="tg-baqh">Josep Moreno</td>
-        <td class="tg-baqh">PenTORsting! 17 años de deep web</td>
+        <td class="tg-baqh">PenTORsting! 17 años de Deep Web</td>
       </tr>
       <tr>
         <td class="tg-0l6a">18:05-18:30</td>
@@ -987,6 +988,25 @@ Lo que aquí podéis encontrar es la programación de las diferentes charlas que
       </tr>
     </table>
     </div>
+  </div>
+</div>
+
+<div class="bootstrap">
+  <div class="text-center">
+    <br>
+    <h3 id="hb">Hack & Beers</h3>
+    <img src="/assets/images/jasyp/18/hb.png">
+    <hr>
+  </div>
+</div>
+
+Esta será la <strong>4ª edición de Hack & Beers en Granada</strong>, siguiendo el mismo planteamiento de siempre: charlas sobre temáticas relacionadas con seguridad informática tomándose unas cervezas a cuenta de su patrocinador.
+
+Las charlas de está edición de Hack & Beers se confirmarán próximamente.
+
+<div class="bootstrap">
+  <div class="text-center">
+    <img src="/assets/images/jasyp/18/beer.png" height="43%">
   </div>
 </div>
 
