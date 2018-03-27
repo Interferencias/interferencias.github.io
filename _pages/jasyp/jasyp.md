@@ -829,76 +829,80 @@ Las JASYP de este año están enfocadas en 3 bloques:
         <td class="tg-41e9">PONENTE</td>
         <td class="tg-41e9">TÍTULO</td>
       </tr>
-      <tr>
-        <td class="tg-baqh">10:00-10:30</td>
-        <td class="tg-baqh" colspan="2">PRESENTACIÓN</td>
+            <tr>
+        <td class="tg-0l6a">10:00-10:20</td>
+        <td class="tg-0l6a" colspan="2">APERTURA</td>
       </tr>
       <tr>
-        <td class="tg-0l6a">10:30-11:15</td>
-        <td class="tg-0l6a">Alejandro Cortés</td>
-        <td class="tg-0l6a">Privacidad y anonimicidad vs. regulación y control en el ciberespacio </td>
+        <td class="tg-0l6a">10:20-10:45</td>
+        <td class="tg-0l6a" colspan="2">PRESENTACIÓN</td>
       </tr>
       <tr>
-        <td class="tg-baqh">11:20-11:45</td>
-        <td class="tg-baqh">Javier Montes</td>
-        <td class="tg-baqh">Educación en el Software</td>
+        <td class="tg-baqh">10:50-11:15</td>
+        <td class="tg-baqh">Alejandro Cortés</td>
+        <td class="tg-baqh">Privacidad y anonimicidad vs. regulación y control en el ciberespacio </td>
       </tr>
       <tr>
-        <td class="tg-0l6a">11:45-12:15</td>
-        <td class="tg-0l6a" colspan="2">DESCANSO</td>
+        <td class="tg-0l6a">11:20-11:45</td>
+        <td class="tg-0l6a">Javier Montes</td>
+        <td class="tg-0l6a">Educación en el Software</td>
       </tr>
       <tr>
-        <td class="tg-baqh">12:15-13:00</td>
-        <td class="tg-baqh">Eduardo Sánchez</td>
-        <td class="tg-baqh">TBA</td>
-      </tr>
-      <tr>
-        <td class="tg-0l6a">13:05-13:50</td>
-        <td class="tg-0l6a">Luis Serrano</td>
-        <td class="tg-0l6a">Perito informático: el que no aparece en Mr. Robot</td>
-      </tr>
-      <tr>
-        <td class="tg-baqh">13:50-15:30</td>
+        <td class="tg-baqh">11:45-12:15</td>
         <td class="tg-baqh" colspan="2">DESCANSO</td>
       </tr>
       <tr>
-        <td class="tg-0l6a">15:30-16:15</td>
-        <td class="tg-0l6a">Guillermo Román</td>
-        <td class="tg-0l6a">Air Profiling: perfilado de un dispositivo a través de los paquetes de red</td>
+        <td class="tg-0l6a">12:15-13:00</td>
+        <td class="tg-0l6a">Eduardo Sánchez</td>
+        <td class="tg-0l6a">TBA</td>
       </tr>
       <tr>
-        <td class="tg-baqh">16:20-16:45</td>
-        <td class="tg-baqh">José Alberto Orejuela</td>
-        <td class="tg-baqh">Sal de la cúpula: una alternativa libre para cada servicio de Google</td>
+        <td class="tg-baqh">13:05-13:50</td>
+        <td class="tg-baqh">Luis Serrano</td>
+        <td class="tg-baqh">Perito informático: el que no aparece en Mr. Robot</td>
       </tr>
       <tr>
-        <td class="tg-0l6a">16:50-17:15</td>
-        <td class="tg-0l6a">Celia Pedregosa</td>
-        <td class="tg-0l6a">El cifrado asimétrico</td>
-      </tr>
-      <tr>
-        <td class="tg-baqh">17:20-17:45</td>
-        <td class="tg-baqh">Javier Valls</td>
-        <td class="tg-baqh">Derechos fundamentales en peligro por la utilización de IA por el Estado</td>
-      </tr>
-      <tr>
-        <td class="tg-0l6a">17:45-18:15</td>
+        <td class="tg-0l6a">14:00-15:30</td>
         <td class="tg-0l6a" colspan="2">DESCANSO</td>
       </tr>
       <tr>
-        <td class="tg-baqh">18:15-19:00</td>
-        <td class="tg-baqh">Benito Palacios</td>
-        <td class="tg-baqh">Destripando juegos: protecciones anti ROM Hacking</td>
+        <td class="tg-baqh">15:30-16:15</td>
+        <td class="tg-baqh">Guillermo Román</td>
+        <td class="tg-baqh">Air Profiling: perfilado de un dispositivo a través de los paquetes de red</td>
       </tr>
       <tr>
-        <td class="tg-0l6a">19:05-19:50</td>
-        <td class="tg-0l6a">Bartolomé Ortiz</td>
-        <td class="tg-0l6a">Maths and censorship to control people minds</td>
+        <td class="tg-0l6a">16:20-16:45</td>
+        <td class="tg-0l6a">José Alberto Orejuela</td>
+        <td class="tg-0l6a">Sal de la cúpula: una alternativa libre para cada servicio de Google</td>
       </tr>
       <tr>
-        <td class="tg-baqh">19:55-20:40</td>
-        <td class="tg-baqh">Angel Pablo Hinojosa</td>
-        <td class="tg-baqh">Cuando los antropólogos descubrieron a los hackers</td>
+        <td class="tg-baqh">16:50-17:15</td>
+        <td class="tg-baqh">Celia Pedregosa</td>
+        <td class="tg-baqh">El cifrado asimétrico</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">17:20-17:45</td>
+        <td class="tg-0l6a">Javier Valls</td>
+        <td class="tg-0l6a">Derechos fundamentales en peligro por la utilización de IA por el Estado</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">17:45-18:15</td>
+        <td class="tg-baqh" colspan="2">DESCANSO</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">18:15-19:00</td>
+        <td class="tg-0l6a">Benito Palacios</td>
+        <td class="tg-0l6a">Destripando juegos: protecciones anti ROM Hacking</td>
+      </tr>
+      <tr>
+        <td class="tg-baqh">19:05-19:50</td>
+        <td class="tg-baqh">Bartolomé Ortiz</td>
+        <td class="tg-baqh">Maths and censorship to control people minds</td>
+      </tr>
+      <tr>
+        <td class="tg-0l6a">19:55-20:40</td>
+        <td class="tg-0l6a">Angel Pablo Hinojosa</td>
+        <td class="tg-0l6a">Cuando los antropólogos descubrieron a los hackers</td>
       </tr>
     </table>
     </div>
