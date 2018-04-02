@@ -894,8 +894,8 @@ Las JASYP de este año están enfocadas en 3 bloques:
       </tr>
       <tr>
         <td class="tg-baqh">19:05-19:50</td>
-        <td class="tg-baqh">Bartolomé Ortiz</td>
-        <td class="tg-baqh">Maths and censorship to control people minds</td>
+        <td class="tg-0l6a">Rolo Miján</td>
+        <td class="tg-0l6a">Hackeando a Manolo "El Barbas"</td>
       </tr>
       <tr>
         <td class="tg-0l6a">19:55-20:40</td>
@@ -952,8 +952,8 @@ Las JASYP de este año están enfocadas en 3 bloques:
       </tr>
       <tr>
         <td class="tg-0l6a">15:30-16:15</td>
-        <td class="tg-0l6a">Rolo Miján</td>
-        <td class="tg-0l6a">Hackeando a Manolo "El Barbas"</td>
+        <td class="tg-baqh">Bartolomé Ortiz</td>
+        <td class="tg-baqh">Maths and censorship to control people minds</td>
       </tr>
       <tr>
         <td class="tg-baqh">16:20-16:45</td>
