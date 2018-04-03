@@ -63,14 +63,14 @@ Las JASYP de este año están enfocadas en 3 bloques:
 			</thead>
 			<tbody>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.jpg" }}" height="250" width="250">
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="speaker1">Carmen María Balches
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act1n">Hacktivismo en femenino
               <div class="act1d">
                 <b>Descripción:</b><br><br>
@@ -80,11 +80,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/alejandro_cortes.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker2">Alejandro Cortés (<a href="https://twitter.com/Kirzahk">@Kirzahk</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker2">Alejandro Cortés<br>
+            (<a href="https://twitter.com/Kirzahk">@Kirzahk</a>)
 							<div class="bio2">
 								<b>Formación:</b>
 								<ul>
@@ -105,7 +106,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
 							</div>
 						</div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act2n">Privacidad y anonimicidad vs. regulación y control en el ciberespacio
               <div class="act2d">
                 <b>Descripción:</b><br><br>
@@ -116,10 +117,10 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/nuria_escamilla.jpg" }}" height="250" width="250">
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="speaker3">Nuria Escamilla
               <div class="bio3">
                 <b>Formación:</b>
@@ -137,7 +138,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act3n">Escoge tu hacker: los tipos de hacking
               <div class="act3d">
                 <b>Descripción:</b><br><br>
@@ -147,11 +148,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/angel_pablo_hinojosa.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker4">Angel Pablo Hinojosa (<a href="https://twitter.com/psicobyte_">@psicobyte_</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker4">Angel Pablo Hinojosa<br>
+            (<a href="https://twitter.com/psicobyte_">@psicobyte_</a>)
               <div class="bio4">
                 <b>Formación:</b>
                 <ul>
@@ -172,7 +174,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act4n">Cuando los antropólogos descubrieron a los hackers
               <div class="act4d">
               	<b>Descripción:</b><br><br>
@@ -182,11 +184,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/paula_de_la_hoz.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker5">Paula de la Hoz (<a href="https://twitter.com/Terceranexus6">@Terceranexus6</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker5">Paula de la Hoz<br>
+            (<a href="https://twitter.com/Terceranexus6">@Terceranexus6</a>)
               <div class="bio5">
                 <b>Formación:</b>
                 <ul>
@@ -208,7 +211,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act5n">Escoge tu hacker: los tipos de hacking
               <div class="act5d">
                 <b>Descripción:</b><br><br>
@@ -218,11 +221,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/andrea_laguillo.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker6">Andrea Laguillo (<a href="https://twitter.com/andrea_sanfe">@andrea_sanfe</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker6">Andrea Laguillo<br>
+            (<a href="https://twitter.com/andrea_sanfe">@andrea_sanfe</a>)
               <div class="bio6">
                 <b>Formación:</b>
                 <ul>
@@ -237,7 +241,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act6n">Somos información: la importancia de la privacidad en datos genéticos
               <div class="act6d">
               	<b>Descripción:</b><br><br>
@@ -248,11 +252,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jj_merelo.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker7">JJ Merelo (<a href="https://twitter.com/jjmerelo">@jjmerelo</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker7">JJ Merelo<br>
+            (<a href="https://twitter.com/jjmerelo">@jjmerelo</a>)
               <div class="bio7">
                 <b>Formación:</b>
                 <ul>
@@ -271,7 +276,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act7n">Despliega seguro: buenas, malas y peores prácticas en el despliegue de aplicaciones en la nube
               <div class="act7d">
                 <b>Descripción:</b><br><br>
@@ -282,11 +287,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/rolo_mijan.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker8">Rolo Miján (<a href="https://twitter.com/RoloMijan">@RoloMijan</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker8">Rolo Miján<br>
+            (<a href="https://twitter.com/RoloMijan">@RoloMijan</a>)
               <div class="bio8">
                 <b>Formación:</b>
                 <ul>
@@ -305,7 +311,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act8n">Hackeando a Manolo "El Barbas"
               <div class="act8d">
               	<b>Descripción:</b><br><br>
@@ -323,11 +329,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_montes.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker9">Javier Montes (<a href="https://twitter.com/Main_Javi">@Main_Javi</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker9">Javier Montes<br>
+            (<a href="https://twitter.com/Main_Javi">@Main_Javi</a>)
               <div class="bio9">
                 <b>Campos de interés:</b>
                 <ul>
@@ -337,7 +344,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act9n">Educación en el Software
               <div class="act9d">
               	<b>Descripción:</b><br><br>
@@ -348,11 +355,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/josep_moreno.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker10">Josep Moreno (<a href="https://twitter.com/jo_mo_za">@jo_mo_za</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker10">Josep Moreno<br>
+            (<a href="https://twitter.com/jo_mo_za">@jo_mo_za</a>)
               <div class="bio10">
                 <b>Experiencia:</b>
                 <ul>
@@ -367,7 +375,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act10n">PenTORsting! 17 años de Deep Web
               <div class="act10d">
               	<b>Descripción:</b><br><br>
@@ -379,11 +387,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/ignacio_navarro.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker11">Ignacio Navarro (<a href="https://twitter.com/pirikun">@pirikun</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker11">Ignacio Navarro<br>
+            (<a href="https://twitter.com/pirikun">@pirikun</a>)
               <div class="bio11">
                 <b>Formación:</b>
                 <ul>
@@ -406,7 +415,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act11n">¿Cómo hemos llegado a este desastre?
               <div class="act11d">
               	<b>Descripción:</b><br><br>
@@ -417,11 +426,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jose_alberto_orejuela.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker12">José Alberto Orejuela (<a href="https://twitter.com/josealberto4444">@josealberto4444</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker12">José Alberto Orejuela<br>
+            (<a href="https://twitter.com/josealberto4444">@josealberto4444</a>)
               <div class="bio12">
                 <b>Formación:</b>
                 <ul>
@@ -439,7 +449,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act12n">Sal de la cúpula: una alternativa libre para cada servicio de Google
               <div class="act12d">
               	<b>Descripción:</b><br><br>
@@ -449,11 +459,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/bartolome_ortiz.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker13">Bartolomé Ortiz (<a href="https://twitter.com/bortizmath">@bortizmath</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker13">Bartolomé Ortiz<br>
+            (<a href="https://twitter.com/bortizmath">@bortizmath</a>)
               <div class="bio13">
                 <b>Formación:</b>
                 <ul>
@@ -470,7 +481,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act13n">Maths and censorship to control people minds
               <div class="act13d">
               	<b>Descripción:</b><br><br>
@@ -480,11 +491,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/benito_palacios.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker14">Benito Palacios (<a href="https://twitter.com/pleonex">@pleonex</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker14">Benito Palacios<br>
+            (<a href="https://twitter.com/pleonex">@pleonex</a>)
               <div class="bio14">
                 <b>Formación:</b>
                 <ul>
@@ -502,7 +514,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act14n">Destripando juegos: protecciones anti ROM Hacking
               <div class="act14d">
               	<b>Descripción:</b><br><br>
@@ -514,14 +526,15 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker15">Celia Pedregosa (<a href="https://twitter.com/AilekUmbreon">@AilekUmbreon</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker15">Celia Pedregosa<br>
+            (<a href="https://twitter.com/AilekUmbreon">@AilekUmbreon</a>)
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act15n">El cifrado asimétrico
               <div class="act15d">
               	<b>Descripción:</b><br><br>
@@ -531,11 +544,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/jacob_peregrina.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker16">Jacob Peregrina (<a href="https://twitter.com/jacobperegrina">@jacobperegrina</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker16">Jacob Peregrina<br>
+            (<a href="https://twitter.com/jacobperegrina">@jacobperegrina</a>)
               <div class="bio16">
                 <b>Formación:</b>
                 <ul>
@@ -556,7 +570,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act16n">OSINT ¿Privacidad? Claro que sí guapi
               <div class="act16d">
               	<b>Descripción:</b><br><br>
@@ -568,11 +582,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/logo.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker18">Álvaro Rodríguez (<a href="https://twitter.com/alvarospotify">@alvarospotify</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker18">Álvaro Rodríguez<br>
+            (<a href="https://twitter.com/alvarospotify">@alvarospotify</a>)
               <div class="bio18">
                 <b>Formación:</b>
                 <ul>
@@ -589,7 +604,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act18n">Criptomonedas, minería y blockchain
               <div class="act18d">
               	<b>Descripción:</b><br><br>
@@ -601,11 +616,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/guillermo_roman.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker19">Guillermo Román (<a href="https://twitter.com/Guille_Hartek">@Guille_Hartek</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker19">Guillermo Román<br>
+            (<a href="https://twitter.com/Guille_Hartek">@Guille_Hartek</a>)
               <div class="bio19">
                 <b>Formación:</b>
                 <ul>
@@ -626,7 +642,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act19n">Air Profiling: perfilado de un dispositivo a través de los paquetes de red
               <div class="act19d">
               	<b>Descripción:</b><br><br>
@@ -636,11 +652,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/lorena_sanchez.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker20">Lorena Sánchez (<a href="https://twitter.com/LastStrawberry">@LastStrawberry</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker20">Lorena Sánchez<br>
+            (<a href="https://twitter.com/LastStrawberry">@LastStrawberry</a>)
               <div class="bio20">
                 <b>Formación:</b>
                 <ul>
@@ -661,7 +678,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act20n">Make elections great again: un muro no evitará que hackeen tus elecciones
               <div class="act20d">
               	<b>Descripción:</b><br><br>
@@ -673,11 +690,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
         <tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/eduardo_sanchez.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker24">Eduardo Sánchez (<a href="https://twitter.com/eduSatoe">@eduSatoe</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker24">Eduardo Sánchez<br>
+            (<a href="https://twitter.com/eduSatoe">@eduSatoe</a>)
               <div class="bio24">
                 <b>Formación:</b>
                 <ul>
@@ -694,7 +712,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act24n">Exfiltración de datos con Python
               <div class="act24d">
               	<b>Descripción:</b><br><br>
@@ -704,11 +722,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/david_santo.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker21">David Santo (<a href="https://twitter.com/santoorcero">@santoorcero</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker21">David Santo<br>
+            (<a href="https://twitter.com/santoorcero">@santoorcero</a>)
               <div class="bio21">
                 <b>Formación:</b>
                 <ul>
@@ -734,7 +753,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act21n">Esteganografía en sistemas operativos libres
               <div class="act21d">
               	<b>Descripción:</b><br><br>
@@ -747,11 +766,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
 				<tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/luis_serrano.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker22">Luis Serrano (<a href="https://twitter.com/proyectaria">@proyectaria</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker22">Luis Serrano<br>
+            (<a href="https://twitter.com/proyectaria">@proyectaria</a>)
               <div class="bio22">
                 <b>Formación:</b>
                 <ul>
@@ -771,7 +791,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act22n">Perito informático: el que no aparece en Mr. Robot
               <div class="act22d">
               	<b>Descripción:</b><br><br>
@@ -781,11 +801,12 @@ Las JASYP de este año están enfocadas en 3 bloques:
 					</td>
 				</tr>
         <tr>
-					<td>
+					<td style="vertical-align: middle;">
 						<img src="{{ site.url }}{{ "/assets/images/jasyp/18/participantes/javier_valls.jpg" }}" height="250" width="250">
 					</td>
-					<td>
-						<div class="speaker23">Javier Valls (<a href="https://twitter.com/javi_valls">@javi_valls</a>)
+					<td style="vertical-align: middle;">
+						<div class="speaker23">Javier Valls<br>
+            (<a href="https://twitter.com/javi_valls">@javi_valls</a>)
               <div class="bio23">
                 <b>Formación:</b>
                 <ul>
@@ -798,7 +819,7 @@ Las JASYP de este año están enfocadas en 3 bloques:
               </div>
             </div>
 					</td>
-					<td>
+					<td style="vertical-align: middle;">
 						<div class="act23n">Derechos fundamentales en peligro por la utilización de IA por el Estado
               <div class="act23d">
               	<b>Descripción:</b><br><br>
@@ -1004,7 +1025,65 @@ Las JASYP de este año están enfocadas en 3 bloques:
 
 Esta será la <strong>4ª edición de Hack & Beers en Granada</strong>, siguiendo el mismo planteamiento de siempre: charlas sobre temáticas relacionadas con seguridad informática tomándose unas cervezas a cuenta de su patrocinador.
 
-Las charlas de está edición de Hack & Beers se confirmarán próximamente.
+<div class="bootstrap">
+	<div class="text-center">
+		<hr>
+		<table class="table table-bordered table-striped table-hover table-condensed table-responsive">
+			<thead>
+				<tr>
+					<th class="not_mapped_style" style="text-align:center">
+
+					</th>
+					<th class="not_mapped_style" style="text-align:center">
+						PONENTE
+					</th>
+					<th class="not_mapped_style" style="text-align:center">
+						TÍTULO
+					</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td style="vertical-align: middle;">
+            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/enrique_casale.jpg" }}" height="150" width="150">
+					</td>
+					<td style="vertical-align: middle;">
+            Enrique Casale<br>
+            (<a href="https://twitter.com/gugle79">@gugle79</a>)
+					</td>
+					<td style="vertical-align: middle;">
+            Jugando con antivirus
+					</td>
+				</tr>
+        <tr>
+					<td style="vertical-align: middle;">
+            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/alejandro_garcia.jpg" }}" height="150" width="150">
+					</td>
+					<td style="vertical-align: middle;">
+            Alejandro García<br>
+            (<a href="https://twitter.com/Alexblackletter">@Alexblackletter</a>)
+					</td>
+					<td style="vertical-align: middle;">
+            El teleco que quería ser hacker
+					</td>
+				</tr>
+        <tr>
+					<td style="vertical-align: middle;">
+            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/german_martinez.jpg" }}" height="150" width="150">
+					</td>
+					<td style="vertical-align: middle;">
+            Germán Martínez<br>
+            (<a href="https://twitter.com/germaaan_">@germaaan_</a>)
+					</td>
+					<td style="vertical-align: middle;">
+            Todo lo que puedes aprender sobre reversing en una noche sin sueño
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+
 
 <div class="bootstrap">
   <div class="text-center">
