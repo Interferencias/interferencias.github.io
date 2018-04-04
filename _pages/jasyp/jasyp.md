@@ -1018,81 +1018,69 @@ Las JASYP de este año están enfocadas en 3 bloques:
   <div class="text-center">
     <br>
     <h3 id="hb">Hack & Beers</h3>
-    <img src="/assets/images/jasyp/18/hb.png">
     <hr>
+    <img src="/assets/images/jasyp/18/beer.png" height="300">
   </div>
 </div>
 
-Esta será la <strong>4ª edición de Hack & Beers en Granada</strong>, siguiendo el mismo planteamiento de siempre: charlas sobre temáticas relacionadas con seguridad informática tomándose unas cervezas a cuenta de su patrocinador.
+Esta será la <strong>4ª edición de Hack & Beers en Granada</strong>, siguiendo el mismo planteamiento de siempre: charlas sobre temáticas relacionadas con seguridad informática tomándose unas cervezas a cuenta de su patrocinador [Sophos Iberia](https://twitter.com/SophosIberia).
+
+Tendrá lugar el jueves 12 de 18:30 a 20:00 en La Posada (Calle Periodista Eugenio Selles, 10, 18014 Granada) y aunque la entrada es gratuita, sí que desde la organización de Hack&Beers nos piden que toda las personas que vayan a asistir se registren en [esta página del evento](https://www.eventbrite.es/e/entradas-hack-beers-vol-4-granada-44830114078) para gestionar el tema de las cervezas.
 
 <div class="bootstrap">
 	<div class="text-center">
-		<hr>
-		<table class="table table-bordered table-striped table-hover table-condensed table-responsive">
-			<thead>
-				<tr>
-					<th class="not_mapped_style" style="text-align:center">
 
-					</th>
-					<th class="not_mapped_style" style="text-align:center">
-						PONENTE
-					</th>
-					<th class="not_mapped_style" style="text-align:center">
-						TÍTULO
-					</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td style="vertical-align: middle;">
-            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/enrique_casale.jpg" }}" height="150" width="150">
-					</td>
-					<td style="vertical-align: middle;">
-            Enrique Casale<br>
-            (<a href="https://twitter.com/gugle79">@gugle79</a>)
-					</td>
-					<td style="vertical-align: middle;">
-            Jugando con antivirus
-					</td>
-				</tr>
+    <table class="table table-bordered table-striped table-hover table-condensed table-responsive">
+      <col width="33%">
+      <col width="33%">
+      <col width="33%">
+      <thead>
         <tr>
-					<td style="vertical-align: middle;">
-            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/alejandro_garcia.jpg" }}" height="150" width="150">
-					</td>
-					<td style="vertical-align: middle;">
+          <th colspan="3" class="not_mapped_style" style="text-align:center">
+            <img src="/assets/images/jasyp/18/hb.png">
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="vertical-align: middle;">
+            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/enrique_casale.jpg" }}" height="250" width="250">
+          </td>
+          <td style="vertical-align: middle;">
+            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/alejandro_garcia.jpg" }}" height="250" width="250">
+          </td>
+          <td style="vertical-align: middle;">
+            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/german_martinez.jpg" }}" height="250" width="250">
+          </td>
+        </tr>
+        <tr>
+          <td style="vertical-align: middle;">
+             Enrique Casale<br>
+             (<a href="https://twitter.com/gugle79">@gugle79</a>)
+          </td>
+          <td style="vertical-align: middle;">
             Alejandro García<br>
             (<a href="https://twitter.com/Alexblackletter">@Alexblackletter</a>)
-					</td>
-					<td style="vertical-align: middle;">
-            El teleco que quería ser hacker
-					</td>
-				</tr>
-        <tr>
-					<td style="vertical-align: middle;">
-            <img src="{{ site.url }}{{ "/assets/images/jasyp/18/hb/german_martinez.jpg" }}" height="150" width="150">
-					</td>
-					<td style="vertical-align: middle;">
+          </td>
+          <td style="vertical-align: middle;">
             Germán Martínez<br>
             (<a href="https://twitter.com/germaaan_">@germaaan_</a>)
-					</td>
-					<td style="vertical-align: middle;">
+          </td>
+        </tr>
+        <tr>
+          <td style="vertical-align: middle;">
+            Jugando con antivirus
+          </td>
+          <td style="vertical-align: middle;">
+            El teleco que quería ser hacker
+          </td>
+          <td style="vertical-align: middle;">
             Todo lo que puedes aprender sobre reversing en una noche sin sueño
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
-</div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
 
-
-<div class="bootstrap">
-  <div class="text-center">
-    <img src="/assets/images/jasyp/18/beer.png" height="43%">
-  </div>
-</div>
-
-<div class="bootstrap">
-  <div class="text-center">
     <br>
     <h3>¿Te hemos convencido?</h3>
     <hr>
