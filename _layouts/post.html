@@ -78,12 +78,12 @@
           -->
         </h2>
 
-        {% if site.reading_time %}
+        {% if page.timing != false %} {% if site.reading_time %}
         <p class="entry-reading-time">
           <i class="fa fa-clock-o"></i>
           {% include read-time %}
         </p><!-- /.entry-reading-time -->
-        {% endif %}
+        {% endif %} {% endif %}
       </div><!-- /.header-title-wrap -->
     </header>
 
