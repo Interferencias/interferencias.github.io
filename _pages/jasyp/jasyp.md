@@ -73,7 +73,6 @@ Las JASYP de este año están enfocadas en 3 bloques:
 								<b>Formación:</b>
 								<ul>
 									<li>Estudiante de economía</li>
-									<li>Ingeniero Técnico Industrial en Electricidad por UMA</li>
 								</ul>
                 <b>Campos de interés:</b>
                 <ul>
