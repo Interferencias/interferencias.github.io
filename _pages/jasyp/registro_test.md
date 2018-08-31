@@ -12,7 +12,7 @@ timing: false
 function check_pdf() {
   var paper = document.getElementById("paper");
 
-  if (paper.files[0].size > 19892827) {
+  if (paper.files[0].size > 20971520) {
     alert("El archivo seleccionado es demasiado grande (máximo 20 MB).");
     paper.value = "";
   } else if (paper.files[0].type !== "application/pdf"){
