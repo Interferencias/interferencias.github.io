@@ -3,7 +3,7 @@ port: 5000
 title:            Interferencias
 description:      Grupo ciberactivista dedicado a organizar actividades y compartir
   información y opinión sobre derechos digitales, seguridad informática y temáticas
-  similares.
+  similares, además de con el objetivo de promover el software libre.
 reading_time:     true
 words_per_minute: 200
 
