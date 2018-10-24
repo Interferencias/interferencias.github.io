@@ -4,7 +4,7 @@ title: JASYP '18 - Patrocinio
 permalink: /jasyp/patrocinio/
 description: "Patrocinar las JASYP '18"
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 timing: false
 share: false
 ---

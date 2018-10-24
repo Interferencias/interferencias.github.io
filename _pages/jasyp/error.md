@@ -4,7 +4,7 @@ title: JASYP '18 - Participación
 permalink: /jasyp/error/
 description: "Formulario de participación para las JASYP '18"
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 timing: false
 share: false
 ---

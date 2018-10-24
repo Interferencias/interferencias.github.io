@@ -3,7 +3,7 @@ layout: post
 title: ¡Libera tu móvil!
 author: josealberto4444
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: movil software-libre replicant lineageOS
 ---
 

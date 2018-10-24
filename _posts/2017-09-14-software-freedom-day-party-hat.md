@@ -3,7 +3,7 @@ layout: post
 title: Software Freedom Day party hat
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: funny gnu freedom software
 ---
 

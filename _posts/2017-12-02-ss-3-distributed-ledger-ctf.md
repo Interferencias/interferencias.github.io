@@ -3,7 +3,7 @@ layout: post
 title: Security Sprint&#58 Week 3 - Distributed Ledger system and our first Catch The Flag training
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: bitcoins hacking network security
 ---
 

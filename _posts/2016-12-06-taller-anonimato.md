@@ -3,7 +3,7 @@ layout: post
 title: Taller de anonimato
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: anonimato taller tor raspberry-pi tails
 ---
 

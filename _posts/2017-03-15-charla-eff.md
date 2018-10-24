@@ -3,7 +3,7 @@ layout: post
 title: Electronic Frontier Foundation, defendiendo tus derechos en el mundo digital
 author: germaaan
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: charla eff
 ---
 

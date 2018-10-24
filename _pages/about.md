@@ -4,7 +4,7 @@ title: "Sobre nosotros / About us"
 permalink: /about/
 description: "Información sobre el grupo / Information about the group"
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 timing: false
 ---
 

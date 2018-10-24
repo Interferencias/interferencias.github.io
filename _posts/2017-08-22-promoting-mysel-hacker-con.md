@@ -3,7 +3,7 @@ layout: post
 title: Promoting myself in a Hacker Con
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: tattoo qr promoting hacker
 ---
 

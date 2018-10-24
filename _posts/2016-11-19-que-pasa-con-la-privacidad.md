@@ -5,7 +5,7 @@ author: terceranexus6
 translator: nacheteam
 original: https://interferencias.github.io/2016/11/19/what-about-privacy
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: privacidad terminos-uso terminos-privacidad traduccion
 ---
 

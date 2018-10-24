@@ -3,7 +3,7 @@ layout: post
 title: Distributed Ledger and ethereum token creation
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: security bitcoins distributed_ledger ledger blockchain ethereum c
 ---
 

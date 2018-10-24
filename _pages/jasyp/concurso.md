@@ -4,7 +4,7 @@ title: JASYP '18 - Concurso
 permalink: /jasyp/concurso/
 description: "Concurso de arte para las JASYP"
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 timing: false
 share: false
 ---

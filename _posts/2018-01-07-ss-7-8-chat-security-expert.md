@@ -3,7 +3,7 @@ layout: post
 title: Security Sprint&#58 Week 7 &#58 8 - A chat with a security expert
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: interview security
 ---
 

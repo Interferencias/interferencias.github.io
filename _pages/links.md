@@ -4,7 +4,7 @@ title: Enlaces y recursos / Links and resources
 permalink: /links/
 description: "Enlaces de interés."
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 timing: false
 ---
 

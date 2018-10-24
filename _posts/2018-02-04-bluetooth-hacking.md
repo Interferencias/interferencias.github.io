@@ -3,7 +3,7 @@ layout: post
 title: Security Sprint&#58 Week 10 &#38 11 - Bluetooth hacking experiment and open tools
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: hacking bluetooth security english mitm python
 ---
 

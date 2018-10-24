@@ -3,7 +3,7 @@ layout: post
 title: Rubber Ducky
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: duck hack security
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Tattoos no longer private
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: tatoo privacy criminal prisoner
 ---
 ### When Science Fiction Dystopia becomes real

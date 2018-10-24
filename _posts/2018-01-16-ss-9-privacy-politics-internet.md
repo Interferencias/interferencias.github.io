@@ -3,7 +3,7 @@ layout: post
 title: Security Sprint&#58 Week 9 - Privacy politics and the Internet
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: discuss security web w3c
 ---
 

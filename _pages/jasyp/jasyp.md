@@ -4,7 +4,7 @@ title: JASYP '18 (Jornadas de Anonimato, Seguridad y Privacidad)
 permalink: /jasyp/
 description: JASYP '18 (Jornadas de Anonimato, Seguridad y Privacidad)
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 timing: false
 ---
 

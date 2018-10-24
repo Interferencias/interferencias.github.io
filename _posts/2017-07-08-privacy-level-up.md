@@ -3,7 +3,7 @@ layout: post
 title: Privacy level up!
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: security privacy setup linux
 ---
 

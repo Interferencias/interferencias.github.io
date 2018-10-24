@@ -3,7 +3,7 @@ layout: post
 title: El Spectre, el Meltdown y la Libertad
 author: germaaan
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: mundo-libre vulnerabilidades
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Digital context behind revolution
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: censorship digital domain networks
 ---
 

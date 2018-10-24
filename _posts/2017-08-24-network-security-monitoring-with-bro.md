@@ -3,7 +3,7 @@ layout: post
 title: Network Security Monitoring with bro
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: tutorial linux security network
 ---
 

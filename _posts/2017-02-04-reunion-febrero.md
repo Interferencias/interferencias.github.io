@@ -3,7 +3,7 @@ layout: post
 title: Resumen de la reunión de Febrero
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: reunion
 ---
 

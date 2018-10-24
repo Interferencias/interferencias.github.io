@@ -3,7 +3,7 @@ layout: post
 title: Security Sprint&#58 Week 4 - CA pairs creation with openssl
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: security english linux certificates security ca
 ---
 

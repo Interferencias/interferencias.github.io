@@ -4,7 +4,7 @@ title: Grupos y soporte / Groups and support
 permalink: /groups/
 description: "Información para grupos."
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 timing: false
 ---
 

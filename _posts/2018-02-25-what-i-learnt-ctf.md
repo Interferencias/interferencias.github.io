@@ -3,7 +3,7 @@ layout: post
 title: Security Sprint&#58 Week 12 - What I learnt in a CTF
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: security ctf hacking tools
 ---
 

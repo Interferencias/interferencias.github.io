@@ -4,7 +4,7 @@ title: Cómo unirme / How to join
 permalink: /join/
 description: "Información para unirse al grupo."
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 timing: false
 ---
 

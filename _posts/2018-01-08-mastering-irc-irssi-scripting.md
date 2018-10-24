@@ -3,7 +3,7 @@ layout: post
 title:  Mastering IRC tool Irssi + scripting
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: chat vintage irc perl
 ---
 

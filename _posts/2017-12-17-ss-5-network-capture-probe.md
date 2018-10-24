@@ -3,7 +3,7 @@ layout: post
 title: Security Sprint&#58 Week 5 - Network Capture Probe with Raspberry
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: network nsm security english hacking raspberrypi
 ---
 

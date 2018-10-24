@@ -3,7 +3,7 @@ layout: post
 title: ネットワークの監視
 author: terceranexus6
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: japanese security linux
 ---
 

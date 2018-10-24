@@ -3,7 +3,7 @@ layout: post
 title: La encriptación y los números primos
 author: nacheteam
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: encriptación primos números-primos Mersenne
 ---
 

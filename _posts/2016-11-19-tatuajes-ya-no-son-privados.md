@@ -5,7 +5,7 @@ author: terceranexus6
 translator: nacheteam
 original: https://interferencias.github.io/2016/11/19/tattoos-no-longer-private
 image:
-  feature: banners/header.png
+  feature: banners/header.jpg
 tags: tatuaje privacidad criminal preso traducción
 ---
 
