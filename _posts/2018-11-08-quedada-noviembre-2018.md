@@ -35,6 +35,7 @@ La asistencia libre y el registro no es obligatorio, pero también podeís encon
 
 - Granada Geek: [https://www.meetup.com/es-ES/Granada-Geek/events/256233887](https://www.meetup.com/es-ES/Granada-Geek/events/256233887)
 
+- [Agenda Almaina](https://agenda.radioalmaina.org) de [Radio Almaina](https://radioalmaina.org/): [https://agenda.radioalmaina.org/evento/1378](https://agenda.radioalmaina.org/evento/1378)
 
 ✊✊✊📣
 
