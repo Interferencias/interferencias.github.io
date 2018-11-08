@@ -30,6 +30,11 @@ Nos encontraremos el sábado 24 a partir de las 20:00. Sitio todavía por determ
 • Importante:
 Como dependemos del aforo disponible en la cafetería quizás nos movamos de sitio si el lugar está lleno (solo ha ocurrido una vez), en ese caso lo indicaremos en el grupo de Telegram (https://t.me/inter_ferencias). De cualquier otro modo, juntaremos tantas mesas como haga falta, así que no te cortes trayendo a familia, amigos, conocidos o a cualquiera que creas que pueda estar interesado en el tema. Cuantos más, mejor.
 
+Si ayudais con la difusión del evento os lo agradeceremos!
+
+- [https://mastodon.technology/@interferencias/101035076363335668](https://mastodon.technology/@interferencias/101035076363335668)
+- [https://twitter.com/Inter_ferencias/status/1060478822787768321](https://twitter.com/Inter_ferencias/status/1060478822787768321)
+
 
 La asistencia libre y el registro no es obligatorio, pero también podeís encontrar este evento y otros en:
 
