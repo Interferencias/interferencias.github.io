@@ -8,9 +8,9 @@ reading_time:     true
 words_per_minute: 200
 
 # Site domain
-# url: https://interferencias.tech
+url: https://interferencias.tech
 # url: https://interferencias.github.io
-url: http://localhost:5000
+# url: http://localhost:5000
 
 # Author information
 author:
