@@ -4,7 +4,7 @@ title: Sina Weibo y la censura de internet en China
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: censura weibo china
+tags: censura sina-weibo china
 ---
 
 ![sina_weibo_01]({{ "/assets/images/sina_weibo_01.png" }})

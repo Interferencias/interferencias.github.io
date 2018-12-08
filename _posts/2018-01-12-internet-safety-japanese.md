@@ -4,7 +4,7 @@ title: インターネットの安全
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: basic opensource security
+tags: open-source seguridad
 ---
 
 会社または国ば利用者の権利に違反した。。。利用者はそれに気がつか。そのため、開発者ばソフトを開くの工具作った！

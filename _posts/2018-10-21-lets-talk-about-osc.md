@@ -4,7 +4,7 @@ title: Let's talk about OSC
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: security networking linux
+tags: seguridad networking linux
 ---
 
 Long time not see! It's been a while since I wrote about security over here, and I'd like to come back to my security sprints. This time, I'm talking about something I've been reading and studying about recently, Open Security Controller for open networking.

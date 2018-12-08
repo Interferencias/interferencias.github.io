@@ -4,7 +4,7 @@ title: ¡Libera tu móvil!
 author: josealberto4444
 image:
   feature: banners/header.jpg
-tags: movil software-libre replicant lineageOS
+tags: movil software-libre replicant lineageos
 ---
 
 ¡Hola! Hoy os venimos a hablar de móviles, una de las claves de la vigilancia masiva en el tiempo que estamos.

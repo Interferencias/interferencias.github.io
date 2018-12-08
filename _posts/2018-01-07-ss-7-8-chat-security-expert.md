@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 7 &#58 8 - A chat with a security expert
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: interview security
+tags: entrevista seguridad
 ---
 
 **Guille Hartek** is a spanish computer engineer working in security. I met him a year ago when he accepted to give a speech in a security event which our privacy and digital rights awareness group organized. He writes about security in "[Follow the White Rabbit](https://www.fwhibbit.es/)", a spanish blog about security which won a national prize. Today, I'm writing down a quick interview with him. As he doesn't want me to put a picture of him, I will leave here this vague sketch I made:

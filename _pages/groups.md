@@ -2,7 +2,7 @@
 layout: page
 title: Grupos y soporte / Groups and support
 permalink: /groups/
-description: "Información para grupos."
+description: "Información para grupos"
 image:
   feature: banners/header.jpg
 timing: false

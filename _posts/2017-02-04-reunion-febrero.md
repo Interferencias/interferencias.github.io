@@ -4,7 +4,7 @@ title: Resumen de la reunión de Febrero
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: reunion
+tags: quedadas
 ---
 
 # Reunión de interferencias

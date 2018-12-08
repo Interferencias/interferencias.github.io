@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 2 - Choosing a nice point to sniff and using tcp
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: command linux project security
+tags: linux seguridad
 ---
 
 As my second week in my security intensive study a huge opportunity appeared in my life! Casually, I've been asked to guide a group of students into Network monitoring and Forensic, which is already my favourite security module. I wanted to study in a wider range, [as I already said in week one](https://dev.to/terceranexus6/security-sprint-week-1---my-project-and-first-studies-1ko), but right now I should put most of my efforts in the group goals, also I'm excited with the opportunity of learning from these guys.

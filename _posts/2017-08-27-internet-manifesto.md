@@ -4,7 +4,7 @@ title: Internet manifesto
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: opinion censorship internet privacy
+tags: opinion censura internet privacidad
 ---
 
 Last night I wrote a manifesto trying to sum up all my thoughts in my internet censorship investigation. As I made it completely out of the blue as a sketch it was in my mother tongue (spanish) but today I decided to translate it, just in case anyone who don't speak spanish wanted to read it. The original is in [this](http://terceranexus6.github.io/textos/manifiesto.txt) link. Please feel free to share your thoughts on this! I'd love to read them.

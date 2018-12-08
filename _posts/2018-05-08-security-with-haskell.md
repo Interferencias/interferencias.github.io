@@ -4,7 +4,7 @@ title: Security with Haskell
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: security haskell functional
+tags: seguridad haskell programación-funcional
 ---
 
 From "*you are crazy*" to "*why even?*" are some of the things my friends in the computer science environment have told me when I started working with Haskell in general and security in particular. Answering in order, yes I'm crazy but not because of Haskell and well, there's a reason why I chose to use Haskell for security. First of all, functional programming *is the new black* and probably more and more apps will be build using it. Choosing a pure functional language for security is not that crazy. On the other hand, the mathematical approaching Haskell has is very useful in cryptography.

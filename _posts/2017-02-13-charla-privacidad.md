@@ -4,7 +4,7 @@ title: Te espían, te estudian, te controlan, dale importancia a tu privacidad e
 author: germaaan
 image:
   feature: banners/header.jpg
-tags: charla privacidad
+tags: charlas privacidad
 ---
 
 **miércoles 15 de febrero de 2017**

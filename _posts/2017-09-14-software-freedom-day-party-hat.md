@@ -4,7 +4,7 @@ title: Software Freedom Day party hat
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: funny gnu freedom software
+tags: gnu libertad software
 ---
 
 This Saturday (September 16th) is Software Freedom Day, and for this special day I created a [repo](https://github.com/terceranexus6/GorritoSoftwareFreedomDay) with a surprise, a printable pdf party hat. This is the image of the party hat:

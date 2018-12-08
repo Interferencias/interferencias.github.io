@@ -4,7 +4,7 @@ title: Privacy level up!
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: security privacy setup linux
+tags: seguridad privacidad linux
 ---
 
 A computer for an ordinary user seems to need very less. User friendly interface, fast processing, internet connection, basic office pack, maybe a couple of games... Not a big deal. Most of these computers comes with windows already installed and antivirus, too.

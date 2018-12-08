@@ -4,7 +4,7 @@ title: Resumen de la reunión de enero
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: reunion
+tags: quedadas
 ---
 
 El pasado **sábado día 14 de enero de 2017** hicimos la primera reunión del año de interferencias. Primero resumimos brevemente la reunión de diciembre, y anotamos algunos puntos importantes.

@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 9 - Privacy politics and the Internet
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: discuss security web w3c
+tags: discusiones seguridad web w3c
 ---
 
 By chance I discovered an old World Wide Web consortium (W3C) [project](https://www.w3.org/TR/P3P11/) that has been abandoned for a while. Platform for Privacy Preferences Project (**P3P**) is supposed to be a protocol which gives the opportunity to declare the intended usage of collected information of web browser users in specific pages, in order to make a standardized way of protecting user privacy. At first I thought this was a wonderful idea, and reminded me a lot of the cookies policies problems. This should be an example of syntax of statements for policy (taken from Web Privacy with P3P by Lorrie Faith Cranor, O'reilly):

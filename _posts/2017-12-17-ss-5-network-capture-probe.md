@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 5 - Network Capture Probe with Raspberry
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: network nsm security english hacking raspberrypi
+tags: networking nsm seguridad hacking raspberry-pi
 ---
 
 Recently something amazing was added in my university's library: you can ask not only for for books but also for electronic programming bundles such as Raspberry or Arduino kits. I decided to take a Raspberry Pi kit in order to make an experiment: a **network capture probe**.

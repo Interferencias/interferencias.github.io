@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 10 &#38 11 - Bluetooth hacking experiment and op
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: hacking bluetooth security english mitm python
+tags: hacking bluetooth seguridad mitm python
 ---
 
 I've been quite in many things lately, which didn't allow me to study all I wanted to. I'm mainly in two things, distributed ledger experiments and hardware. But I've had in mind a **hacking experiment** for quite a long time, and finally I decided to try it. It's a **Man In The Middle** attack (or sniffing) over bluetooth connections using a python repository, I think I will omit _for what_ I wanted to know that.

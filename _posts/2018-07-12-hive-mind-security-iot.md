@@ -4,7 +4,7 @@ title: Hive mind, no, not aliens, we are talking about hardware!
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags:  iot security ubiquitous
+tags: iot seguridad ubiquitous-computing
 ---
 
 <img src="{{ site.url }}/assets/images/dev.to/alien.gif" style="display: block; margin: 0 auto;">

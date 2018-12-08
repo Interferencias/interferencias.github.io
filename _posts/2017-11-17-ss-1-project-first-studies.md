@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 1 - My project and first studies
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: project infosec sniffing security
+tags: infosec sniffing seguridad
 ---
 
 I'm very interested in **cybersecurity** and I'm studying it on my own alongside computer engineering. In order to improve this research, I decided to organize an intense *studying sprint* in cybersec, and jumping into "semi professional" projects, using Zerodium and similar. Before presenting a formal vulnerability to these pages, I want to prepare myself. I'm used to work with Network System Monitoring and similar, but I want to reach a wider action zone.

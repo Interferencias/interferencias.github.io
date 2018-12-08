@@ -4,7 +4,7 @@ title: Internet censorship device
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: python arduino rights censorship
+tags: python arduino censura
 ---
 
 I spent my day in creating an arduino toy I want to use in an incoming speech I'll give in a sec convention, about internet censorship.

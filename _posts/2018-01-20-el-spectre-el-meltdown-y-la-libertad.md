@@ -4,7 +4,7 @@ title: El Spectre, el Meltdown y la Libertad
 author: germaaan
 image:
   feature: banners/header.jpg
-tags: mundo-libre vulnerabilidades
+tags: open-source vulnerabilidades
 ---
 
 Mucho se ha hablado últimamente de las vulnerabilidades Spectre y Meltdown que se han encontrado recientemente en una gran cantidad de microprocesadores modernos (como el [artículo](https://www.fwhibbit.es/spectre-y-meltdown) de nuestro amigo [Hartek](https://twitter.com/guille_hartek) de Follow The White Rabbit). Aunque estas vulnerabilidades han afectado a procesadores de todo tipo, hay una empresa que ha quedado especialmente señalada: **Intel**.
@@ -26,12 +26,3 @@ Que los sistemas sean cerrados es un problema, que no existan sistemas abiertos 
 Además, la **hipocresía** es incluso mayor cuando vemos que Intel usa para todo esto sistemas operativos como Minix, un sistema operativo libre que por usar una _licencia libre débil_ como es la BSD, permite usar algo hecho de forma desinteresada (y en este caso, para más inri, con objetivos pedagógicos) para restringir el uso de algo que nos pertenece, nuestro propio ordenador. Precisamente para evitar estas paradojas tecnológicas, desde la FSF recomiendan que siempre usemos para nuestros proyectos _licencias libres fuertes_ como la GNU GPLv3 y posteriores, porque aunque pueda sonar restrictivo y contrario a la idea de tener una _"completa libertad"_, aquí vemos que que el software libre se pueda cerrar puede ser contraproducente a la hora de fomentar el propio software libre.
 
 La esperanza que nos queda es que siempre habrá gente con devoción, que ya sea porque su trabajo se lo permita o porque no le importa _"sacrificar"_ su tiempo por el beneficio de tener una sociedad tecnológica libre, tarde o temprano consigue con un enorme esfuerzo romper estas restricciones para tener la opción de precisamente eso: **tener opciones**.
-
-
-
-
-
-
-
-
-

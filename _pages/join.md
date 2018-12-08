@@ -2,7 +2,7 @@
 layout: page
 title: Cómo unirme / How to join
 permalink: /join/
-description: "Información para unirse al grupo."
+description: "Información para unirse al grupo"
 image:
   feature: banners/header.jpg
 timing: false

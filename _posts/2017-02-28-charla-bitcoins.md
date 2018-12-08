@@ -4,7 +4,7 @@ title: Charla sobre Bitcoins, la moneda del futuro
 author: germaaan
 image:
   feature: banners/header.jpg
-tags: charla bitcoin
+tags: charlas bitcoins
 ---
 
 El Bitcoin es una moneda que podemos usar en nuestras compras como cualquier otra, pero con la diferencia de que los Bitcoins son una divisa eletrónica cuyas ventajas principales son su seguridad y sus facilidad para ser intercambiadas. Además, es una moneda descentralizada, que no depende de ningún gran emisor central como las monedas tradicionales, si no que es producidad por personas y empresas de todo el mundo que a través de la minería generan una gran inversión en informática (lo que además asegura la red).

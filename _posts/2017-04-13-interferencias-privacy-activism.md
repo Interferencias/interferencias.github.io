@@ -4,7 +4,7 @@ title: Interferencias, privacy activism
 author: terceranexus6
 image:
   feature: dev.to/bu07guz8ak2nm4qdfwnu.png
-tags: interferencias privacy spain security
+tags: privacidad españa seguridad
 ---
 
 [Interferencias](https://interferencias.github.io) is a group based in Spain that started on September of 2016. The idea of the group started with the concern of some students at the university about their data and their privacy. Starting in Granada, there were already a lot of speeches and tech events in the city, so we decided to launch our message in these meetings. We started giving speeches about privacy and security, and having a monthly meeting to discuss news, advances and curiosities related to our main topics.

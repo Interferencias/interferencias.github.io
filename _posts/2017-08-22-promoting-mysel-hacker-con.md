@@ -4,7 +4,7 @@ title: Promoting myself in a Hacker Con
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: tattoo qr promoting hacker
+tags: tatuaje qr hacker
 ---
 
 I'm giving a speech in September in Valencia, Spain, about **Internet Censorship and how to fight against it**. But the event itself is a huge opportunity to meet people interested in **hacking, security and even find job opportunities**. So I struggled to think a way to make myself noticed. I spent a while thinking the most geek things, and I selected a few of them, now I'm sharing one:

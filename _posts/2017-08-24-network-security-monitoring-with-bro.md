@@ -4,7 +4,7 @@ title: Network Security Monitoring with bro
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: tutorial linux security network
+tags: tutorial linux seguridad networking
 ---
 
 Recently I've been studying about Network Security. For a year, I've been using ettercap for pentesting and investigation, I even wrote a [Lex app](https://github.com/terceranexus6/proyecto_lex) for it, but recently I've found a tool which is pretty similar but way better, logs are pretty organized and have better commands. I must say I will be using linux, there are options for network monitoring in Windows, but I'm not going to talk about them in this article.

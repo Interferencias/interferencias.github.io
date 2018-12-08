@@ -4,7 +4,7 @@ title: The importance of Human security
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: education discuss security
+tags: educación seguridad
 ---
 
 I'm a very chaotic person, and I tend to forget the date for returning books to the library, for example. The last time I went to the local library, I wanted to take out a book, but apparently my library id-card was very old (I still had the junior card) and the new library assistant asked me to change it. In the process, I felt quite insecure to whom I was **giving my information to**. To start with, all the system seemed to rely on Windows 95, which already gave me the thrills, but apart from that, all the process (mid digital, mid paper writing) seemed poor.

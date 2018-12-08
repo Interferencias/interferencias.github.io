@@ -4,7 +4,7 @@ title: Fun with secrets
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: security maths cryptography
+tags: seguridad matemáticas criptografía
 ---
 
 Security in computer science is a huge point every individual and company. Communications (either between humans or human-network or whichever online communication) are susceptible to be sniffed or manipulated.

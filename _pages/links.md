@@ -2,7 +2,7 @@
 layout: page
 title: Enlaces y recursos / Links and resources
 permalink: /links/
-description: "Enlaces de interés."
+description: "Enlaces de interés"
 image:
   feature: banners/header.jpg
 timing: false

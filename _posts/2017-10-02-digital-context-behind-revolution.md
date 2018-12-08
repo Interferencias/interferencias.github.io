@@ -4,7 +4,7 @@ title: Digital context behind revolution
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: censorship digital domain networks
+tags: censura digital networking
 ---
 
 I'm not very comfortable speaking about politics, And I won't, as this is not the place to write about it. But I got very interested in the digital role of yesterday. Please! **I completely discourage political comments**, I'm just trying to create a technical analysis, and this is a technology blog!

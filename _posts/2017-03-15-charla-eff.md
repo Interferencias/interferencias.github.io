@@ -4,7 +4,7 @@ title: Electronic Frontier Foundation, defendiendo tus derechos en el mundo digi
 author: germaaan
 image:
   feature: banners/header.jpg
-tags: charla eff
+tags: charlas eff
 ---
 
 La [Electronic Frontier Foundation](https://www.eff.org/es) es una organización sin ánimo de lucro con el objetivo declarado de dedicar sus esfuerzos a conservar los derechos de libertad de expresión en el ámbito de Internet. Su inicio se remonta al año 1990 en Estados Unidos, cuando tener una conexión a internet en el propio hogar era algo que no tiene nada que ver a lo que tenemos hoy en día, y además, solo muy pocas personas tenían acceso a la red. Aún así, después que se produjera la filtración de un documento que describía el funcionamiento del servicio 911 de emergencias del país, el Servicio Secreto de los Estados Unidos registró las casas de varias personas invadiendo su privacidad de forma arbitraria, ya que la legislación en esta materia era practicamente inexistente.

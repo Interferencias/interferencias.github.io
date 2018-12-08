@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 4 - CA pairs creation with openssl
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: security english linux certificates security ca
+tags: seguridad linux certificados
 ---
 
 I found a nice topic to write about: **CA pairs creation with openssl in Linux**. A digital certificate tells an application (a browser, for example) that a public key is owned by the one who calls it. This allows relying parties to rely upon signatures made to this public key. OpenSSL is a free and open-source cryptographic library that provides several command-line tools for handling digital certificates. So, for now we are working on `root` so first of all I suggest to `sudo -i` and then do the rest.

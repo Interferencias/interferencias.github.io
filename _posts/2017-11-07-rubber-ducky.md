@@ -4,7 +4,7 @@ title: Rubber Ducky
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: duck hack security
+tags: ducky hack seguridad
 ---
 
 You might have heard about the technique of Ducky debugging in which you tell a rubber ducky your dev problems and then you know how to solve them, but this is not the case, we are talking about *nasty* duckies here, not cute problem solvers ones.

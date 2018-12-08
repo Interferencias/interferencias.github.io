@@ -4,7 +4,7 @@ title: Security Sprint - Falco
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: security docker linux
+tags: seguridad docker linux
 ---
 
 Hello again! Continuing with the security sprint articles, this week I'm going to talk about Falco. Nope! I'm not talking about the musician, I'm referring to an open source tool that allows us to monitor behavioral activity and detect anomalous activity in applications.

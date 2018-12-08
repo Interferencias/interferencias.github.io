@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 3 - Distributed Ledger system and our first Catc
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: bitcoins hacking network security
+tags: bitcoins hacking networking seguridad
 ---
 
 Friday was such an intense day regarding to security. First of all I started investigating for a class assignment about **Distributed Ledger** (as in [Bitcoin](https://dev.to/terceranexus6/bitcoins-d00) system) applied to other things such as energy industry, communication and similar. A distributed ledger is a database held and updated independently by each participant (or node) in a large network. The lacking of central authority makes individual nodes process every transaction, and update the ledger again (for every node).

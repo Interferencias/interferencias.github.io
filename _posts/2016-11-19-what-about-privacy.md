@@ -4,7 +4,7 @@ title: What about privacy?
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: privacy privacy-policies
+tags: privacidad
 ---
 
 ### _(prī′və-sē)_

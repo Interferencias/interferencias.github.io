@@ -4,7 +4,7 @@ title: TAILS Linux
 author: terceranexus6
 image:
   feature: dev.to/d03c63gv4e3ldphwlz28.png
-tags: tails linux operatingsystem japanese
+tags: tails linux sistemas-operativos japonés
 ---
 
 ## General Description

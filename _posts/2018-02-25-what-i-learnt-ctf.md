@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 12 - What I learnt in a CTF
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: security ctf hacking tools
+tags: seguridad ctf hacking tools
 ---
 
 For the ones who are not close to security related slang, **Catch The Flag** is an online hacking game that consist in hacking stego, web, network, etc in order to get passwords (the flags) and catch them all before the rest of the contestants. So through three days, I played one of those organized by my university, with a team mostly dedicated in Network and Forensic study. I won't be explaining all the process here, but I want to point out all the tools I used (most of them brand new for me) for solving the problems.

@@ -4,7 +4,7 @@ title: Security Sprint&#58 Week 6 - Perl, forensic and new limits
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: forensic scripting security perl
+tags: forensic scripting seguridad perl
 ---
 
 Again my weekly security sprints arrives in late, but I hope *not too late* as this time, I'm experimenting with dangerous new horizons, such as [Perl](https://dev.to/jj/introduction-to-grammars-with-perl6-75e) and **Forensics**. I approached to Perl with respect and, yes why not saying it, *fear*. First of all everyone, except my [cloud computing teacher](https://dev.to/jj), warned me about the complexity of this language. Anyway I tried to made it the easy way, and searched for help in an [already prepared script for security](https://github.com/fwaeytens/dnsenum/blob/master/dnsenum.pl) I found on GitHub. The script is quite clear and organized which helped me to both learn perl and study security applications with it. For example, for doing a basic monitoring getting hosts' addresses:

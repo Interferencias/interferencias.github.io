@@ -4,7 +4,7 @@ title: ネットワークの監視
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: japanese security linux
+tags: japonés seguridad linux
 ---
 
 ネットワークの監視の学過ぎ問題の保証見つける だろう。ネットワークの監視はあまり難しくないです。あなたはLINUXとBRO要ろう。

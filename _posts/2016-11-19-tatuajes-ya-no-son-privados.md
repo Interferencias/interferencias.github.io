@@ -6,7 +6,7 @@ translator: nacheteam
 original: https://interferencias.github.io/2016/11/19/tattoos-no-longer-private
 image:
   feature: banners/header.jpg
-tags: tatuaje privacidad criminal preso traducción
+tags: privacidad
 ---
 
 ### Cuando la Distopía de la Ciencia Ficción se vuelve real

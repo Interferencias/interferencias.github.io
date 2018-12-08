@@ -4,7 +4,7 @@ title: Reunión de Junio
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: reunion
+tags: quedadas
 ---
 
 **Resumen de la reunión del 3 de Junio de 2017**

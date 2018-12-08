@@ -4,7 +4,7 @@ title: Resumen reunión de diciembre de 2016
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: reunion
+tags: quedadas
 ---
 
 El 17 de diciembre de tuvimos la última reunión del año y se trataron varios temas, principalmente se dieron ideas de actividades, eventos y charlas para el nuevo año.

@@ -4,7 +4,7 @@ title:  Welcome to Los Angeles 2019
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: future ubiquitous iot security
+tags: futuro ubiquitous-computing iot seguridad
 ---
 
 ## The future is now

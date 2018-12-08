@@ -4,7 +4,7 @@ title: Taller de anonimato
 author: terceranexus6
 image:
   feature: banners/header.jpg
-tags: anonimato taller tor raspberry-pi tails
+tags: talleres anonimato tor raspberry-pi tails gpg
 ---
 
 El próximo **miércoles 14 de diciembre** en la ETSIIT (Escuela Técnica Superior de Ingenierías Informática y de Telecomunicación) a las **12:30** en el la **Sala de Usos Múltiples** haremos un taller de anonimato impartido por [Psicobyte](https://twitter.com/psicobyte_), [Germán](https://twitter.com/germaaan_) y [yo](https://twitter.com/Terceranexus6).
